@@ -6,6 +6,46 @@ body {
     margin: 0;
     padding: 0;
 }
+
+
+/* Sticky Nav Styles */
+.sticky-nav {
+    position: sticky;
+    top: 0;
+    background-color: #333;
+    padding: 10px 0;
+    z-index: 1000;
+}
+
+.sticky-nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.sticky-nav ul li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.sticky-nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.sticky-nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Other styles remain the same */
+
+
+
+
+
+
+
 h1 {
     font-family: "whisper", "Roboto", Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight:bolder;
@@ -21,6 +61,18 @@ header {
     padding: 1rem;
     text-align: center;
 }
+
+.parallax-header {
+    position: relative;
+    background-image: url(''); /* Replace 'header-image.jpg' with your image path */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px; /* Adjust the height as needed */
+    
+}
+
 
 #toggleDropdown {
     background-color: #555;
