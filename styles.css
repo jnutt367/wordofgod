@@ -71,7 +71,7 @@ header {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 600px; /* Adjust the height as needed */
+    height: 800px; /* Adjust the height as needed */
     
 }
 
@@ -136,11 +136,11 @@ header {
 
 
 
-@media (min-width: 769px) {
+@media (min-width: 1024px) {
     #risen {
         position: relative;
-        left: 600px;
-        top: -40px;
+        top: -300px;
+        left: 240px;
         align-self: center;
         transition: 1s;
     }
