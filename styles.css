@@ -32,11 +32,12 @@ main {
 }
 
 .sticky-nav ul li a {
-    color: #fff;
+    color: green;
     text-decoration: none;
 }
 
 .sticky-nav ul li a:hover {
+    color: gold;
     text-decoration: underline;
 }
 
@@ -88,7 +89,7 @@ header {
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #f9f9f9;
+    background-color: #d5b9b9;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
     z-index: 1;
@@ -102,7 +103,7 @@ header {
 }
 
 .dropdown-content a:hover {
-    background-color: #ddd;
+    background-color: #100707;
 }
 
 /* Book Card Styles */
@@ -135,7 +136,7 @@ header {
 }
 
 
-
+/*
 @media (min-width: 1024px) {
     #risen {
         position: relative;
@@ -145,3 +146,4 @@ header {
         transition: 1s;
     }
 }
+*/
