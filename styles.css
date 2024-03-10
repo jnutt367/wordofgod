@@ -13,9 +13,9 @@ h1 {
 }
 /* Header Styles */
 header {
-    background-image: url("first_john.png");
+    background-image: url("bg-wordofgod.gif");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:cover;
     background-color: #333;
     color: #fff;
     padding: 1rem;
