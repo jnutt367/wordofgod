@@ -77,11 +77,12 @@ header {
 
 
 #toggleDropdown {
-    background-color: #555;
+    background-color: #cf4e4e;
     color: #fff;
     border: none;
     padding: 0.5rem 1rem;
     cursor: pointer;
+    z-index: 10;
 }
 
 .dropdown-content {
@@ -131,4 +132,16 @@ header {
 
 .book-card p {
     margin-bottom: 0;
+}
+
+
+
+@media (min-width: 769px) {
+    #risen {
+        position: relative;
+        left: 600px;
+        top: -40px;
+        align-self: center;
+        transition: 1s;
+    }
 }
