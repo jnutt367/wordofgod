@@ -1,0 +1,336 @@
+{
+    "books": [
+      {
+        "title": "Genesis",
+        "image": "ephesian_cards.png",
+        "description": "In the beginning, God created the Heavens and the Earth. So God created mankind in his own image, in the image of God he created them; male and female he created them.",
+        "link": "https://mytorah.vercel.app/"
+    },
+      {
+        "title": "Exodus",
+        "image": "second_samuel.png",
+        "description": "Honor your father and your mother, so that you may live long in the land the Lord your God is giving you."
+      },
+      {
+        "title": "Leviticus",
+        "image": "peter_hero.png",
+        "description": "Do not seek revenge or bear a grudge against anyone among your people, but love your neighbor as yourself. I am the Lord."
+      },
+      {
+        "title": "Numbers",
+        "image": "hand_cupped.png",
+        "description": "The Lord is slow to anger, abounding in love and forgiving sin and rebellion. Yet he does not leave the guilty unpunished"
+      },
+      {
+        "title": "Deuteronomy",
+        "image": "kings.png",
+        "description": "Hear, O Israel: The Lord our God, the Lord is one. Love the Lord your God with all your heart and with all your soul and with all your strength."
+      },
+      {
+        "title": "Joshua",
+        "image": "peter2.png",
+        "description": "But if serving the Lord seems undesirable to you, then choose for yourselves this day whom you will serve,"
+      },
+      {
+        "title": "Judges",
+        "image": "images/judges.jpg",
+        "description": "The seventh book of the Bible."
+      },
+      {
+        "title": "Ruth",
+        "image": "images/ruth.jpg",
+        "description": "The eighth book of the Bible."
+      },
+      {
+        "title": "1 Samuel",
+        "image": "images/1_samuel.jpg",
+        "description": "The ninth book of the Bible."
+      },
+      {
+        "title": "2 Samuel",
+        "image": "images/2_samuel.jpg",
+        "description": "The tenth book of the Bible."
+      },
+      {
+        "title": "1 Kings",
+        "image": "images/1_kings.jpg",
+        "description": "The eleventh book of the Bible."
+      },
+      {
+        "title": "2 Kings",
+        "image": "images/2_kings.jpg",
+        "description": "The twelfth book of the Bible."
+      },
+      {
+        "title": "1 Chronicles",
+        "image": "images/1_chronicles.jpg",
+        "description": "The thirteenth book of the Bible."
+      },
+      {
+        "title": "2 Chronicles",
+        "image": "images/2_chronicles.jpg",
+        "description": "The fourteenth book of the Bible."
+      },
+      {
+        "title": "Ezra",
+        "image": "images/ezra.jpg",
+        "description": "The fifteenth book of the Bible."
+      },
+      {
+        "title": "Nehemiah",
+        "image": "images/nehemiah.jpg",
+        "description": "The sixteenth book of the Bible."
+      },
+      {
+        "title": "Esther",
+        "image": "images/esther.jpg",
+        "description": "The seventeenth book of the Bible."
+      },
+      {
+        "title": "Job",
+        "image": "images/job.jpg",
+        "description": "The eighteenth book of the Bible."
+      },
+      {
+        "title": "Psalms",
+        "image": "images/psalms.jpg",
+        "description": "The nineteenth book of the Bible."
+      },
+      {
+        "title": "Proverbs",
+        "image": "images/proverbs.jpg",
+        "description": "The twentieth book of the Bible."
+      },
+      {
+        "title": "Ecclesiastes",
+        "image": "images/ecclesiastes.jpg",
+        "description": "The twenty-first book of the Bible."
+      },
+      {
+        "title": "Song of Solomon",
+        "image": "images/song_of_solomon.jpg",
+        "description": "The twenty-second book of the Bible."
+      },
+      {
+        "title": "Isaiah",
+        "image": "images/isaiah.jpg",
+        "description": "The twenty-third book of the Bible."
+      },
+      {
+        "title": "Jeremiah",
+        "image": "images/jeremiah.jpg",
+        "description": "The twenty-fourth book of the Bible."
+      },
+      {
+        "title": "Lamentations",
+        "image": "images/lamentations.jpg",
+        "description": "The twenty-fifth book of the Bible."
+      },
+      {
+        "title": "Ezekiel",
+        "image": "images/ezekiel.jpg",
+        "description": "The twenty-sixth book of the Bible."
+      },
+      {
+        "title": "Daniel",
+        "image": "images/daniel.jpg",
+        "description": "The twenty-seventh book of the Bible."
+      },
+      {
+        "title": "Hosea",
+        "image": "images/hosea.jpg",
+        "description": "The twenty-eighth book of the Bible."
+      },
+      {
+        "title": "Joel",
+        "image": "images/joel.jpg",
+        "description": "The twenty-ninth book of the Bible."
+      },
+      {
+        "title": "Amos",
+        "image": "images/amos.jpg",
+        "description": "The thirtieth book of the Bible."
+      },
+      {
+        "title": "Obadiah",
+        "image": "images/obadiah.jpg",
+        "description": "The thirty-first book of the Bible."
+      },
+      {
+        "title": "Jonah",
+        "image": "images/jonah.jpg",
+        "description": "The thirty-second book of the Bible."
+      },
+      {
+        "title": "Micah",
+        "image": "images/micah.jpg",
+        "description": "The thirty-third book of the Bible."
+      },
+      {
+        "title": "Nahum",
+        "image": "images/nahum.jpg",
+        "description": "The thirty-fourth book of the Bible."
+      },
+      {
+        "title": "Habakkuk",
+        "image": "images/habakkuk.jpg",
+        "description": "The thirty-fifth book of the Bible."
+      },
+      {
+        "title": "Zephaniah",
+        "image": "images/zephaniah.jpg",
+        "description": "The thirty-sixth book of the Bible."
+      },
+      {
+        "title": "Haggai",
+        "image": "images/haggai.jpg",
+        "description": "The thirty-seventh book of the Bible."
+      },
+      {
+        "title": "Zechariah",
+        "image": "images/zechariah.jpg",
+        "description": "The thirty-eighth book of the Bible."
+      },
+      {
+        "title": "Malachi",
+        "image": "images/malachi.jpg",
+        "description": "The thirty-ninth book of the Bible."
+      },
+      {
+        "title": "Matthew",
+        "image": "images/matthew.jpg",
+        "description": "The fortieth book of the Bible."
+      },
+      {
+        "title": "Mark",
+        "image": "images/mark.jpg",
+        "description": "The forty-first book of the Bible."
+      },
+      {
+        "title": "Luke",
+        "image": "images/luke.jpg",
+        "description": "The forty-second book of the Bible."
+      },
+      {
+        "title": "John",
+        "image": "images/john.jpg",
+        "description": "The forty-third book of the Bible."
+      },
+      {
+        "title": "Acts",
+        "image": "images/acts.jpg",
+        "description": "The forty-fourth book of the Bible."
+      },
+      {
+        "title": "Romans",
+        "image": "images/romans.jpg",
+        "description": "The forty-fifth book of the Bible."
+      },
+      {
+        "title": "1 Corinthians",
+        "image": "images/1_corinthians.jpg",
+        "description": "The forty-sixth book of the Bible."
+      },
+      {
+        "title": "2 Corinthians",
+        "image": "images/2_corinthians.jpg",
+        "description": "The forty-seventh book of the Bible."
+      },
+      {
+        "title": "Galatians",
+        "image": "images/galatians.jpg",
+        "description": "The forty-eighth book of the Bible."
+      },
+      {
+        "title": "Ephesians",
+        "image": "images/ephesians.jpg",
+        "description": "The forty-ninth book of the Bible."
+      },
+      {
+        "title": "Philippians",
+        "image": "images/philippians.jpg",
+        "description": "The fiftieth book of the Bible."
+      },
+      {
+        "title": "Colossians",
+        "image": "images/colossians.jpg",
+        "description": "The fifty-first book of the Bible."
+      },
+      {
+        "title": "1 Thessalonians",
+        "image": "images/1_thessalonians.jpg",
+        "description": "The fifty-second book of the Bible."
+      },
+      {
+        "title": "2 Thessalonians",
+        "image": "images/2_thessalonians.jpg",
+        "description": "The fifty-third book of the Bible."
+      },
+      {
+        "title": "1 Timothy",
+        "image": "images/1_timothy.jpg",
+        "description": "The fifty-fourth book of the Bible."
+      },
+      {
+        "title": "2 Timothy",
+        "image": "images/2_timothy.jpg",
+        "description": "The fifty-fifth book of the Bible."
+      },
+      {
+        "title": "Titus",
+        "image": "images/titus.jpg",
+        "description": "The fifty-sixth book of the Bible."
+      },
+      {
+        "title": "Philemon",
+        "image": "images/philemon.jpg",
+        "description": "The fifty-seventh book of the Bible."
+      },
+      {
+        "title": "Hebrews",
+        "image": "images/hebrews.jpg",
+        "description": "The fifty-eighth book of the Bible."
+      },
+      {
+        "title": "James",
+        "image": "images/james.jpg",
+        "description": "The fifty-ninth book of the Bible."
+      },
+      {
+        "title": "1 Peter",
+        "image": "images/1_peter.jpg",
+        "description": "The sixtieth book of the Bible."
+      },
+      {
+        "title": "2 Peter",
+        "image": "images/2_peter.jpg",
+        "description": "The sixty-first book of the Bible."
+      },
+      {
+        "title": "1 John",
+        "image": "images/1_john.jpg",
+        "description": "The sixty-second book of the Bible."
+      },
+      {
+        "title": "2 John",
+        "image": "images/2_john.jpg",
+        "description": "The sixty-third book of the Bible."
+      },
+      {
+        "title": "3 John",
+        "image": "images/3_john.jpg",
+        "description": "The sixty-fourth book of the Bible."
+      },
+      {
+        "title": "Jude",
+        "image": "images/jude.jpg",
+        "description": "The sixty-fifth book of the Bible."
+      },
+      {
+        "title": "Revelation",
+        "image": "images/revelation.jpg",
+        "description": "The sixty-sixth book of the Bible."
+      }
+    ]
+  }
+  

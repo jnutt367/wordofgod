@@ -51,9 +51,9 @@ window.onload = function() {
         booksContainer.appendChild(bookCard);
     });
 };
-//
 
 
 
+// finding it difficult to get both dropdown AND data fetching to work but BOTH are working on their own so that is progress
 
 
