@@ -1,5 +1,5 @@
 // Books data
-const books = [
+//const books = [
     "Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy",
     "Joshua", "Judges", "Ruth", "1 Samuel", "2 Samuel",
     "1 Kings", "2 Kings", "1 Chronicles", "2 Chronicles", "Ezra",
@@ -14,7 +14,7 @@ const books = [
     "Titus", "Philemon", "Hebrews", "James", "1 Peter",
     "2 Peter", "1 John", "2 John", "3 John", "Jude",
     "Revelation"
-];
+//];
 
 // Toggle dropdown menu
 document.getElementById("toggleDropdown").addEventListener("click", function() {
@@ -51,7 +51,7 @@ window.onload = function() {
         booksContainer.appendChild(bookCard);
     });
 };
-
+//
 
 
 
