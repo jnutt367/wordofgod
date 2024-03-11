@@ -136,14 +136,10 @@ header {
 }
 
 
-/*
+
 @media (min-width: 1024px) {
-    #risen {
-        position: relative;
-        top: -300px;
-        left: 240px;
-        align-self: center;
-        transition: 1s;
+    header {
+        background-image: url("mountain_top.png");
+
     }
 }
-*/
