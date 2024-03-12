@@ -3,7 +3,7 @@
       {
         "title": "Genesis",
         "image": "images/ephesian_cards.png",
-        "description": "In the beginning, God created the Heavens and the Earth. Now the earth was formless and empty ... and the Spirit of God was hovering over the waters.",
+        "description": "In the beginning, God created the Heavens and the Earth. ... and the Spirit of God was hovering over the waters.",
         "link": "https://genesis1.vercel.app/"
     },
       {
@@ -15,7 +15,7 @@
       {
         "title": "Leviticus",
         "image": "images/peter_hero.png",
-        "description": "Do not seek revenge or bear a grudge against anyone among your people, but love your neighbor as yourself. I am the Lord."
+        "description": "Don't seek revenge | bear a grudge against anyone among your people, love your neighbor as yourself. I am the Lord."
       },
       {
         "title": "Numbers",
@@ -25,7 +25,7 @@
       {
         "title": "Deuteronomy",
         "image": "images/kings.png",
-        "description": "Hear, O Israel: The Lord our God, the Lord is one. Love the Lord your God with all your heart and with all your soul and with all your strength."
+        "description": "Hear, O Israel, The Lord our God, the Lord is one. Love the Lord your God with all your heart & soul & all your strength"
       },
       {
         "title": "Joshua",
@@ -69,268 +69,268 @@
       },
       {
         "title": "2 Chronicles",
-        "image": "images/2_chronicles.jpg",
-        "description": "The fourteenth book of the Bible."
+        "image": "images/red-framed-heart.png",
+        "description": "The fourteenth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4?"
       },
       {
         "title": "Ezra",
-        "image": "images/ezra.jpg",
-        "description": "The fifteenth book of the Bible."
+        "image": "images/glowheart.png",
+        "description": "The fifteenth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "Nehemiah",
-        "image": "images/nehemiah.jpg",
-        "description": "The sixteenth book of the Bible."
+        "image": "images/heartraised.png",
+        "description": "The sixteenth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "Esther",
-        "image": "images/esther.jpg",
-        "description": "The seventeenth book of the Bible."
+        "image": "images/colorfieldsheart.png",
+        "description": "The seventeenth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4..."
       },
       {
         "title": "Job",
         "image": "images/job.jpg",
-        "description": "The eighteenth book of the Bible."
+        "description": "The eighteenth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "Psalms",
         "image": "images/psalms.jpg",
-        "description": "The nineteenth book of the Bible."
+        "description": "The nineteenth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4..."
       },
       {
         "title": "Proverbs",
         "image": "images/proverbs.jpg",
-        "description": "The twentieth book of the Bible."
+        "description": "The twentieth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4..."
       },
       {
         "title": "Ecclesiastes",
         "image": "images/ecclesiastes.jpg",
-        "description": "The twenty-first book of the Bible."
+        "description": "The twenty-first book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "Song of Solomon",
         "image": "images/song_of_solomon.jpg",
-        "description": "The twenty-second book of the Bible."
+        "description": "The twenty-second book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4..."
       },
       {
         "title": "Isaiah",
         "image": "images/isaiah.jpg",
-        "description": "The twenty-third book of the Bible."
+        "description": "The twenty-third book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4..."
       },
       {
         "title": "Jeremiah",
         "image": "images/jeremiah.jpg",
-        "description": "The twenty-fourth book of the Bible."
+        "description": "The twenty-fourth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "Lamentations",
         "image": "images/lamentations.jpg",
-        "description": "The twenty-fifth book of the Bible."
+        "description": "The twenty-fifth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4..."
       },
       {
         "title": "Ezekiel",
         "image": "images/ezekiel.jpg",
-        "description": "The twenty-sixth book of the Bible."
+        "description": "The twenty-sixth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4..."
       },
       {
         "title": "Daniel",
         "image": "images/daniel.jpg",
-        "description": "The twenty-seventh book of the Bible."
+        "description": "The twenty-seventh book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "Hosea",
         "image": "images/hosea.jpg",
-        "description": "The twenty-eighth book of the Bible."
+        "description": "The twenty-eighth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "Joel",
         "image": "images/joel.jpg",
-        "description": "The twenty-ninth book of the Bible."
+        "description": "The twenty-ninth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "Amos",
         "image": "images/amos.jpg",
-        "description": "The thirtieth book of the Bible."
+        "description": "The thirtieth book of the Bible.  All of these cards will need to have 3 lines each to match the layout design! Possibly 4..."
       },
       {
         "title": "Obadiah",
         "image": "images/obadiah.jpg",
-        "description": "The thirty-first book of the Bible."
+        "description": "The thirty-first book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "Jonah",
         "image": "images/jonah.jpg",
-        "description": "The thirty-second book of the Bible."
+        "description": "The thirty-second book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "Micah",
         "image": "images/micah.jpg",
-        "description": "The thirty-third book of the Bible."
+        "description": "The thirty-third book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "Nahum",
         "image": "images/nahum.jpg",
-        "description": "The thirty-fourth book of the Bible."
+        "description": "The thirty-fourth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "Habakkuk",
         "image": "images/habakkuk.jpg",
-        "description": "The thirty-fifth book of the Bible."
+        "description": "The thirty-fifth book of the Bible.  All of these cards will need to have 3 lines each to match the layout design! Possibly 4..."
       },
       {
         "title": "Zephaniah",
         "image": "images/zephaniah.jpg",
-        "description": "The thirty-sixth book of the Bible."
+        "description": "The thirty-sixth book of the Bible.  All of these cards will need to have 3 lines each to match the layout design! Possibly 4..."
       },
       {
         "title": "Haggai",
         "image": "images/haggai.jpg",
-        "description": "The thirty-seventh book of the Bible."
+        "description": "The thirty-seventh book of the Bible.  All of these cards will need to have 3 lines each to match the layout design! Possibly 4..."
       },
       {
         "title": "Zechariah",
         "image": "images/zechariah.jpg",
-        "description": "The thirty-eighth book of the Bible."
+        "description": "The thirty-eighth book of the Bible.  All of these cards will need to have 3 lines each to match the layout design! Possibly 4..."
       },
       {
         "title": "Malachi",
         "image": "images/malachi.jpg",
-        "description": "The thirty-ninth book of the Bible."
+        "description": "The thirty-ninth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "Matthew",
         "image": "images/matthew.jpg",
-        "description": "The fortieth book of the Bible."
+        "description": "The fortieth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "Mark",
         "image": "images/mark.jpg",
-        "description": "The forty-first book of the Bible."
+        "description": "The forty-first book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "Luke",
         "image": "images/luke.jpg",
-        "description": "The forty-second book of the Bible."
+        "description": "The forty-second book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "John",
         "image": "images/john.jpg",
-        "description": "The forty-third book of the Bible."
+        "description": "The forty-third book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "Acts",
         "image": "images/acts.jpg",
-        "description": "The forty-fourth book of the Bible."
+        "description": "The forty-fourth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "Romans",
         "image": "images/romans.jpg",
-        "description": "The forty-fifth book of the Bible."
+        "description": "The forty-fifth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "1 Corinthians",
         "image": "images/1_corinthians.jpg",
-        "description": "The forty-sixth book of the Bible."
+        "description": "The forty-sixth book of the Bible.  All of these cards will need to have 3 lines each to match the layout design! Possibly 4..."
       },
       {
         "title": "2 Corinthians",
         "image": "images/2_corinthians.jpg",
-        "description": "The forty-seventh book of the Bible."
+        "description": "The forty-seventh book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "Galatians",
         "image": "images/galatians.jpg",
-        "description": "The forty-eighth book of the Bible."
+        "description": "The forty-eighth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "Ephesians",
         "image": "images/ephesians.jpg",
-        "description": "The forty-ninth book of the Bible."
+        "description": "The forty-ninth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "Philippians",
         "image": "images/philippians.jpg",
-        "description": "The fiftieth book of the Bible."
+        "description": "The fiftieth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "Colossians",
         "image": "images/colossians.jpg",
-        "description": "The fifty-first book of the Bible."
+        "description": "The fifty-first book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "1 Thessalonians",
         "image": "images/1_thessalonians.jpg",
-        "description": "The fifty-second book of the Bible."
+        "description": "The fifty-second book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "2 Thessalonians",
         "image": "images/2_thessalonians.jpg",
-        "description": "The fifty-third book of the Bible."
+        "description": "The fifty-third book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "1 Timothy",
         "image": "images/1_timothy.jpg",
-        "description": "The fifty-fourth book of the Bible."
+        "description": "The fifty-fourth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "2 Timothy",
         "image": "images/2_timothy.jpg",
-        "description": "The fifty-fifth book of the Bible."
+        "description": "The fifty-fifth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "Titus",
         "image": "images/titus.jpg",
-        "description": "The fifty-sixth book of the Bible."
+        "description": "The fifty-sixth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "Philemon",
         "image": "images/philemon.jpg",
-        "description": "The fifty-seventh book of the Bible."
+        "description": "The fifty-seventh book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "Hebrews",
         "image": "images/hebrews.jpg",
-        "description": "The fifty-eighth book of the Bible."
+        "description": "The fifty-eighth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "James",
         "image": "images/james.jpg",
-        "description": "The fifty-ninth book of the Bible."
+        "description": "The fifty-ninth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "1 Peter",
         "image": "images/1_peter.jpg",
-        "description": "The sixtieth book of the Bible."
+        "description": "The sixtieth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "2 Peter",
         "image": "images/2_peter.jpg",
-        "description": "The sixty-first book of the Bible."
+        "description": "The sixty-first book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "1 John",
         "image": "images/1_john.jpg",
-        "description": "The sixty-second book of the Bible."
+        "description": "The sixty-second book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "2 John",
         "image": "images/2_john.jpg",
-        "description": "The sixty-third book of the Bible."
+        "description": "The sixty-third book of the Bible.  All of these cards will need to have 3 lines each to match the layout design! Possibly 4..."
       },
       {
         "title": "3 John",
         "image": "images/3_john.jpg",
-        "description": "The sixty-fourth book of the Bible."
+        "description": "The sixty-fourth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "Jude",
         "image": "images/jude.jpg",
-        "description": "The sixty-fifth book of the Bible."
+        "description": "The sixty-fifth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       },
       {
         "title": "Revelation",
         "image": "images/revelation.jpg",
-        "description": "The sixty-sixth book of the Bible."
+        "description": "The sixty-sixth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
       }
     ]
   }
