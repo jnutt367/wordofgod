@@ -74,7 +74,11 @@ header {
     padding: 1rem;
     text-align: center;
 }
-
+.header-mask {
+    background-color: #0e0e0e;
+    opacity: 0.8;
+    z-index: 10;
+} 
 .parallax-header {
     position: relative;
     background-image: url(''); /* Replace 'header-image.jpg' with your image path */
