@@ -7,6 +7,7 @@ body {
     padding: 0;
 }
 
+
 #framer {
     display: none;
 }
@@ -71,13 +72,13 @@ header {
     background-repeat: no-repeat;
     background-size:cover;
     background-color: #a28787;
-    color: #b5b57c;
+    color: blanchedalmond;
     padding-bottom: 2rem;
     padding: 1rem;
     text-align: center;
 }
 .header-mask {
-    background-color: #f504d1;
+    background-color: #5cf504;
     opacity: 0.9;
     z-index: infinite;
 } 
@@ -168,7 +169,7 @@ a:hover {
     header {
         background-image: url("images/workshop.png");
         opacity: 0.7;
-        color: #c68cbd;
+        color: blanchedalmond;
         padding-bottom: 2rem;
         text-shadow: 3px 1px 1px #0d0c0c;
       
