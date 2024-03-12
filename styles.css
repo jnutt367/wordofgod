@@ -100,7 +100,9 @@ a:hover {
     cursor: pointer;
     z-index: 10;
 }
-
+#toggleDropdown:hover {
+    color:white;
+}
 .dropdown-content {
     display: none;
     position: absolute;
