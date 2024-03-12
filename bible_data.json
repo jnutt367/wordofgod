@@ -4,12 +4,13 @@
         "title": "Genesis",
         "image": "ephesian_cards.png",
         "description": "In the beginning, God created the Heavens and the Earth. Now the earth was formless and empty ... and the Spirit of God was hovering over the waters.",
-        "link": "https://mytorah.vercel.app/"
+        "link": "https://genesis1.vercel.app/"
     },
       {
         "title": "Exodus",
         "image": "second_samuel.png",
-        "description": "Honor your father and your mother, so that you may live long in the land the Lord your God is giving you."
+        "description": "Honor your father and your mother, so that you may live long in the land the Lord your God is giving you.",
+        "link": "https://genesis1.vercel.app/#exodus"
       },
       {
         "title": "Leviticus",
