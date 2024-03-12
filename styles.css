@@ -14,14 +14,14 @@ header {
         text-shadow: 3px 1px #171616;
 }
 main {
-    background-image: linear-gradient(to right, white, rgba(244, 83, 19, 0.75));
+    background-image: linear-gradient(to right, white, rgba(229, 168, 144, 0.75));
 }
 /* Sticky Nav Styles */
 .sticky-nav {
     position: sticky;
     top: 0;
     background-color: #333;
-    background-image: linear-gradient(to right, white, rgba(244, 83, 19, 0.75));
+    background-image: linear-gradient(to right, white, rgba(229, 168, 144, 0.75));
     padding: 10px 0;
     z-index: 1000;
 }
@@ -44,7 +44,7 @@ main {
 }
 
 .sticky-nav ul li a:hover {
-    color: rgb(229, 181, 91);
+    color: rgb(241, 86, 8);
     text-decoration: underline;
 }
 
@@ -84,8 +84,13 @@ header {
     height: 800px; /* Adjust the height as needed */
     
 }
-
-
+a {
+    text-decoration: none;
+    color: #0d0c0c;
+}
+a:hover {
+    color: #a28787;
+}
 #toggleDropdown {
     background-color: #cf4e4e;
     color: #1f1818;
