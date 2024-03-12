@@ -45,7 +45,7 @@ main {
 
 .sticky-nav ul li a:hover {
     color: rgb(241, 86, 8);
-    text-decoration: underline;
+    text-decoration: navajowhite;
 }
 
 /* Other styles remain the same */
@@ -89,7 +89,8 @@ a {
     color: #0d0c0c;
 }
 a:hover {
-    color: #a28787;
+    color:  rgb(241, 86, 8);
+    text-decoration: none;
 }
 #toggleDropdown {
     background-color: #cf4e4e;
