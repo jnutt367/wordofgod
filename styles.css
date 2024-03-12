@@ -54,7 +54,9 @@ main {
 
 
 
-
+#qr {
+    width: 50px;     
+ }
 
 h1 {
     font-family: "whisper", "Roboto", Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -164,7 +166,12 @@ a:hover {
         color: #b5b57c;
         padding-bottom: 2rem;
         text-shadow: 3px 1px 1px #0d0c0c;
+      
     }
+    #qr {
+       width: 50px;     
+    }
+
 }
 
 @media (min-width: 1024px) {
@@ -176,6 +183,13 @@ a:hover {
         background-color: #100707;
         text-shadow: 3px 1px 1px #0d0c0c;
         padding-bottom: 20rem;
+    }
+
+    #qr {
+        position: relative;
+        left: 300px;
+        width: 150px;
+        
     }
   
 }
