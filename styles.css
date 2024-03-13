@@ -78,8 +78,8 @@ header {
     text-align: center;
 }
 .header-mask {
-    background-color: #5cf504;
-    opacity: 0.9;
+    background-color:yellow;
+    opacity: 1;
     z-index: infinite;
 } 
 .parallax-header {
