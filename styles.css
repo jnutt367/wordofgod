@@ -78,7 +78,7 @@ header {
     text-align: center;
 }
 .header-mask {
-    background-color:yellow;
+    background-color: rgb(14, 7, 90);
     opacity: 1;
     z-index: infinite;
 } 
