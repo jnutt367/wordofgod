@@ -27,7 +27,8 @@
       {
         "title": "Deuteronomy",
         "image": "images/kings.png",
-        "description": "Hear, O Israel, The Lord our God, the Lord is one. Love the Lord your God with all your heart & soul & all your strength"
+        "description": "Hear, O Israel, The Lord our God, the Lord is one. Love the Lord your God with all your heart & soul & all your strength",
+        "link": "https://genesis1.vercel.app/#deuteronomy"
       },
       {
         "title": "Joshua",
@@ -117,7 +118,7 @@
       {
         "title": "Isaiah",
         "image": "images/peter2.png",
-        "description": "The twenty-third book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4..."
+        "description": "The ransomed of the Lord will return. They will enter Zion with singing; everlasting joy will crown their heads. "
       },
       {
         "title": "Jeremiah",
@@ -127,7 +128,7 @@
       {
         "title": "Lamentations",
         "image": "images/heart.png",
-        "description": "The twenty-fifth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4..."
+        "description": "For no one is cast off by the Lord forever. Though he brings grief, he will show compassion, so great is his unfailing love."
       },
       {
         "title": "Ezekiel",
