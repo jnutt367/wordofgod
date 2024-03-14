@@ -135,12 +135,15 @@
       {
         "title": "Isaiah",
         "image": "images/peter2.png",
-        "description": "The ransomed of the Lord will return. They will enter Zion with singing; everlasting joy will crown their heads. "
+        "description": "The ransomed of the Lord will return. They will enter Zion with singing; everlasting joy will crown their heads. ",
+       "link":"https://the-revelation.vercel.app/#isaiah"
+
       },
       {
         "title": "Jeremiah",
         "image": "images/first_john_cards.png",
-        "description": "Call to me and I will answer you and tell you great and unsearchable things you do not know."
+        "description": "Call to me and I will answer you and tell you great and unsearchable things you do not know.",
+        "link":"https://the-revelation.vercel.app/"
       },
       {
         "title": "Lamentations",
