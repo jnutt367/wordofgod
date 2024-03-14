@@ -17,7 +17,7 @@ header {
         text-shadow: 3px 1px #171616;
 }
 main {
-    background-image: linear-gradient(to right, white, rgba(229, 168, 144, 0.75));
+    background-image: linear-gradient(to right, rgb(184, 117, 184), rgba(229, 168, 144, 0.75));
 }
 /* Sticky Nav Styles */
 .sticky-nav {
