@@ -33,62 +33,74 @@
       {
         "title": "Joshua",
         "image": "images/peter2.png",
-        "description": " then choose for yourselves this day whom you will serve ... as for me and my household, we will serve the Lord"
+        "description": " then choose for yourselves this day whom you will serve ... as for me and my household, we will serve the Lord",
+        "link": "https://genesis1.vercel.app/#joshua"
       },
       {
         "title": "Judges",
         "image": "images/first_john_cards.png",
-        "description": "And the Angel of the Lord appeared to him and said to him, The Lord is with you, you mighty man of courage"
+        "description": "And the Angel of the Lord appeared to him and said to him, The Lord is with you, you mighty man of courage",
+        "link": "https://genesis1.vercel.app/#judges"
       },
       {
         "title": "Ruth",
         "image": "images/heart.png",
-        "description": "May you be richly rewarded by the Lord, the God of Israel, under whose wings you have come to take refuge."
+        "description": "May you be richly rewarded by the Lord, the God of Israel, under whose wings you have come to take refuge.",
+        "link": "https://genesis1.vercel.app/#ruth"
       },
       {
         "title": "1 Samuel",
         "image": "images/obadiah.png",
-        "description": "There is no one holy like the Lord; there is no one besides you;there is no Rock like our God."
+        "description": "There is no one holy like the Lord; there is no one besides you;there is no Rock like our God.",
+        "link": "https://genesis1.vercel.app/first-samuel"
       },
       {
         "title": "2 Samuel",
         "image": "images/ruth.png",
-        "description": "Though you are little in your own eyes, aren't you the head of the tribes of Israel? The Lord anointed you king over Israel"
+        "description": "Though you are little in your own eyes, aren't you the head of the tribes of Israel? The Lord anointed you king over Israel",
+        "link": "https://genesis1.vercel.app/#second-samuel"
       },
       {
         "title": "1 Kings",
         "image": "images/thessalonians.png",
-        "description": "So be strong, act like a man, and observe what the Lord your God requires: Walk in obedience to him ."
+        "description": "So be strong, act like a man, and observe what the Lord your God requires: Walk in obedience to him .",
+        "link": "https://genesis1.vercel.app/#first-kings"
       },
       {
         "title": "2 Kings",
         "image": "images/greenheart.png",
-        "description": "Don't be afraid. Those  with us are more than those who are with them ..., Open his eyes, LORD, so that he may see"
+        "description": "Don't be afraid. Those  with us are more than those who are with them ..., Open his eyes, LORD, so that he may see",
+        "link": "https://genesis1.vercel.app/#second-kings"
       },
       {
         "title": "1 Chronicles",
         "image": "images/valleyherat.png",
-        "description": "Tell of all his wonderful acts.Glory in his holy name; let the hearts of those who seek the Lord rejoice."
+        "description": "Tell of all his wonderful acts.Glory in his holy name; let the hearts of those who seek the Lord rejoice.",
+        "link": "https://genesis1.vercel.app/#first-chronicles"
       },
       {
         "title": "2 Chronicles",
         "image": "images/red-framed-heart.png",
-        "description": "He gave them these orders: “You must serve faithfully and wholeheartedly in the fear of the Lord. "
+        "description": "He gave them these orders: “You must serve faithfully and wholeheartedly in the fear of the Lord. ",
+        "link": "https://genesis1.vercel.app/#second-chronicles"
       },
       {
         "title": "Ezra",
         "image": "images/glowheart.png",
-        "description": "Despite their fear of the peoples @ them, they built the altar on its foundation & sacrificed burnt offerings on it to the Lord"
+        "description": "Despite their fear of the peoples @ them, they built the altar on its foundation & sacrificed burnt offerings on it to the Lord",
+        "link": "https://genesis1.vercel.app/#ezra"
       },
       {
         "title": "Nehemiah",
         "image": "images/heartraised.png",
-        "description": "Hear us, our God, for we are despised. Turn their insults back on their own heads. Give them over ..."
+        "description": "Hear us, our God, for we are despised. Turn their insults back on their own heads. Give them over ...",
+        "link": "https://genesis1.vercel.app/#nehemiah"
       },
       {
         "title": "Esther",
         "image": "images/colorfieldsheart.png",
-        "description": "If I have found favor with you, Your Majesty, and if it pleases you, grant me my life—this is my petition"
+        "description": "If I have found favor with you, Your Majesty, and if it pleases you, grant me my life—this is my petition",
+        "link": "https://genesis1.vercel.app/#esther"
       },
       {
         "title": "Job",
@@ -148,7 +160,7 @@
       {
         "title": "Joel",
         "image": "images/greenheart.png",
-        "description": "The twenty-ninth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
+        "description": "Be glad, people of Zion, rejoice in the Lord your God, for he has given you the autumn rains because he is faithful"
       },
       {
         "title": "Amos",
