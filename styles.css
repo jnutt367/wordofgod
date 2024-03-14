@@ -68,7 +68,7 @@ h1 {
 }
 /* Header Styles */
 header {
-    background-image: url("images/aurora.png");
+    background-image: url("images/bg-for-any-app.png");
     background-repeat: no-repeat;
     background-size:cover;
     background-color: #a28787;
@@ -84,7 +84,7 @@ header {
 } 
 .parallax-header {
     position: relative;
-    background-image: url(''); /* Replace 'header-image.jpg' with your image path */
+    background-image: url('images/luke_card.png'); /* Replace 'header-image.jpg' with your image path */
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -167,7 +167,7 @@ a:hover {
 
 @media (min-width: 769px) {
     header {
-        background-image: url("images/workshop.png");
+        background-image: url("images/city_bible_reading.png");
         opacity: 0.7;
         color: blanchedalmond;
         padding-bottom: 2rem;
@@ -182,7 +182,7 @@ a:hover {
 
 @media (min-width: 1024px) {
     header {
-        background-image: url("images/city_bible_reading.png");
+        background-image: url("images/luke_card.png");
         opacity: 0.7;
         color: blanchedalmond;
         font-size: xx-large;
