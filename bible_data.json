@@ -105,12 +105,14 @@
       {
         "title": "Job",
         "image": "images/ephesian_cards.png",
-        "description": "After Job had prayed for his friends, the Lord restored his fortunes and gave him twice as much as he had before. "
+        "description": "After Job had prayed for his friends, the Lord restored his fortunes and gave him twice as much as he had before. ",
+        "link": "https://myproverbs.vercel.app/#job"
       },
       {
         "title": "Psalms",
         "image": "images/second_samuel.png",
-        "description": "Guide me in your truth and teach me, for you are God my Savior, and my hope is in you all day long"
+        "description": "Guide me in your truth and teach me, for you are God my Savior, and my hope is in you all day long",
+        "link": "https://mypsalms.vercel.app/"
       },
       {
         "title": "Proverbs",
