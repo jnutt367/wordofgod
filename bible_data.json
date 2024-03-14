@@ -117,17 +117,20 @@
       {
         "title": "Proverbs",
         "image": "images/peter_hero.png",
-        "description": "A wicked person earns deceptive wages, but the one who sows righteousness reaps a sure reward."
+        "description": "A wicked person earns deceptive wages, but the one who sows righteousness reaps a sure reward.",
+        "link": "https://myproverbs.vercel.app/"
       },
       {
         "title": "Ecclesiastes",
         "image": "images/hand_cupped.png",
-        "description": "He has made everything beautiful in its time. He has also set eternity in the human heart"
+        "description": "He has made everything beautiful in its time. He has also set eternity in the human heart",
+        "link": "https://myproverbs.vercel.app/#ecclesiastes"
       },
       {
         "title": "Song of Solomon",
         "image": "images/kings.png",
-        "description": "Awake, north wind, and come, south wind! Blow on my garden, that its fragrance may spread everywhere"
+        "description": "Awake, north wind, and come, south wind! Blow on my garden, that its fragrance may spread everywhere",
+        "link": "https://myproverbs.vercel.app/#song_of_songs"
       },
       {
         "title": "Isaiah",
