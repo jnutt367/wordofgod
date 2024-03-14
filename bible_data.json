@@ -52,13 +52,13 @@
         "title": "1 Samuel",
         "image": "images/obadiah.png",
         "description": "There is no one holy like the Lord; there is no one besides you;there is no Rock like our God.",
-        "link": "https://genesis1.vercel.app/first-samuel"
+        "link": "https://genesis1.vercel.app/#samuel"
       },
       {
         "title": "2 Samuel",
         "image": "images/ruth.png",
         "description": "Though you are little in your own eyes, aren't you the head of the tribes of Israel? The Lord anointed you king over Israel",
-        "link": "https://genesis1.vercel.app/#second-samuel"
+        "link": "https://genesis1.vercel.app/#second_samuel"
       },
       {
         "title": "1 Kings",
