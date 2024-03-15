@@ -126,7 +126,7 @@ header {
     }
     50% {
         transform: scale(1.1);
-        color: rgb(197, 38, 91);
+        color: rgb(228, 133, 165);
         text-shadow: 2px 1px black;
     }
 }
