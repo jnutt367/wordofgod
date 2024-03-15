@@ -236,10 +236,20 @@
         "description": "But for you who revere my name, the sun of righteousness will rise with healing in its rays",
         "link": "https://the-revelation.vercel.app/#malachi"
       },
+
+      {
+        "title": "The New Covenant",
+        "image": "images/god_inspire_me.png",
+        "description": "Hebrews 8:10 (New International Version): This is the covenant I will establish with the people of Israel after that time, declares the Lord. I will put my laws in their minds and write them on their hearts. I will be their God, and they will be my people. ~ Here's a copmiled list of Jesus' Parables I made as a side project.",
+        "link": "https://jesusparables.vercel.app/"
+      },
+
+
       {
         "title": "Matthew",
         "image": "images/peter2.png",
-        "description": "But seek first his kingdom and his righteousness, and all these things will be given to you as well."
+        "description": "But seek first his kingdom and his righteousness, and all these things will be given to you as well.",
+        "link": "https://matthew-coral.vercel.app/"
       },
       {
         "title": "Mark",
