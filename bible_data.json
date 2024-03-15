@@ -172,57 +172,69 @@
       {
         "title": "Joel",
         "image": "images/greenheart.png",
-        "description": "Be glad, people of Zion, rejoice in the Lord your God, for he has given you the autumn rains because he is faithful"
+        "description": "Be glad, people of Zion, rejoice in the Lord your God, for he has given you the autumn rains because he is faithful",
+        "link": "https://the-revelation.vercel.app/#joel"
       },
       {
         "title": "Amos",
         "image": "images/valleyherat.png",
-        "description": " I will send a famine through the land— not a famine of food or a thirst for water, but a famine of hearing the words of the Lord."
+        "description": " I will send a famine through the land— not a famine of food or a thirst for water, but a famine of hearing the words of the Lord.",
+        "link": "https://the-revelation.vercel.app/#amos"
+     
       },
       {
         "title": "Obadiah",
         "image": "images/red-framed-heart.png",
-        "description": "Though you soar like the eagle and make your nest among the stars, from there I will bring you down"
+        "description": "Though you soar like the eagle and make your nest among the stars, from there I will bring you down",
+        "link": "https://the-revelation.vercel.app/#obadiah"
       },
       {
         "title": "Jonah",
         "image": "images/glowheart.png",
-        "description": "But I, with shouts of grateful praise, will sacrifice to you. What I have vowed I will make good"
+        "description": "But I, with shouts of grateful praise, will sacrifice to you. What I have vowed I will make good",
+        "link": "https://the-revelation.vercel.app/#jonah"
       },
       {
         "title": "Micah",
         "image": "images/heartraised.png",
-        "description": "Who is a God like you, who pardons sin and forgives the transgression of the remnant of his inheritance?"
+        "description": "Who is a God like you, who pardons sin and forgives the transgression of the remnant of his inheritance?",
+        "link": "https://the-revelation.vercel.app/#micah"
       },
       {
         "title": "Nahum",
         "image": "images/colorfieldsheart.png",
-        "description": "The Lord is good, a refuge in times of trouble. He cares for those who trust in him"
+        "description": "The Lord is good, a refuge in times of trouble. He cares for those who trust in him",
+        "link": "https://the-revelation.vercel.app/#nahum"
       },
       {
         "title": "Habakkuk",
         "image": "images/ephesian_cards.png",
-        "description": "though there are no sheep in the pen and no cattle in the stalls, yet I will rejoice in the Lord, I will be joyful in God my Savior."
+        "description": "though there are no sheep in the pen and no cattle in the stalls, yet I will rejoice in the Lord, I will be joyful in God my Savior.",
+        "link": "https://the-revelation.vercel.app/#habakkuk"
       },
       {
         "title": "Zephaniah",
         "image": "images/second_samuel.png",
-        "description": "The Lord your God is with you, the Mighty Warrior who saves. He will take great delight in you"
+        "description": "The Lord your God is with you, the Mighty Warrior who saves. He will take great delight in you",
+        "link": "https://the-revelation.vercel.app/#zephaniah"
       },
       {
         "title": "Haggai",
         "image": "images/peter_hero.png",
-        "description": "The glory of this present house will be greater than the glory of the former house,’ says the Lord Almighty"
+        "description": "The glory of this present house will be greater than the glory of the former house,’ says the Lord Almighty",
+        "link": "https://the-revelation.vercel.app/#haggai"
       },
       {
         "title": "Zechariah",
         "image": "images/hand_cupped.png",
-        "description": "This is what the Lord Almighty says: ‘Administer true justice; show mercy and compassion to one another"
+        "description": "This is what the Lord Almighty says: ‘Administer true justice; show mercy and compassion to one another",
+        "link": "https://the-revelation.vercel.app/#zechariah"
       },
       {
         "title": "Malachi",
         "image": "images/kings.png",
-        "description": "But for you who revere my name, the sun of righteousness will rise with healing in its rays"
+        "description": "But for you who revere my name, the sun of righteousness will rise with healing in its rays",
+        "link": "https://the-revelation.vercel.app/#malachi"
       },
       {
         "title": "Matthew",
