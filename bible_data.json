@@ -254,22 +254,26 @@
       {
         "title": "Mark",
         "image": "images/first_john_cards.png",
-        "description": "For even the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many."
+        "description": "For even the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many.",
+        "link": "https://mark-alpha.vercel.app/"
       },
       {
         "title": "Luke",
         "image": "images/heart.png",
-        "description": "For the Son of Man came to seek and to save the lost ... Do to others as you would have them do to you."
+        "description": "For the Son of Man came to seek and to save the lost ... Do to others as you would have them do to you.",
+        "link": "https://luke-three.vercel.app/"
       },
       {
         "title": "John",
         "image": "images/obadiah.png",
-        "description": "I am the way and the truth and the life. No one comes to the Father except through me."
+        "description": "I am the way and the truth and the life. No one comes to the Father except through me.",
+        "link": "https://john-zeta.vercel.app/"
       },
       {
         "title": "Acts",
         "image": "images/ruth.png",
-        "description": "Repent, then, and turn to God, so that your sins may be wiped out, that times of refreshing may come from the Lord."
+        "description": "Repent, then, and turn to God, so that your sins may be wiped out, that times of refreshing may come from the Lord.",
+        "link": "https://john-zeta.vercel.app/#acts"
       },
       {
         "title": "Romans",
@@ -279,47 +283,56 @@
       {
         "title": "1 Corinthians",
         "image": "images/greenheart.png",
-        "description": "For the foolishness of God is wiser than human wisdom, and the weakness of God is stronger than human strength"
+        "description": "For the foolishness of God is wiser than human wisdom, and the weakness of God is stronger than human strength",
+        "link": "https://first-corinthians.vercel.app/"
       },
       {
         "title": "2 Corinthians",
         "image": "images/valleyherat.png",
-        "description": "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!"
+        "description": "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!",
+        "link": "https://-corinthians.vercel.app/"
       },
       {
         "title": "Galatians",
         "image": "images/red-framed-heart.png",
-        "description": "The forty-eighth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
+        "description": "Are you so foolish? After beginning by means of the Spirit, are you now trying to finish by means of the flesh?",
+        "link": "https://galatians.vercel.app/"
       },
       {
         "title": "Ephesians",
         "image": "images/glowheart.png",
-        "description": "The forty-ninth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
+        "description": "I pray that the eyes of your heart may be enlightened in order that you may know the hope to which he has called you",
+        "link": "https://ephesians.vercel.app/"
       },
       {
         "title": "Philippians",
         "image": "images/heartraised.png",
-        "description": "The fiftieth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
+        "description": "And being found in appearance as a man, he humbled himself by becoming obedient to death— even death on a cross!",
+        "link": "https://phillipians.vercel.app/"
       },
       {
         "title": "Colossians",
         "image": "images/colorfieldsheart.png",
-        "description": "The fifty-first book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
+        "description": "The Son is the image of the invisible God, the firstborn over all creation. For in him all things were created:",
+        "link": "https://colossians.vercel.app/"
       },
       {
         "title": "1 Thessalonians",
         "image": "images/ephesian_cards.png",
-        "description": "The fifty-second book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
+        "description": "you welcomed the message in the midst of severe suffering with the joy given by the Holy Spirit",
+        "link": "https://first-corinthians.vercel.app/#first_thessalonians"
       },
       {
         "title": "2 Thessalonians",
         "image": "images/second_samuel.png",
-        "description": "The fifty-third book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
+        "description": "The lawless one will be revealed, whom the Lord Jesus will overthrow with the breath of his mouth...",
+        "link": "https://second-corinthians.vercel.app/#second_thessalonians"
       },
       {
         "title": "1 Timothy",
         "image": "images/peter_hero.png",
-        "description": "The fifty-fourth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
+        "description": "Here is a trustworthy saying that deserves full acceptance: Christ Jesus came into the world to save sinners",
+        "link": "https://matthew-coral.vercel.app/#first_timothy"
       },
       {
         "title": "2 Timothy",
