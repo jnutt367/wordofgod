@@ -96,6 +96,19 @@ header {
     text-align: center;
     animation: fadeIn 1s ease-in-out; /* Animation duration and timing */
 }
+.header-fade {
+    font-weight: bold;
+    text-align: center;
+    animation: fadeIn 2s ease-in-out; /* Animation duration and timing */
+}
+
+
+@keyframes headerIn {
+    0% { opacity: 0; } /* Start with opacity 0 */
+    100% { opacity: 1; } /* End with opacity 1 */
+}
+
+
 
 @keyframes fadeIn {
     0% { opacity: 0.2; } /* Start with opacity 0 */
@@ -132,7 +145,7 @@ header {
 }
 
 .bounce {
-    animation: bounce 10s infinite;
+    animation: bounce 3s infinite;
 }
 
 /* Example Usage */
