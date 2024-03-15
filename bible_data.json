@@ -343,27 +343,32 @@
       {
         "title": "Titus",
         "image": "images/kings.png",
-        "description": "The fifty-sixth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
+        "description": "To the pure, all things are pure, but to those who are corrupted and do not believe, nothing is pure",
+        "link": "https://luke-three.vercel.app/#titus"
       },
       {
         "title": "Philemon",
         "image": "images/peter2.png",
-        "description": "The fifty-seventh book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
+        "description": "It is as none other than Paul—an old man, now also a prisoner of Christ Jesus—that I appeal to you for my son Onesimus",
+        "link": "https://john-zeta.vercel.app/#philemon"
       },
       {
         "title": "Hebrews",
         "image": "images/first_john_cards.png",
-        "description": "The fifty-eighth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
+        "description": "For here we do not have an enduring city, but we are looking for the city that is to come",
+        "link": "https://acts-zeta.vercel.app/#hebrews"
       },
       {
         "title": "James",
         "image": "images/heart.png",
-        "description": "The fifty-ninth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
-      },
+        "description": "Count it all joy, brothers, when you meet trials of various kinds, you know that the testing of your faith produces patience",
+        "link": "https://romans-five.vercel.app/#james"
+        },
       {
         "title": "1 Peter",
         "image": "images/obadiah.png",
-        "description": "The sixtieth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
+        "description": "In his great mercy he has given us new birth into a living hope through the resurrection of Jesus Christ from the dead...",
+        "link": "https://galatians.vercel.app/#first_peter"
       },
       {
         "title": "2 Peter",
