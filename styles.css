@@ -73,8 +73,9 @@ header {
     background-repeat: no-repeat;
     background-size:cover;
     background-color: #a28787;
-    color: blanchedalmond;
+    color: black;
     padding-bottom: 2rem;
+    text-shadow: 2px 1px #f9f9f9;
     padding: 1rem;
     text-align: center;
 }
