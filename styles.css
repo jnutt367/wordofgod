@@ -135,24 +135,25 @@ header {
 }
 
 .pulse {
-    animation: pulse 4s infinite;
+    animation: pulse 4s;
+    animation-iteration-count:4;
 }
 
 
 @keyframes bounce {
-    0%, 20%, 50%, 80%, 100% {
+    20%, 50%, 80%, 100%, 0%  {
         transform: translateY(0);
     }
     40% {
-        transform: translateY(-30px);
+        transform: translateY(-130px);
     }
     60% {
-        transform: translateY(-15px);
+        transform: translateY(-25px);
     }
 }
 
 .bounce {
-    animation: bounce 3s infinite;
+    animation: bounce 2s infinite;
    
 }
 
@@ -263,6 +264,10 @@ a:hover {
        width: 50px;     
     }
 
+
+    .pulse {
+        font-size: 1.3rem;
+    }
 }
 
 @media (min-width: 1024px) {
@@ -283,5 +288,9 @@ a:hover {
         
     }
   
+    .pulse {
+        font-size: 1.5rem;
+    }
+
 }
 
