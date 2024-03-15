@@ -13,7 +13,7 @@ body {
 }
 
 main {
-    background-image: linear-gradient(to right, white, rgba(229, 144, 225, 0.75));
+    background-image: linear-gradient(to right, rgb(114, 87, 111), rgba(229, 144, 225, 0.75));
 }
 /* Sticky Nav Styles */
 .sticky-nav {
@@ -48,6 +48,8 @@ main {
 }
 
 /* Other styles remain the same */
+
+
 
 
 
@@ -95,6 +97,7 @@ header {
     font-weight: bold;
     text-align: center;
     animation: fadeIn 1s ease-in-out; /* Animation duration and timing */
+    
 }
 .header-fade {
     font-weight: bold;
@@ -150,6 +153,7 @@ header {
 
 .bounce {
     animation: bounce 3s infinite;
+   
 }
 
 /* Example Usage */
