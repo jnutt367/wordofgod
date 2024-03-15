@@ -58,13 +58,18 @@ main {
 
 
 #qr {
-    width: 50px;     
+    width: 50px;   
+    position: relative;  
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    top: -50px;
  }
 
 h1 {
     font-family: "whisper", "Roboto", Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight:bolder;
-    font-size: 3rem;
+    font-size: 3.5rem;
 }
 /* Header Styles */
 header {
