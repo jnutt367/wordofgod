@@ -11,20 +11,16 @@ body {
 #framer {
     display: none;
 }
-header {
-        color: #100707;
-        padding-bottom: 2rem;
-        text-shadow: 3px 1px #171616;
-}
+
 main {
-    background-image: linear-gradient(to right, rgb(184, 117, 184), rgba(229, 168, 144, 0.75));
+    background-image: linear-gradient(to right, white, rgba(229, 144, 225, 0.75));
 }
 /* Sticky Nav Styles */
 .sticky-nav {
     position: sticky;
     top: 0;
     background-color: #333;
-    background-image: linear-gradient(to right, white, rgba(229, 168, 144, 0.75));
+    background-image: linear-gradient(to right, white, rgba(229, 144, 225, 0.75));
     padding: 10px 0;
     z-index: 1000;
 }
@@ -47,7 +43,7 @@ main {
 }
 
 .sticky-nav ul li a:hover {
-    color: rgb(241, 86, 8);
+    color: rgb(54, 117, 30);
     text-decoration: navajowhite;
 }
 
@@ -83,7 +79,7 @@ header {
     text-align: center;
 }
 .header-mask {
-    background-color: rgb(244, 10, 236);
+    background-color: rgb(104, 20, 101);
     opacity: 1;
     z-index: infinite;
 } 
