@@ -121,12 +121,12 @@ header {
 @keyframes pulse {
     0%, 100% {
         transform: scale(1);
-        color: gold;
+        color: rgb(224, 193, 221);
        
     }
     50% {
         transform: scale(1.1);
-        color: #cf4e4e;
+        color: rgb(197, 38, 91);
         text-shadow: 2px 1px black;
     }
 }
