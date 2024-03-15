@@ -145,10 +145,10 @@ header {
         transform: translateY(0);
     }
     40% {
-        transform: translateY(-60px);
+        transform: translateY(-10px);
     }
     60% {
-        transform: translateY(-25px);
+        transform: translateY(-125px);
     }
 }
 
