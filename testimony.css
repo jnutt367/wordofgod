@@ -1,5 +1,8 @@
 body {
     font-family: Arial, sans-serif;
+    background-image: url("images/god_inspire_me.png");
+    background-repeat: no-repeat;
+    background-size: cover;
     line-height: 1.6;
     margin: 0;
     padding: 0;
