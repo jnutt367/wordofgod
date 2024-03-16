@@ -17,6 +17,7 @@ main {
     margin-bottom: 2rem;
 }
 /* Sticky Nav Styles */
+
 .sticky-nav {
     position: sticky;
     top: 0;
@@ -276,7 +277,7 @@ a:hover {
     text-align: center;
     position: fixed;
     bottom: 0;
-    height: 75px;
+    height: 25px;
     width: 100%;
   }
   
@@ -350,6 +351,11 @@ a:hover {
         padding-bottom: 15px;
         opacity: 0.8;
     }
+    .footer {
+        grid-template-columns: 1fr 1fr 1fr;
+
+    }
+
 
 }
 
