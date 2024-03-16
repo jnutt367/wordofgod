@@ -13,10 +13,11 @@ body {
     max-width: 800px;
     background-color: rgb(57, 27, 86);
     background-image: url("images/luke_card.png");
-    opacity: 0.75;
+    opacity: 0.6;
     background-repeat: no-repeat;
     background-size: cover;
-    color: rgb(241, 244, 247);
+    color: rgb(247, 231, 247);
+    text-shadow: 0px 0px 0.1px #1cf714;
     margin: 50px auto;
     padding: 20px;
 }
