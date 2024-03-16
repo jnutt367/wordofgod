@@ -21,7 +21,10 @@ body {
     margin: 50px auto;
     padding: 20px;
 }
-
+.mask {
+    background-color: #021001;
+    opacity: 0.6;
+}
 .testimony {
     font-size: 24px;
     font-weight: bold;

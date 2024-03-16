@@ -1,5 +1,11 @@
 /* styles.css */
-
+.smooth-transition {
+    transition: color 0.3s ease-in-out, 0.3s ease-in-out;
+  }
+  
+  .smooth-transition:hover {
+    color: green;
+  }
 /* General Styles */
 body {
     font-family: Arial, sans-serif;
