@@ -27,11 +27,13 @@ main {
 .sticky-nav {
     position: sticky;
     display: flex;
-
+    align-items: start;
+    justify-content: flex-end;
     top: 0;
     background-color: #333;
     background-image: linear-gradient(to right, white, rgba(229, 144, 225, 0.75));
-    padding: 20px 15px;
+    padding: 20px 5px;
+    padding-right: 150px;
     z-index: 1000;
 }
 
