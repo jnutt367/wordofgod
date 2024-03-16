@@ -13,9 +13,9 @@ body {
     max-width: 800px;
     background-color: rgb(57, 27, 86);
     background-image: url("images/mystical_mountain_lake.png");
-    opacity: 0.85;
+    opacity: 1;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     color: rgb(247, 231, 247);
     text-shadow: 3px 1px 0.1px #021001;
     margin: 50px auto;
