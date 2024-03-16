@@ -50,7 +50,10 @@ main {
 /* Other styles remain the same */
 
 
-
+.overcome {
+    position:relative;
+    top: 30px;
+}
 
 
 
@@ -271,6 +274,14 @@ a:hover {
         text-shadow: 3px 1px 1px #0d0c0c;
       
     }
+
+    .overcome {
+        position:relative;
+        top: 0px;
+    }
+    
+
+
     #qr {
        width: 50px;     
     }
