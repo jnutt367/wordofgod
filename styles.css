@@ -14,6 +14,7 @@ body {
 
 main {
     background-image: linear-gradient(to right, rgb(114, 87, 111), rgba(229, 144, 225, 0.75));
+    margin-bottom: 2rem;
 }
 /* Sticky Nav Styles */
 .sticky-nav {
@@ -266,7 +267,26 @@ a:hover {
     margin-bottom: 0;
 }
 
-
+.footer {
+    display: grid;
+    gap: 10px;
+    background-color: #524763;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .footer p {
+    margin: 0;
+  }
+  
+  .footer a {
+    color: #ffffff;
+    text-decoration: none;
+  }
 
 @media (min-width: 769px) {
     header {
@@ -297,6 +317,10 @@ a:hover {
         background-color: #0d0c0c;
         padding-top: 10px;
         padding-bottom: 10px;
+    }
+    .footer {
+        grid-template-columns: 1fr 1fr;
+
     }
 }
 

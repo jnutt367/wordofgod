@@ -385,22 +385,26 @@
       {
         "title": "2 John",
         "image": "images/greenheart.png",
-        "description": "The sixty-third book of the Bible.  All of these cards will need to have 3 lines each to match the layout design! Possibly 4..."
+        "description": "It has given me great joy to find some of your children walking in the truth, as the Father commanded us",
+        "link": "https://ephesians.vercel.app/#second_john"
       },
       {
         "title": "3 John",
         "image": "images/valleyherat.png",
-        "description": "The sixty-fourth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
+        "description": "I pray you may enjoy good health and that all may go well with you, even as your soul is getting along well",
+        "link": "https://ephesians.vercel.app/#third_john"
       },
       {
         "title": "Jude",
         "image": "images/red-framed-heart.png",
-        "description": "The sixty-fifth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
+        "description": "I felt compelled to write & urge you to contend for the faith once for all entrusted to God’s holy people",
+        "link": "https://phillipians.vercel.app/#jude"
       },
       {
-        "title": "Revelation",
+        "title": "The Revelation",
         "image": "images/glowheart.png",
-        "description": "The sixty-sixth book of the Bible. All of these cards will need to have 3 lines each to match the layout design! Possibly 4... "
+        "description": "The revelation of Jesus Christ in a vision to John, on the Island of Patmos, while he was in exile for the Word",
+        "link": "https://phillipians.vercel.app/#revelation"
       }
     ]
   }
