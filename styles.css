@@ -138,10 +138,14 @@ header {
 .pulse {
     animation: pulse  3s infinite;
     position: relative;
-    top: -25px;
+    top: -15px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
     background-color: #0d0c0c;
-    padding-top: 1px;
-    padding-bottom: 1px;
+    padding-top: 0px;
+    padding-bottom: 70px;
     opacity: 0.8;
     
 }
