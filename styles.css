@@ -131,6 +131,7 @@ header {
         transform: scale(1.1);
         color: rgb(228, 133, 165);
         text-shadow: 2px 1px black;
+        opacity: 0.7;
     }
 }
 
@@ -138,6 +139,10 @@ header {
     animation: pulse  3s infinite;
     position: relative;
     top: -25px;
+    background-color: #0d0c0c;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    opacity: 0.8;
     
 }
 
@@ -269,6 +274,9 @@ a:hover {
 
     .pulse {
         font-size: 1.3rem;
+        background-color: #0d0c0c;
+        padding-top: 10px;
+        padding-bottom: 10px;
     }
 }
 
@@ -292,6 +300,10 @@ a:hover {
   
     .pulse {
         font-size: 1.5rem;
+        background-color: #0d0c0c;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        opacity: 0.8;
     }
 
 }
