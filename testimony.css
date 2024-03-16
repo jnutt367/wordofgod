@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    background-color: rgb(181, 159, 201);
+    margin: 50px auto;
+    padding: 20px;
+}
+
+.testimony {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.paragraph {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.glory {
+    font-size: 18px;
+    font-style: italic;
+    text-align: center;
+    margin-top: 20px;
+}
