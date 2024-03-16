@@ -12,7 +12,11 @@ body {
 .container {
     max-width: 800px;
     background-color: rgb(57, 27, 86);
-    color: aliceblue;
+    background-image: url("images/luke_card.png");
+    opacity: 0.75;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(241, 244, 247);
     margin: 50px auto;
     padding: 20px;
 }
