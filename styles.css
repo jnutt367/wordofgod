@@ -135,8 +135,10 @@ header {
 }
 
 .pulse {
-    animation: pulse 4s;
-    animation-iteration-count:4;
+    animation: pulse  3s infinite;
+    position: relative;
+    top: -25px;
+    
 }
 
 
@@ -152,10 +154,7 @@ header {
     }
 }
 
-.bounce {
-    animation: bounce 2s infinite;
-   
-}
+
 
 /* Example Usage */
 .animated-text {
@@ -165,7 +164,10 @@ header {
 
 
 
-
+.bounce {
+    animation: bounce 2s infinite;
+   
+}
 
 
 .parallax-header {
