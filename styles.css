@@ -55,7 +55,10 @@ main {
     top: 30px;
 }
 
-
+.jesus {
+    position: relative;
+    top: -85px;
+}
 
 
 #qr {
@@ -279,7 +282,9 @@ a:hover {
         position:relative;
         top: 0px;
     }
-    
+    .jesus {
+        padding: 15px;
+    }
 
 
     #qr {
