@@ -26,9 +26,6 @@ main {
 
 .sticky-nav {
     position: sticky;
-    display: flex;
-    align-items: start;
-    justify-content: flex-end;
     top: 0;
     background-color: #333;
     background-image: linear-gradient(to right, white, rgba(229, 144, 225, 0.75));
