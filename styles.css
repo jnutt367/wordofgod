@@ -12,7 +12,9 @@ body {
     margin: 0;
     padding: 0;
 }
-
+.smooth-transition {
+    display: none;
+}
 
 #framer {
     display: none;
@@ -29,7 +31,7 @@ main {
     top: 0;
     background-color: #333;
     background-image: linear-gradient(to right, white, rgba(229, 144, 225, 0.75));
-    padding: 20px 5px;
+    padding: 10px 0px;
     padding-right: 150px;
     z-index: 1000;
 }
@@ -310,7 +312,9 @@ a:hover {
         text-shadow: 3px 1px 1px #0d0c0c;
       
     }
-
+.smooth-transition {
+    display: block;
+}
     .overcome {
         position:relative;
         top: 0px;
