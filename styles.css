@@ -38,6 +38,7 @@ main {
 
 .sticky-nav ul {
     list-style-type: none;
+    display: flex;
     margin: 0;
     padding: 0;
     text-align: center;
@@ -45,7 +46,7 @@ main {
 
 .sticky-nav ul li {
     display: inline-block;
-    margin: 10px 10px;
+   margin: auto;
 }
 
 .sticky-nav ul li a {
