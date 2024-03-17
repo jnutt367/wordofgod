@@ -45,7 +45,7 @@ main {
 
 .sticky-nav ul li {
     display: inline-block;
-    margin: 0 10px;
+    margin: 10px 10px;
 }
 
 .sticky-nav ul li a {
