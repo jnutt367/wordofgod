@@ -277,7 +277,9 @@ a:hover {
 .book-card p {
     margin-bottom: 0;
 }
-
+#d5a4bf57-ad50-41c9-a2df-fc39065dceba {
+    color: gold;
+}
 .footer {
     display: grid;
     gap: 10px;
