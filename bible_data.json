@@ -4,7 +4,7 @@
         "title": "Genesis",
         "image": "images/ephesian_cards.png",
         "description": "In the beginning, God created the Heavens and the Earth. ... and the Spirit of God was hovering over the waters.",
-        "link": "/genesis.html"
+        "link": "https://genesis1.vercel.app/"
     },
       {
         "title": "Exodus",
