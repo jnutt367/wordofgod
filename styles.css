@@ -28,7 +28,7 @@ main {
 
 .sticky-nav {
     position: sticky;
-    top: 0;
+    top: 10px;
     background-color: #333;
     background-image: linear-gradient(to right, white, rgba(229, 144, 225, 0.75));
     padding: 10px 0px;
@@ -306,6 +306,20 @@ a:hover {
     text-decoration: none;
     cursor:pointer;   
   }
+
+@media (min-width: 320px) {
+    .sticky-nav {
+        position: sticky;
+        top: 0px;
+        background-color: #333;
+        background-image: linear-gradient(to right, white, rgba(229, 144, 225, 0.75));
+        padding: 10px 0px;
+        padding-right: 150px;
+        z-index: 1000;
+    }
+}
+
+
 @media (min-width: 769px) {
     header {
         background-image: url("images/city_bible_reading.png");
@@ -315,6 +329,11 @@ a:hover {
         text-shadow: 3px 1px 1px #0d0c0c;
       
     }
+
+    
+
+
+
 .smooth-transition {
     display: block;
 }
