@@ -16,6 +16,46 @@ body {
     animation-iteration-count: 1;
     animation-timing-function: ease-out;  
 }
+.sticky-nav {
+    position: sticky;
+    top: 50px;
+    background-color: #333;
+    background-image: linear-gradient(to right, white, rgba(229, 144, 225, 0.75));
+    padding: 10px 0px;
+    padding-right: 150px;
+    z-index: 1000;
+}
+
+
+
+
+.sticky-nav ul {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.sticky-nav ul li {
+    display: inline-block;
+   margin: auto;
+}
+
+.sticky-nav ul li a {
+    color: rgb(17, 32, 17);
+    text-decoration: none;
+}
+
+.sticky-nav ul li a:hover {
+    color: rgb(54, 117, 30);
+    text-decoration: navajowhite;
+}
+
+
+
+
+
 .container {
     max-width: 800px;
     background-color: rgb(57, 27, 86);
