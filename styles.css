@@ -36,6 +36,9 @@ main {
     z-index: 1000;
 }
 
+
+
+
 .sticky-nav ul {
     list-style-type: none;
     display: flex;
@@ -60,6 +63,16 @@ main {
 }
 
 /* Other styles remain the same */
+
+
+.iframe1 {
+    padding: 10px;
+    position: relative;
+    animation-name: iframe1;
+    animation-duration: 3s;  
+    animation-iteration-count: 1;
+    animation-timing-function: ease-out;  
+}
 
 
 .overcome {
