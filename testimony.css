@@ -8,7 +8,14 @@ body {
     padding: 0;
     margin-bottom: 5rem;
 }
-
+.iframe1 {
+    padding: 10px;
+    position: relative;
+    animation-name: iframe1;
+    animation-duration: 3s;  
+    animation-iteration-count: 1;
+    animation-timing-function: ease-out;  
+}
 .container {
     max-width: 800px;
     background-color: rgb(57, 27, 86);
@@ -65,4 +72,19 @@ body {
 
 .btn:hover {
     background-color: #0056b3;
+}
+@media (min-width: 769px) {
+    .iframe1 {
+        background-color: #af83ae;
+        padding-left: 10rem;
+        padding-right: 10rem;
+    }
+}
+
+@media (min-width: 1024px) {
+    .iframe1 {
+        background-color: #af83ae;
+        padding-left: 15rem;
+        padding-right: 15rem;
+    }
 }
