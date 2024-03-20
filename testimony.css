@@ -126,6 +126,11 @@ body {
     }
 }
 
+.smooth-transition {
+    display: block;
+}
+
+
 @media (min-width: 1024px) {
     .iframe1 {
         background-color: #af83ae;

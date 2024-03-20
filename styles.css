@@ -34,6 +34,7 @@ main {
     padding: 10px 0px;
     padding-right: 150px;
     z-index: 1000;
+    justify-content:space-between;
 }
 
 
@@ -342,6 +343,7 @@ a:hover {
         text-shadow: 3px 1px 1px #0d0c0c;
       
     }
+
 
     
 .iframe1 {
