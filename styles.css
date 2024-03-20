@@ -344,7 +344,11 @@ a:hover {
     }
 
     
-
+.iframe1 {
+    background-color: #af83ae;
+    padding-left: 15rem;
+    padding-right: 15rem;
+}
 
 
 .smooth-transition {
