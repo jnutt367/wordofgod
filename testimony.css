@@ -16,6 +16,11 @@ body {
     animation-iteration-count: 1;
     animation-timing-function: ease-out;  
 }
+.smooth-transition {
+    display: none;
+}
+
+
 .sticky-nav {
     position: sticky;
     top: 50px;
