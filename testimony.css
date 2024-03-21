@@ -23,7 +23,7 @@ body {
 
 .sticky-nav {
     position: sticky;
-    top: 50px;
+    top: 0px;
     background-color: #333;
     background-image: linear-gradient(to right, white, rgba(229, 144, 225, 0.75));
     padding: 10px 0px;
