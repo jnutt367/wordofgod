@@ -84,8 +84,20 @@
     
     </div>
 
-    <script>window.aichatbotApiKey="d5a4bf57-ad50-41c9-a2df-fc39065dceba"; window.aichatbotProviderId="090b7349-c175-42bc-84e7-48aea4f62467";</script><script src="https://script.roboassist.ai/roboassist.js" id="d5a4bf57-ad50-41c9-a2df-fc39065dceba" defer></script>
-
-
+    <script>
+        !function(w, d, s, ...args){
+          var div = d.createElement('div');
+          div.id = 'aichatbot';
+          d.body.appendChild(div);
+          w.chatbotConfig = args;
+        
+          var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s);
+          j.defer = true;
+          j.type = 'module';
+          j.src = 'https://aichatbot.sendbird.com/index.js';
+          f.parentNode.insertBefore(j, f);
+        }(window, document, 'script', '8F43F37F-A55B-45A1-9A7B-EA186C5BEAEC', 'onboarding_bot');
+        </script>
 </body>
 </html>
