@@ -265,6 +265,7 @@ a:hover {
 /* Book Card Styles */
 #books {
     display: flex;
+    gap: 2rem;
     flex-wrap: wrap;
     justify-content: center;
     color: #0e0e0e;
@@ -348,7 +349,13 @@ a:hover {
       
     }
 
-
+    #books {
+        display: flex;
+        gap: 0.2rem;
+        flex-wrap: wrap;
+        justify-content: center;
+        color: #0e0e0e;
+    }
     
 .iframe1 {
     background-color: #af83ae;
