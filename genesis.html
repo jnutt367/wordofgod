@@ -1,80 +1,35 @@
-
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Genesis</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word of God Risen: Genesis</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital@1&family=Nanum+Brush+Script&family=Ojuju:wght@200..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital@1&family=Nanum+Brush+Script&family=Ojuju:wght@200..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Whisper&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital@1&family=Nanum+Brush+Script&family=Noto+Color+Emoji&family=Ojuju:wght@200..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Whisper&display=swap" rel="stylesheet">
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital@1&family=Nanum+Brush+Script&family=Ojuju:wght@200..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital@1&family=Nanum+Brush+Script&family=Ojuju:wght@200..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Whisper&display=swap" rel="stylesheet">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital@1&family=Nanum+Brush+Script&family=Noto+Color+Emoji&family=Ojuju:wght@200..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Whisper&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" integrity="sha384-4LISF5TTJX/fLmGSxO53rV4miRxdg84mZsxmO8Rx5jGtp/LbrixFETvWa5a6sESd" crossorigin="anonymous">
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" integrity="sha384-4LISF5TTJX/fLmGSxO53rV4miRxdg84mZsxmO8Rx5jGtp/LbrixFETvWa5a6sESd" crossorigin="anonymous">
-
-<link rel="stylesheet" href="styles.css">
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    
-  }
-  main {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 20px;
-    padding: 20px;
-  }
-  .chapter-card {
-    width: 90%;
-    max-width: 400px;
-    margin: 20px auto;
-    padding: 20px;
-    background-color: #f0f0f0;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    overflow: hidden;
-    max-height: 500px;
-    position: relative;
-    background-color: rgb(141, 106, 138);
-  }
-
-  .chapter-card img {
-    width: 100%;
-    height: auto;
-    border-radius: 10px 10px 0 0;
-    margin-bottom: 15px;
-  }
-
-  .chapter-card .chapter-text {
-    overflow-y: auto;
-    max-height: 200px;
-    color: #f0f0f0;
-    padding: 10px;
-    background-color: rgb(160, 107, 155);
-  }
-  p {
-    padding: 0.5rem;
-  }
-  .video-header-content {
-    background-color: blanchedalmond;
-    margin: 0%;
-  }
-</style>
 </head>
+
 <body>
+
+    <div class="iframe1">
+         <iframe src="https://api.chatlab.com/aichat/iframe?apiKey=d5a4bf57-ad50-41c9-a2df-fc39065dceba&iFrameMode=true" width="100%" height="400px"></iframe>
+    </div> 
+
     <nav class="sticky-nav">
         <ul style="text-align:left">
-         
-            <li>   <a href="index.html"><img class="logo" src="images/jn-logo.png"></a></li>
-            
+
+           <li> <a href="#"><img class="logo" src="images/jn-logo.png"></a></li>
             <!--
             <li><a href="#home">
             <button style="margin-bottom: 10px;" id="toggleDropdown"><i class="bi bi-journal-bookmark-fill"></i> Books</button>
@@ -101,253 +56,143 @@
 
         </ul>
     </nav>
-<!-- Genesis Chapter Cards -->
-<!-- Video Header -->
-<div class="video-header">
-    <iframe width="100%" height="350" src="https://www.youtube.com/embed/ALsluAKBZ-c" title="Old Testament Summary: A Complete Animated Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    <div class="video-header-content">
-      <h1 style="text-align:center">Welcome to Genesis</h1>
-      <p style="text-align:center">The Beginning of the Story of ALL Creation:<br> The Greatest Story Ever Written...</p>
-    </div>
-  </div>
+  <div class="header-mask">
+    <header class="header-fade" id="header" style="height: 200px; opacity: 0.86;">
+        <h2 class="header-text"><i class="bi bi-house-heart-fill"></i> Thanks for coming to</h2>
+        <h3 class="header-text" >The Word of God Risen App</h3>
+        
+       <div>
+       
+        <h4 class="pulse"><p class="overcome">Thus the <i class="bi bi-cloud"></i> heavens and the earth were completed!</p></h4>
+       <p class="jesus"> ~Genesis~</p>
+       <img id="qr" style="display: grid;"  src="images/QR_my-bible.png">
+
+      
+        <h3 class="bounce animated-text" style=" position:relative; top: -60px; font-size: large;">&#8597;  SCROLL DOWN  &#8597;</h3>
+       
+          
+        </div>
+    </header>
+</div>
+
+
+
+
+
+
+
+
+
+    <main id="books">
+        <!-- Books will be dynamically added here -->
+        <!-- Example:
+        <div class="book-card">
+            <img src="book-image.jpg" alt="Genesis">
+            <h2>Genesis</h2>
+            <p>The first book of the Bible.</p>
+        </div>
+        -->
+
+
+        <!--
+        <div class="book-card">
+            <img src="ephesian_cards.png" alt="Genesis">
+            <h2>Genesis</h2>
+            <p>Genesis 1:1 - "In the beginning God created the heavens and the earth."
+               {... } "So God created mankind in his own image, in the image of God he created them; male and female he created them."
+            </p>
+        </div>
+        
+
+
+
+
+
+        <div class="book-card">
+            <img src="second_samuel.png" alt="Exodus">
+            <h2>Exodus</h2>
+            <p> Exodus 20:12  "Honor your father and your mother, so that you may live long in the land the Lord your God is giving you."</p>
+        </div>
+
+
+
+
+  <div class="book-card">
+            <img src="peter_hero.png" alt="Leviticus">
+            <h2>Leviticus</h2>
+            <p>Leviticus 19:18 "Do not seek revenge or bear a grudge against anyone among your people, but love your neighbor as yourself. I am the Lord."</p>
+        </div>
+
+
+        <div class="book-card">
+            <img src="ruth_cards.png" alt="Numbers Image">
+            <h2>Numbers</h2>
+            <p>Numbers 14:18  "The Lord is slow to anger, abounding in love and forgiving sin and rebellion. Yet he does not leave the guilty unpunished;"</p>
+        </div>
+
+
+        <div class="book-card">
+            <img src="hand_cupped.png" alt="God's Hand">
+            <h2>Deuteronomy</h2>
+            <p> Deuteronomy 6:4-5  "Hear, O Israel: The Lord our God, the Lord is one. Love the Lord your God with all your heart and with all your soul and with all your strength."</p>
+        </div>
+
+
+        <div class="book-card">
+            <img src="heart.png" alt="Joshua">
+            <h2>Joshua</h2>
+            <p> Joshua 24:15 "But if serving the Lord seems undesirable to you, then choose for yourselves this day whom you will serve,"</p>
+        </div>
+    -->
+
+
+
+
+
+
+
+
+    <iframe id="framer" src="https://api.roboassist.ai/aichat/iframe?apiKey=d5a4bf57-ad50-41c9-a2df-fc39065dceba&iFrameMode=true" width="25%" height="400px"></iframe>
+
+
+
+    <div class="footer">
+        <p>&copy; 2024 Our Bible App. "Word of God Risen" All rights reserved.</p>
+        <p>For support or inquiries, contact me at <a href="mailto:support@yourbibleapp.com">jnutt367@gmail.com</a>.</p>
+        <p>Icons made by <a href="https://icons.getbootstrap.com/" title="Bootstrap Icons">Bootstrap Icons</a> from <a href="https://icons.getbootstrap.com/" title="Bootstrap Icons">icons.getbootstrap.com</a></p>
+        <p>Agile Learning Institute - <a href="https://agilelearningcenters.org/">Learn More</a></p>
+        <p>The Bible Project - <a href="https://thebibleproject.com/">Explore</a></p>
+        <p>W3Schools - <a href="https://www.w3schools.com/">Tutorials</a></p>
+      </div>
+
+    </main>
+    <script src="genesis.js"></script>
+
+   <!-- <script src="script.js"></script>-->
   
 
-<main>
+   <!--<script>window.aichatbotApiKey="d5a4bf57-ad50-41c9-a2df-fc39065dceba"; window.aichatbotProviderId="090b7349-c175-42bc-84e7-48aea4f62467";</script><script src="https://script.roboassist.ai/roboassist.js" id="d5a4bf57-ad50-41c9-a2df-fc39065dceba" defer></script>
+   -->
+   <script>
+    !function(w, d, s, ...args){
+      var div = d.createElement('div');
+      div.id = 'aichatbot';
+      d.body.appendChild(div);
+      w.chatbotConfig = args;
     
-<div class="chapter-card">
-  <img style="height: 200px; width: 375px;" src="images/ephesian_cards.png" alt="Chapter 1 Image">
-  <div class="chapter-text">
-    <h2 style="display:grid; align-items: center; justify-content: center;">Genesis 1</h2>
-   <h3>The Beginning</h3>
-<p>1 In the beginning God created the heavens and the earth. 2 Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters.
-
-<p>3 And God said, “Let there be light,” and there was light. 4 God saw that the light was good, and he separated the light from the darkness. 5 God called the light “day,” and the darkness he called “night.” And there was evening, and there was morning—the first day.
-</p>
-<p>
-6 And God said, “Let there be a vault between the waters to separate water from water.” 7 So God made the vault and separated the water under the vault from the water above it. And it was so. 8 God called the vault “sky.” And there was evening, and there was morning—the second day.
-</p>
-<p>
-9 And God said, “Let the water under the sky be gathered to one place, and let dry ground appear.” And it was so. 10 God called the dry ground “land,” and the gathered waters he called “seas.” And God saw that it was good.
-</p>
-
-<p>
-11 Then God said, “Let the land produce vegetation: seed-bearing plants and trees on the land that bear fruit with seed in it, according to their various kinds.” And it was so. 12 The land produced vegetation: plants bearing seed according to their kinds and trees bearing fruit with seed in it according to their kinds. And God saw that it was good. 13 And there was evening, and there was morning—the third day.
-
-14 And God said, “Let there be lights in the vault of the sky to separate the day from the night, and let them serve as signs to mark sacred times, and days and years, 15 and let them be lights in the vault of the sky to give light on the earth.” And it was so. 16 God made two great lights—the greater light to govern the day and the lesser light to govern the night. He also made the stars. 17 God set them in the vault of the sky to give light on the earth, 18 to govern the day and the night, and to separate light from darkness. And God saw that it was good. 19 And there was evening, and there was morning—the fourth day.
-</p>
-<p>
-20 And God said, “Let the water teem with living creatures, and let birds fly above the earth across the vault of the sky.” 21 So God created the great creatures of the sea and every living thing with which the water teems and that moves about in it, according to their kinds, and every winged bird according to its kind. And God saw that it was good. 22 God blessed them and said, “Be fruitful and increase in number and fill the water in the seas, and let the birds increase on the earth.” 23 And there was evening, and there was morning—the fifth day.
-
-24 And God said, “Let the land produce living creatures according to their kinds: the livestock, the creatures that move along the ground, and the wild animals, each according to its kind.” And it was so. 25 God made the wild animals according to their kinds, the livestock according to their kinds, and all the creatures that move along the ground according to their kinds. And God saw that it was good.
-</p>
-<p>
-26 Then God said, “Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals,[a] and over all the creatures that move along the ground.”
-
-27 So God created mankind in his own image,
-    in the image of God he created them;
-    male and female he created them.
-</p>
-
-<p>
-28 God blessed them and said to them, “Be fruitful and increase in number; fill the earth and subdue it. Rule over the fish in the sea and the birds in the sky and over every living creature that moves on the ground.”
-
-29 Then God said, “I give you every seed-bearing plant on the face of the whole earth and every tree that has fruit with seed in it. They will be yours for food. 30 And to all the beasts of the earth and all the birds in the sky and all the creatures that move along the ground—everything that has the breath of life in it—I give every green plant for food.” And it was so.
-</p>
-<h3>
-31 God saw all that he had made, and it was very good. And there was evening, and there was morning—the sixth day.</p>
-</h3>
-</div>
-</div>
-
-<div class="chapter-card">
-  <img style="height: 200px; width: 375px;" src="images/ephesian_cards.png" alt="Chapter 2 Image">
-  <div class="chapter-text">
-    <h2>Genesis 2</h2>
-
-    <h3> Thus the heavens and the earth were completed</h3>
-    <p> in all their vast array.</p>
-<p>By the seventh day God had finished the work he had been doing; so on the seventh day he rested from all his work. Then God blessed the seventh day and made it holy, because on it he rested from all the work of creating that he had done.</p>
-
-<p>2 This is the account of the heavens and the earth when they were created, when the Lord God made the earth and the heavens. Now no shrub had yet appeared on the earth[a] and no plant had yet sprung up, for the Lord God had not sent rain on the earth and there was no one to work the ground, but streams[b] came up from the earth and watered the whole surface of the ground.</p>
-<p>3 Then the Lord God formed a man[c] from the dust of the ground and breathed into his nostrils the breath of life, and the man became a living being. Now the Lord God had planted a garden in the east, in Eden; and there he put the man he had formed. The Lord God made all kinds of trees grow out of the ground—trees that were pleasing to the eye and good for food. In the middle of the garden were the tree of life and the tree of the knowledge of good and evil.</p>
-
-<p>4 A river watering the garden flowed from Eden; from there it was separated into four headwaters. The name of the first is the Pishon; it winds through the entire land of Havilah, where there is gold. (The gold of that land is good; aromatic resin[d] and onyx are also there.) The name of the second river is the Gihon; it winds through the entire land of Cush.[e] The name of the third river is the Tigris; it runs along the east side of Ashur. And the fourth river is the Euphrates.</p>
-<p>5 The Lord God took the man and put him in the Garden of Eden to work it and take care of it. And the Lord God commanded the man, “You are free to eat from any tree in the garden; but you must not eat from the tree of the knowledge of good and evil, for when you eat from it you will certainly die.” The Lord God said, “It is not good for the man to be alone. I will make a helper suitable for him.”</p>
-
-<p>6 Now the Lord God had formed out of the ground all the wild animals and all the birds in the sky. He brought them to the man to see what he would name them; and whatever the man called each living creature, that was its name. So the man gave names to all the livestock, the birds in the sky and all the wild animals.</p>
-<p>7 But for Adam[f] no suitable helper was found. So the Lord God caused the man to fall into a deep sleep; and while he was sleeping, he took one of the man’s ribs[g] and then closed up the place with flesh. Then the Lord God made a woman from the rib[h] he had taken out of the man, and he brought her to the man.</p>
-
-<p>8 The man said, “This is now bone of my bones and flesh of my flesh; she shall be called ‘woman,’ for she was taken out of man.” That is why a man leaves his father and mother and is united to his wife, and they become one flesh. Adam and his wife were both naked, and they felt no shame.</p>
-
-     </div>
-</div>
-
-<!-- Repeat for other chapters -->
-<!-- You'll need to repeat the following structure for all 50 chapters of Genesis -->
-
-<div class="chapter-card">
-    <img style="height: 200px; width: 100%" src="images/ephesian_cards.png" alt="Chapter 2 Image">
-  <div class="chapter-text">
-    <h2>Genesis 3</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada augue sit amet libero congue, nec posuere magna dapibus. Duis convallis a ex ac facilisis. Phasellus in magna at lorem efficitur sodales vitae sed lectus. Integer sit amet vestibulum felis. Suspendisse potenti. Integer ultricies sem non felis tempus, in finibus neque gravida. Fusce convallis nulla id interdum hendrerit.</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada augue sit amet libero congue, nec posuere magna dapibus. Duis convallis a ex ac facilisis. Phasellus in magna at lorem efficitur sodales vitae sed lectus. Integer sit amet vestibulum felis. Suspendisse potenti. Integer ultricies sem non felis tempus, in finibus neque gravida. Fusce convallis nulla id interdum hendrerit.</p>
-
-  </div>
-</div>
-
-<div class="chapter-card">
-    <img style="height: 200px; width: 100%" src="images/ephesian_cards.png" alt="Chapter 2 Image">
-  <div class="chapter-text">
-    <h2>Genesis 4</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada augue sit amet libero congue, nec posuere magna dapibus. Duis convallis a ex ac facilisis. Phasellus in magna at lorem efficitur sodales vitae sed lectus. Integer sit amet vestibulum felis. Suspendisse potenti. Integer ultricies sem non felis tempus, in finibus neque gravida. Fusce convallis nulla id interdum hendrerit.</p>
-  </div>
-</div>
-
-<!-- Repeat for other chapters -->
-
-<div class="chapter-card">
-    <img style="height: 200px; width: 375px;" src="images/ephesian_cards.png" alt="Chapter 1 Image">
-    <div class="chapter-text">
-      <h2>Genesis 1</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada augue sit amet libero congue, nec posuere magna dapibus. Duis convallis a ex ac facilisis. Phasellus in magna at lorem efficitur sodales vitae sed lectus. Integer sit amet vestibulum felis. Suspendisse potenti. Integer ultricies sem non felis tempus, in finibus neque gravida. Fusce convallis nulla id interdum hendrerit.</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada augue sit amet libero congue, nec posuere magna dapibus. Duis convallis a ex ac facilisis. Phasellus in magna at lorem efficitur sodales vitae sed lectus. Integer sit amet vestibulum felis. Suspendisse potenti. Integer ultricies sem non felis tempus, in finibus neque gravida. Fusce convallis nulla id interdum hendrerit.</p>
-  
-    </div>
-  </div>
-  
-  <div class="chapter-card">
-    <img style="height: 200px; width: 375px;" src="images/ephesian_cards.png" alt="Chapter 2 Image">
-    <div class="chapter-text">
-      <h2>Genesis 2</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada augue sit amet libero congue, nec posuere magna dapibus. Duis convallis a ex ac facilisis. Phasellus in magna at lorem efficitur sodales vitae sed lectus. Integer sit amet vestibulum felis. Suspendisse potenti. Integer ultricies sem non felis tempus, in finibus neque gravida. Fusce convallis nulla id interdum hendrerit.</p>
-    </div>
-  </div>
-  
-  <!-- Repeat for other chapters -->
-  <!-- You'll need to repeat the following structure for all 50 chapters of Genesis -->
-  
-  <div class="chapter-card">
-      <img style="height: 200px; width: 350px;" src="images/ephesian_cards.png" alt="Chapter 2 Image">
-    <div class="chapter-text">
-      <h2>Genesis 3</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada augue sit amet libero congue, nec posuere magna dapibus. Duis convallis a ex ac facilisis. Phasellus in magna at lorem efficitur sodales vitae sed lectus. Integer sit amet vestibulum felis. Suspendisse potenti. Integer ultricies sem non felis tempus, in finibus neque gravida. Fusce convallis nulla id interdum hendrerit.</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada augue sit amet libero congue, nec posuere magna dapibus. Duis convallis a ex ac facilisis. Phasellus in magna at lorem efficitur sodales vitae sed lectus. Integer sit amet vestibulum felis. Suspendisse potenti. Integer ultricies sem non felis tempus, in finibus neque gravida. Fusce convallis nulla id interdum hendrerit.</p>
-  
-    </div>
-  </div>
-  
-  <div class="chapter-card">
-      <img style="height: 200px; width: 350px;" src="images/ephesian_cards.png" alt="Chapter 2 Image">
-    <div class="chapter-text">
-      <h2>Genesis 4</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada augue sit amet libero congue, nec posuere magna dapibus. Duis convallis a ex ac facilisis. Phasellus in magna at lorem efficitur sodales vitae sed lectus. Integer sit amet vestibulum felis. Suspendisse potenti. Integer ultricies sem non felis tempus, in finibus neque gravida. Fusce convallis nulla id interdum hendrerit.</p>
-    </div>
-  </div>
-
-
-
-  <div class="chapter-card">
-    <img style="height: 200px; width: 350px;" src="images/ephesian_cards.png" alt="Chapter 1 Image">
-    <div class="chapter-text">
-      <h2>Genesis 1</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada augue sit amet libero congue, nec posuere magna dapibus. Duis convallis a ex ac facilisis. Phasellus in magna at lorem efficitur sodales vitae sed lectus. Integer sit amet vestibulum felis. Suspendisse potenti. Integer ultricies sem non felis tempus, in finibus neque gravida. Fusce convallis nulla id interdum hendrerit.</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada augue sit amet libero congue, nec posuere magna dapibus. Duis convallis a ex ac facilisis. Phasellus in magna at lorem efficitur sodales vitae sed lectus. Integer sit amet vestibulum felis. Suspendisse potenti. Integer ultricies sem non felis tempus, in finibus neque gravida. Fusce convallis nulla id interdum hendrerit.</p>
-  
-    </div>
-  </div>
-  
-  <div class="chapter-card">
-    <img style="height: 200px; width: 350px;" src="images/ephesian_cards.png" alt="Chapter 2 Image">
-    <div class="chapter-text">
-      <h2>Genesis 2</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada augue sit amet libero congue, nec posuere magna dapibus. Duis convallis a ex ac facilisis. Phasellus in magna at lorem efficitur sodales vitae sed lectus. Integer sit amet vestibulum felis. Suspendisse potenti. Integer ultricies sem non felis tempus, in finibus neque gravida. Fusce convallis nulla id interdum hendrerit.</p>
-    </div>
-  </div>
-  
-  <!-- Repeat for other chapters -->
-  <!-- You'll need to repeat the following structure for all 50 chapters of Genesis -->
-  
-  <div class="chapter-card">
-      <img style="height: 200px; width: 350px;" src="images/ephesian_cards.png" alt="Chapter 2 Image">
-    <div class="chapter-text">
-      <h2>Genesis 3</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada augue sit amet libero congue, nec posuere magna dapibus. Duis convallis a ex ac facilisis. Phasellus in magna at lorem efficitur sodales vitae sed lectus. Integer sit amet vestibulum felis. Suspendisse potenti. Integer ultricies sem non felis tempus, in finibus neque gravida. Fusce convallis nulla id interdum hendrerit.</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada augue sit amet libero congue, nec posuere magna dapibus. Duis convallis a ex ac facilisis. Phasellus in magna at lorem efficitur sodales vitae sed lectus. Integer sit amet vestibulum felis. Suspendisse potenti. Integer ultricies sem non felis tempus, in finibus neque gravida. Fusce convallis nulla id interdum hendrerit.</p>
-  
-    </div>
-  </div>
-  
-  <div class="chapter-card">
-      <img style="height: 200px; width: 350px;" src="images/ephesian_cards.png" alt="Chapter 2 Image">
-    <div class="chapter-text">
-      <h2>Genesis 4</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada augue sit amet libero congue, nec posuere magna dapibus. Duis convallis a ex ac facilisis. Phasellus in magna at lorem efficitur sodales vitae sed lectus. Integer sit amet vestibulum felis. Suspendisse potenti. Integer ultricies sem non felis tempus, in finibus neque gravida. Fusce convallis nulla id interdum hendrerit.</p>
-    </div>
-  </div>
-
-
-
-
-
-
-<div class="chapter-card">
-  <img style="height: 200px; width: 350px;" src="images/ephesian_cards.png" alt="Chapter 1 Image">
-  <div class="chapter-text">
-    <h2>Genesis 1</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada augue sit amet libero congue, nec posuere magna dapibus. Duis convallis a ex ac facilisis. Phasellus in magna at lorem efficitur sodales vitae sed lectus. Integer sit amet vestibulum felis. Suspendisse potenti. Integer ultricies sem non felis tempus, in finibus neque gravida. Fusce convallis nulla id interdum hendrerit.</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada augue sit amet libero congue, nec posuere magna dapibus. Duis convallis a ex ac facilisis. Phasellus in magna at lorem efficitur sodales vitae sed lectus. Integer sit amet vestibulum felis. Suspendisse potenti. Integer ultricies sem non felis tempus, in finibus neque gravida. Fusce convallis nulla id interdum hendrerit.</p>
-
-  </div>
-</div>
-
-<div class="chapter-card">
-  <img style="height: 200px; width: 350px;" src="images/ephesian_cards.png" alt="Chapter 2 Image">
-  <div class="chapter-text">
-    <h2>Genesis 2</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada augue sit amet libero congue, nec posuere magna dapibus. Duis convallis a ex ac facilisis. Phasellus in magna at lorem efficitur sodales vitae sed lectus. Integer sit amet vestibulum felis. Suspendisse potenti. Integer ultricies sem non felis tempus, in finibus neque gravida. Fusce convallis nulla id interdum hendrerit.</p>
-  </div>
-</div>
-
-<!-- Repeat for other chapters -->
-<!-- You'll need to repeat the following structure for all 50 chapters of Genesis -->
-
-<div class="chapter-card">
-    <img style="height: 200px; width: 350px;" src="images/ephesian_cards.png" alt="Chapter 2 Image">
-  <div class="chapter-text">
-    <h2>Genesis 3</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada augue sit amet libero congue, nec posuere magna dapibus. Duis convallis a ex ac facilisis. Phasellus in magna at lorem efficitur sodales vitae sed lectus. Integer sit amet vestibulum felis. Suspendisse potenti. Integer ultricies sem non felis tempus, in finibus neque gravida. Fusce convallis nulla id interdum hendrerit.</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada augue sit amet libero congue, nec posuere magna dapibus. Duis convallis a ex ac facilisis. Phasellus in magna at lorem efficitur sodales vitae sed lectus. Integer sit amet vestibulum felis. Suspendisse potenti. Integer ultricies sem non felis tempus, in finibus neque gravida. Fusce convallis nulla id interdum hendrerit.</p>
-
-  </div>
-</div>
-
-<div class="chapter-card">
-    <img style="height: 200px; width: 350px;" src="images/ephesian_cards.png" alt="Chapter 2 Image">
-  <div class="chapter-text">
-    <h2>Genesis 4</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada augue sit amet libero congue, nec posuere magna dapibus. Duis convallis a ex ac facilisis. Phasellus in magna at lorem efficitur sodales vitae sed lectus. Integer sit amet vestibulum felis. Suspendisse potenti. Integer ultricies sem non felis tempus, in finibus neque gravida. Fusce convallis nulla id interdum hendrerit.</p>
-  </div>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</main>
-
-<script>window.aichatbotApiKey="d5a4bf57-ad50-41c9-a2df-fc39065dceba"; window.aichatbotProviderId="090b7349-c175-42bc-84e7-48aea4f62467";</script><script src="https://script.roboassist.ai/roboassist.js" id="d5a4bf57-ad50-41c9-a2df-fc39065dceba" defer></script>
+      var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s);
+      j.defer = true;
+      j.type = 'module';
+      j.src = 'https://aichatbot.sendbird.com/index.js';
+      f.parentNode.insertBefore(j, f);
+    }(window, document, 'script', '8F43F37F-A55B-45A1-9A7B-EA186C5BEAEC', 'onboarding_bot');
+    </script>
     <script src="smooth.js"></script>
+
+
+   
+  
 </body>
+
 </html>

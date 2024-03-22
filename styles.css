@@ -277,10 +277,13 @@ a:hover {
     margin: 10px;
     padding: 20px;
     width: 300px;
+    max-height: 400px;
+    overflow: hidden; /* Hide overflow content */
 }
 
 .book-card img {
     width: 100%;
+    height: 200px;
     border-radius: 10px 10px 0 0;
 }
 
@@ -289,7 +292,8 @@ a:hover {
 }
 
 .book-card p {
-    margin-bottom: 0;
+    overflow: auto; /* Allow scrolling for overflow content */
+    max-height: 200px; /* Set maximum height for scrollable area */
 }
 #d5a4bf57-ad50-41c9-a2df-fc39065dceba {
     color: gold;
