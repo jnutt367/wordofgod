@@ -293,7 +293,7 @@ a:hover {
 
 .book-card p {
     overflow: auto; /* Allow scrolling for overflow content */
-    max-height: 200px; /* Set maximum height for scrollable area */
+    max-height: 100px; /* Set maximum height for scrollable area */
 }
 #d5a4bf57-ad50-41c9-a2df-fc39065dceba {
     color: gold;
