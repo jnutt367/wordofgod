@@ -29,6 +29,7 @@ body {
     padding: 10px 0px;
     padding-right: 150px;
     z-index: 1000;
+    margin-bottom: -40px;
 }
 
 
@@ -80,7 +81,7 @@ body {
 .seperate {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 20rem;
+    margin-bottom: 11rem;
 }
 .testimony {
     font-size: 24px;
@@ -118,6 +119,16 @@ body {
 
 .btn:hover {
     background-color: #0056b3;
+}
+
+
+
+@media (min-width: 420px) {
+    .seperate {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 30rem;
+    }
 }
 @media (min-width: 769px) {
     .iframe1 {
