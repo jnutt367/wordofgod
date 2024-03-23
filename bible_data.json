@@ -2,7 +2,7 @@
     "books": [
       {
         "title": "Genesis",
-        "image": "images/ephesian_cards.png",
+        "image": "images/genesis2.png",
         "description": "In the beginning, God created the Heavens and the Earth. ... and the Spirit of God was hovering over the waters.",
         "link": "genesis.html"
     },
@@ -10,7 +10,7 @@
         "title": "Exodus",
         "image": "images/second_samuel.png",
         "description": "Honor your father and your mother, so that you may live long in the land the Lord your God is giving you.",
-        "link": "https://genesis1.vercel.app/#exodus"
+        "link": "exodus.html"
       },
       {
         "title": "Leviticus",
