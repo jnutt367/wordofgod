@@ -15,7 +15,10 @@ body {
 .smooth-transition {
     display: none;
 }
-
+.bi {
+    padding-top: 150px;
+    padding-left: 70px;
+}
 #framer {
     display: none;
 }
@@ -34,7 +37,7 @@ main {
     padding: 10px 0px;
     padding-right: 150px;
     z-index: 1000;
-    justify-content:space-between;
+    justify-content: space-between;
 }
 
 
@@ -51,6 +54,7 @@ main {
 .sticky-nav ul li {
     display: inline-block;
    margin: auto;
+   align-items: flex-start;
 }
 
 .sticky-nav ul li a {
@@ -61,6 +65,7 @@ main {
 .sticky-nav ul li a:hover {
     color: rgb(54, 117, 30);
     text-decoration: navajowhite;
+
 }
 
 /* Other styles remain the same */
