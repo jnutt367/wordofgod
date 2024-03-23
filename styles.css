@@ -291,6 +291,7 @@ a:hover {
 .book-card h2 {
     margin-top: 1rem;
     font-family: "Nanum Brush Script";
+    letter-spacing: 0.19rem;
 }
 
 .book-card p {
