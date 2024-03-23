@@ -23,7 +23,10 @@ body {
     padding-top: 150px;
     padding-left: 50px;
 }
-
+.bi-youtube {
+    padding-top: 150px;
+    padding-left: 50px;
+}
 #framer {
     display: none;
 }
