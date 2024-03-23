@@ -15,10 +15,15 @@ body {
 .smooth-transition {
     display: none;
 }
-.bi {
+.bi-pen-fill {
     padding-top: 150px;
     padding-left: 50px;
 }
+.bi-cup-hot-fill {
+    padding-top: 150px;
+    padding-left: 50px;
+}
+
 #framer {
     display: none;
 }
