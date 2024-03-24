@@ -72,7 +72,9 @@ body {
     padding-top: 150px;
     padding-left: 50px;
 }
-
+.logo {
+    width: 25px;
+}
 .container {
     max-width: 800px;
     background-color: rgb(57, 27, 86);
