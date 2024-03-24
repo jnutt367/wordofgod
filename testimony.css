@@ -62,7 +62,9 @@ body {
     padding-top: 150px;
     padding-left: 50px;
 }
-
+.bi {
+    padding-left: 25px;
+}
 .bi-pen-fill {
     padding-top: 150px;
     padding-left: 50px;
