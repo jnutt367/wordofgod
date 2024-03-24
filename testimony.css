@@ -140,6 +140,36 @@ body {
 .btn:hover {
     background-color: #0056b3;
 }
+.footer {
+    display: grid;
+    gap: 10px;
+    background-color: #524763;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+    position: fixed;
+    padding-bottom: 4rem ;
+    bottom: 0;
+    height: 25px;
+    width: 100%;
+  }
+  
+  .footer p {
+    margin: 0;
+  }
+  
+  .footer a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  .footer a:hover {
+    color: green;
+    text-decoration: none;
+    cursor:pointer;   
+  }
+
+
+
 
 
 
@@ -161,6 +191,11 @@ body {
         justify-content: space-between;
         margin-bottom: 35rem;
     }
+    .footer {
+        grid-template-columns: 1fr 1fr;
+
+    }
+
 
 }
 
@@ -176,5 +211,14 @@ body {
     .smooth-transition {
         display: block;
     }
+
+    @media (min-width: 1024px) {
+        .footer {
+            grid-template-columns: 1fr 1fr 1fr;
+    
+        }
+
+    }
+
 
 }
