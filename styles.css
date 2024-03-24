@@ -278,6 +278,9 @@ a:hover {
     color: green;
 }
 
+.logo {
+    width: 25px;
+}
 /* Book Card Styles */
 #books {
     display: flex;
