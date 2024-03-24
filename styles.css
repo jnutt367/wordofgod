@@ -12,8 +12,12 @@ body {
     margin: 0;
     padding: 0;
 }
-.bi {
-    padding-left: 2rem;
+.bi-arrow-left-square-fill {
+    padding-left: 25px;
+}
+
+.bi-arrow-right-square-fill {
+    padding-left: 25px;
 }
 .smooth-transition {
     display: none;

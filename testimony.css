@@ -62,7 +62,11 @@ body {
     padding-top: 150px;
     padding-left: 50px;
 }
-.bi {
+.bi-arrow-left-square-fill {
+    padding-left: 25px;
+}
+
+.bi-arrow-right-square-fill {
     padding-left: 25px;
 }
 .bi-pen-fill {
