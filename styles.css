@@ -12,6 +12,9 @@ body {
     margin: 0;
     padding: 0;
 }
+.bi {
+    padding-left: 2rem;
+}
 .smooth-transition {
     display: none;
 }
