@@ -104,7 +104,7 @@ body {
 .seperate {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 13rem;
+    margin-bottom: 15rem;
 }
 .testimony {
     font-size: 24px;
