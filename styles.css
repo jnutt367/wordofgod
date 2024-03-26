@@ -360,7 +360,7 @@ a:hover {
         background-color: #333;
         background-image: linear-gradient(to right, white, rgba(229, 144, 225, 0.75));
         padding: 10px 0px;
-        padding-right: 150px;
+        padding-right: 50px;
         z-index: 1000;
     }
 }
