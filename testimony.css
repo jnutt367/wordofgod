@@ -28,7 +28,7 @@ body {
     background-color: #ba56ad;
     background-image: linear-gradient(to right, rgb(238, 230, 237), rgba(229, 144, 225, 0.75));
     padding: 10px 0px;
-    padding-right: 150px;
+    padding-right: 50px;
     z-index: 1000;
     margin-bottom: -130px;
 }
