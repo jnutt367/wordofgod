@@ -4,7 +4,7 @@
   }
   
   .smooth-transition:hover {
-    color: green;
+    color: rgb(239, 95, 227);
   }
 /* General Styles */
 body {
@@ -54,7 +54,9 @@ main {
     z-index: 1000;
     justify-content: space-between;
 }
-
+.bi:hover {
+    color: #ae55ad;
+}
 
 
 
@@ -78,7 +80,7 @@ main {
 }
 
 .sticky-nav ul li a:hover {
-    color: rgb(54, 117, 30);
+    color: rgb(127, 26, 122);
     text-decoration: navajowhite;
 
 }
