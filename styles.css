@@ -200,7 +200,7 @@ header {
     background-color: rgb(167, 133, 169);
     padding-top: 0px;
     padding-bottom: 70px;
-    opacity: 0.5;
+    opacity: 01;
     
 }
 
@@ -413,6 +413,8 @@ a:hover {
         background-color: rgb(167, 133, 169);
         padding-top: 10px;
         padding-bottom: 10px;
+        opacity: 01;
+
     }
     .footer {
         grid-template-columns: 1fr 1fr;
@@ -451,7 +453,7 @@ a:hover {
         background-color: rgb(167, 133, 169);
         padding-top: 15px;
         padding-bottom: 15px;
-        opacity: 0.8;
+        opacity: 01;
     }
     .footer {
         grid-template-columns: 1fr 1fr 1fr;
