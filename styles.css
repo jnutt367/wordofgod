@@ -56,7 +56,7 @@ main {
     font-family: Nanum Brush Script;
 }
 .bi:hover {
-    color: #ae55ad;
+    color: #582e4f;
 }
 
 .jesus {
@@ -261,7 +261,7 @@ a:hover {
     text-decoration: none;
 }
 #toggleDropdown {
-    background-color: #cf4e4e;
+    background-color: #93418c;
     color: #f2dddd;
     border: none;
     padding: 0.5rem 1rem;
@@ -269,7 +269,7 @@ a:hover {
     z-index: 10;
 }
 #toggleDropdown:hover {
-    color:gold;
+    color:rgb(238, 236, 224);
 }
 .dropdown-content {
     display: none;
