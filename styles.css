@@ -384,6 +384,7 @@ a:hover {
         color: blanchedalmond;
         padding-bottom: 6rem;
         text-shadow: 3px 1px 1px #0d0c0c;
+        z-index: 100;
       
     }
 
