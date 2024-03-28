@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Nanum Brush Script, sans-serif;
     background-color: rgba(14, 1, 13, 0.75);
     background-image: linear-gradient(to right, rgb(19, 17, 19), rgba(229, 144, 225, 0.75));
     background-repeat: no-repeat;
@@ -8,6 +8,7 @@ body {
     margin: 0;
     padding: 0;
     margin-bottom: 5rem;
+    font-size: x-large;
 }
 .iframe1 {
     padding: 10px;
@@ -97,6 +98,7 @@ body {
     text-shadow: 1px 1px 0.1px rgb(207, 76, 40);;
     margin: 50px auto;
     padding: 20px;
+    font-size: xx-large;
 }
 .mask {
     background-color: rgb(3, 0, 3);
@@ -112,11 +114,13 @@ body {
     font-weight: bold;
     text-align: center;
     margin-bottom: 20px;
+    font-size: larger;
 }
 
 .paragraph {
     font-size: 16px;
     margin-bottom: 20px;
+    font-size: larger;
 }
 
 .glory {
