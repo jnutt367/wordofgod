@@ -300,7 +300,7 @@ header {
 }
 
 .pulse {
-    animation: pulse  3s infinite;
+    animation: pulse  6s infinite;
     position: relative;
     top: -15px;
     display: grid;
