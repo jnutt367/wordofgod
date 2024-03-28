@@ -100,7 +100,9 @@ body {
     margin: 50px auto;
     padding: 20px;
     font-size: xx-large;
-    margin-top: -0px;
+    border-radius: 15px;
+    box-shadow: 0 3px 10px 0 #aaa;
+    margin-top: 50px;
    
 }
 .mask {
