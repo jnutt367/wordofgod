@@ -105,6 +105,8 @@ main {
     position:relative;
     top: 30px;
     text-shadow: none;
+    font-size: x-large;
+    z-index: 100;
 }
 
 .jesus {
@@ -184,13 +186,13 @@ header {
 @keyframes pulse {
     0%, 100% {
         transform: scale(1);
-        color: rgb(25, 23, 25);
+        color: rgb(248, 244, 248);
         font-family: Rubik Doodle Shadow;
        
     }
     50% {
         transform: scale(1.01);
-        color: rgb(253, 249, 3);
+        color: rgb(12, 10, 12);
         opacity: 0.7;
     }
 }
