@@ -203,6 +203,7 @@ body {
 .jesus {
     position: relative;
     top: -260px;
+    font-size: larger;
     z-index: 100;
 }
 
