@@ -40,13 +40,13 @@
         "title": "Judges",
         "image": "images/first_john_cards.png",
         "description": "And the Angel of the Lord appeared to him and said to him, The Lord is with you, you mighty man of courage",
-        "link": "https://genesis1.vercel.app/#judges"
+        "link": "judges.html"
       },
       {
         "title": "Ruth",
         "image": "images/heart.png",
         "description": "May you be richly rewarded by the Lord, the God of Israel, under whose wings you have come to take refuge.",
-        "link": "https://genesis1.vercel.app/#ruth"
+        "link": "ruth.html"
       },
       {
         "title": "1 Samuel",
