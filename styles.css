@@ -321,13 +321,15 @@ a:hover {
 
 .book-card h2 {
     margin-top: 1rem;
-    font-family: "Nanum Brush Script";
-    letter-spacing: 0.19rem;
+    font-family: Rubik Doodle Shadow;
+    letter-spacing: 0.1rem;
+    font-size: large;
 }
 
 .book-card p {
     overflow: auto; /* Allow scrolling for overflow content */
     max-height: 100px; /* Set maximum height for scrollable area */
+    font-family: "Nanum Brush Script";
 }
 #d5a4bf57-ad50-41c9-a2df-fc39065dceba {
     color: gold;
