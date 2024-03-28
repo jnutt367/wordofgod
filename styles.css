@@ -53,12 +53,15 @@ main {
     padding-right: 50px;
     z-index: 1000;
     justify-content: space-between;
+    font-family: Nanum Brush Script;
 }
 .bi:hover {
     color: #ae55ad;
 }
 
-
+.jesus {
+    font-family: Nanum Brush Script;
+}
 
 .sticky-nav ul {
     list-style-type: none;
@@ -151,7 +154,9 @@ header {
     font-weight: bold;
     text-align: center;
     animation: fadeIn 1s ease-in-out; /* Animation duration and timing */
-    
+    font-family: Rubik Doodle Shadow;
+    color: #efef0b;
+    text-shadow: 2px 1px purple;
 }
 .header-fade {
     font-weight: bold;
@@ -179,6 +184,7 @@ header {
     0%, 100% {
         transform: scale(1);
         color: rgb(224, 193, 221);
+        font-family: Rubik Doodle Shadow;
        
     }
     50% {
