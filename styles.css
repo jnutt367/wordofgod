@@ -193,13 +193,13 @@ header {
     }
     50% {
         transform: scale(1.01);
-        color: rgb(249, 204, 5);
+        color: rgb(10, 10, 9);
         opacity: 0.8;
     }
 }
 
 .pulse {
-    animation: pulse  3s infinite;
+    animation: pulse  6s infinite;
     position: relative;
     top: -15px;
     display: grid;
