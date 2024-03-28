@@ -320,6 +320,7 @@ a:hover {
     width: 100%;
     height: 150px;
     border-radius: 10px 10px 0 0;
+    
 }
 
 .book-card h2 {
@@ -331,9 +332,13 @@ a:hover {
 }
 
 .book-card p {
+    background-image: url("images/paper.jpeg");
     overflow: auto; /* Allow scrolling for overflow content */
     max-height: 100px; /* Set maximum height for scrollable area */
     font-family: "Nanum Brush Script";
+    color: white;
+    font-size: 2rem;
+    padding: 1rem;
 }
 #d5a4bf57-ad50-41c9-a2df-fc39065dceba {
     color: gold;
