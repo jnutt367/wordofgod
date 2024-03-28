@@ -203,6 +203,7 @@ body {
 .jesus {
     position: relative;
     top: -85px;
+    z-index: 100;
 }
 
 
@@ -332,9 +333,9 @@ header {
 
 
 .bounce {
+    position: relative;
     animation: bounce 2s infinite;
     z-index: 100;
-   
 }
 
 
