@@ -334,6 +334,7 @@ a:hover {
 
 .book-card p {
     background-image: url("images/paper.jpeg");
+    opacity: 0.8;
     overflow: auto; /* Allow scrolling for overflow content */
     max-height: 100px; /* Set maximum height for scrollable area */
     font-family: "Nanum Brush Script";
