@@ -314,6 +314,7 @@ a:hover {
     width: 300px;
     max-height: 400px;
     overflow: hidden; /* Hide overflow content */
+    box-shadow: -1rem 0 3rem #000;
 }
 
 .book-card img {
