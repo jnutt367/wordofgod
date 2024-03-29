@@ -151,8 +151,8 @@ header {
     text-align: center;
 }
 .header-mask {
-    background-color: rgb(104, 20, 101);
-    opacity: 1;
+    background-color: rgb(54, 2, 53);
+    opacity: 0.9;
     z-index: infinite;
 } 
 .take-heart {
