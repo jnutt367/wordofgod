@@ -108,6 +108,13 @@ main {
     font-size: x-large;
     z-index: 100;
 }
+.jesus1 {
+    position: relative;
+    font-size: 2.4rem;
+    top: -300px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
 
 .jesus {
     position: relative;
@@ -386,6 +393,11 @@ a:hover {
         padding-right: 50px;
         z-index: 1000;
     }
+    .jesus1 {
+        top: -215px;
+    }
+
+
     .jesus {
         top: -215px;
     }
@@ -428,9 +440,15 @@ a:hover {
         top: 0px;
         font-size: xx-large;
     }
+    .jesus1 {
+        padding: 15px;
+        top: -190px;
+    }
+
+
     .jesus {
         padding: 15px;
-        top: -175px;
+        top: -225px;
     }
 
 
