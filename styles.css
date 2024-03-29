@@ -193,7 +193,7 @@ header {
     }
     50% {
         transform: scale(1.01);
-        color: rgb(10, 10, 9);
+        color: rgb(249, 249, 10);
         opacity: 0.8;
     }
 }
