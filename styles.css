@@ -340,7 +340,7 @@ a:hover {
     max-height: 100px; /* Set maximum height for scrollable area */
     font-family:'Courier New', Courier, monospace;
     color: white;
-    font-size: 2rem;
+    font-size: 1rem;
     padding: 1rem;
     padding-bottom: 2rem;
     border-radius: 25% 0px 0px;
