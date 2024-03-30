@@ -197,6 +197,7 @@ header {
         transform: scale(1);
         color: rgb(10, 246, 49);
         font-family: Rubik Doodle Shadow;
+        background-color: #000;
        
     }
     50% {
