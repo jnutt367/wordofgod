@@ -131,6 +131,7 @@ main {
     align-items: center;
     justify-content: center;
     top: -50px;
+    z-index: 0;
  }
 
 h1 {
@@ -153,7 +154,7 @@ header {
 .header-mask {
     background-color: rgb(54, 2, 53);
     opacity: 0.9;
-    z-index: infinite;
+    z-index: 100;
 } 
 .take-heart {
     font-weight: bold;
@@ -203,7 +204,7 @@ header {
     50% {
         transform: scale(1.01);
         color: rgb(249, 249, 10);
-        opacity: 0.8;
+        opacity: 0.5;
     }
 }
 
@@ -485,7 +486,7 @@ a:hover {
     #qr {
         
         left: 100px;
-        top: -275px;
+        top: -175px;
         width: 100px;
         padding: 30px;
         
