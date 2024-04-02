@@ -362,17 +362,21 @@ a:hover {
     gap: 10px;
     background-color: #524763;
     color: #ffffff;
-    padding: 20px 0;
+    
     text-align: center;
     position: fixed;
     bottom: 0;
     height: 25px;
     width: 100%;
     z-index: 100;
+    top: 810px;
+    padding-top: 1rem;
+    padding-bottom: 4rem;
   }
   
   .footer p {
     margin: 0;
+    
   }
   
   .footer a {
