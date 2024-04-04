@@ -2,19 +2,19 @@
     "books": [
       {
         "title": "Genesis",
-        "image": "images/genesis2.png",
+        "image": "images/mid_blown.jpeg",
         "description": "In the beginning, God created the Heavens and the Earth. ... and the Spirit of God was hovering over the waters.",
         "link": "genesis.html"
     },
       {
         "title": "Exodus",
-        "image": "images/second_samuel.png",
+        "image": "images/grand_canyon_reading.jpeg",
         "description": "Honor your father and your mother, so that you may live long in the land the Lord your God is giving you.",
         "link": "exodus.html"
       },
       {
         "title": "Leviticus",
-        "image": "images/peter_hero.png",
+        "image": "images/worship_outside.jpeg",
         "description": "Don't seek revenge | bear a grudge against anyone among your people, love your neighbor as yourself. I am the Lord.",
         "link": "leviticus.html"
       },
