@@ -2,8 +2,9 @@ body {
     font-family: Nanum Brush Script, sans-serif;
     background-color: rgba(14, 1, 13, 0.75);
 
-    background-image: url("images/mystical_mountain_lake.png");
+    background-image: url("images/save_children.jpeg");
     background-repeat: no-repeat;
+   
     background-size: contain;
     line-height: 1.6;
     margin: 0;
@@ -90,11 +91,12 @@ body {
 }
 .container {
     position: relative;
+    
     max-width: 800px;
     background-color: blue;
     opacity: 1;
     background-repeat: no-repeat;
-    max-height: 500px ;
+    max-height: 700px ;
     overflow-y: scroll;
     background-size: contain;
     color: white;
