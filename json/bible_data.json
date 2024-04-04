@@ -50,21 +50,21 @@
       },
       {
         "title": "1 Samuel",
-        "image": "images/obadiah.png",
+        "image": "images/bg-for-any-app.png",
         "description": "There is no one holy like the Lord; there is no one besides you;there is no Rock like our God.",
-        "link": "https://genesis1.vercel.app/#samuel"
+        "link": "samuel-1.html"
       },
       {
         "title": "2 Samuel",
-        "image": "images/ruth.png",
+        "image": "images/city_bible_reading.png",
         "description": "Though you are little in your own eyes, aren't you the head of the tribes of Israel? The Lord anointed you king over Israel",
-        "link": "https://genesis1.vercel.app/#second_samuel"
+        "link": "samuel-2.html"
       },
       {
         "title": "1 Kings",
-        "image": "images/thessalonians.png",
+        "image": "images/workshop.png",
         "description": "So be strong, act like a man, and observe what the Lord your God requires: Walk in obedience to him .",
-        "link": "https://genesis1.vercel.app/#kings"
+        "link": "kings-1.html"
       },
       {
         "title": "2 Kings",
