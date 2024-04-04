@@ -51,13 +51,12 @@ main {
     background-image: linear-gradient(to right, white, rgba(229, 144, 225, 0.75));
     padding: 10px 0px;
     padding-right: 50px;
-    z-index: 1000;
+    font-size: 2rem;
+    z-index: 1000;   
     justify-content: space-between;
     font-family: Nanum Brush Script;
 }
-.bi:hover {
-    color: #fced98;
-}
+
 
 .jesus {
     font-family: Nanum Brush Script;
