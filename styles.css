@@ -346,13 +346,15 @@ a:hover {
     background-color: #000;
     opacity: 1;
     overflow: auto; /* Allow scrolling for overflow content */
-    max-height: 200px; /* Set maximum height for scrollable area */
+    max-height: 250px; /* Set maximum height for scrollable area */
     font-family:'Courier New', Courier, monospace;
     color: rgb(245, 251, 252);
     font-size: 1.7rem;
     padding: 1rem;
+    padding-top: 3rem;
     padding-bottom: 2rem;
-    border-radius: 25% 0px 0px;
+    border-radius: 40% 2px;
+    border: 10px groove rgb(202, 169, 96);
 }
 #d5a4bf57-ad50-41c9-a2df-fc39065dceba {
     color: gold;
