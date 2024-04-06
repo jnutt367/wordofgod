@@ -305,6 +305,13 @@ header {
         color: rgb(244, 208, 5);
         opacity: 0.7;
     }
+    75% {
+        transform: scale(1);
+        color: rgb(246, 124, 10);
+        font-family: Rubik Doodle Shadow;
+        background-color: #120303;
+    }
+
 }
 
 .pulse {
