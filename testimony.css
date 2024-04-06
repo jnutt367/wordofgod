@@ -68,23 +68,23 @@ body {
 .bi-cup-hot-fill
 {
     padding-top: 150px;
-    padding-left: 50px;
+    
 }
 .bi-arrow-left-square-fill {
-    padding-left: 25px;
+    padding-top: 150px;
 }
 
 .bi-arrow-right-square-fill {
-    padding-left: 25px;
+    padding-top: 150px;
 }
 .bi-pen-fill {
     padding-top: 150px;
-    padding-left: 50px;
+    
 }
 
 .bi-youtube {
     padding-top: 150px;
-    padding-left: 50px;
+    
 }
 .bi:hover {
     color: #ba56ad;
