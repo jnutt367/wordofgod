@@ -307,9 +307,9 @@ header {
     }
     75% {
         transform: scale(1);
-        color: rgb(226, 26, 223);
+        color: rgb(224, 206, 223);
         font-family: Rubik Doodle Shadow;
-        background-color: #5c894a;
+        background-color: #282f25;
     }
 
 }
