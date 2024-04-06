@@ -51,7 +51,7 @@ main {
     background-image: linear-gradient(to right, white, rgba(229, 144, 225, 0.75));
     padding: 10px 0px;
     padding-right: 50px;
-    font-size: 2rem;
+    font-size: 1.6rem;
     z-index: 1000;   
     justify-content: space-between;
     font-family: Nanum Brush Script;
