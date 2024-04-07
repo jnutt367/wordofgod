@@ -294,36 +294,44 @@ header {
 
 @keyframes pulse {
     0% {
-        transform: scale(1);
+        transform: scale(0.97);
         color: rgb(10, 246, 49);
         font-family: Rubik Doodle Shadow;
         background-color: #000;
        
     }
-    50% {
-        transform: scale(1);
+    25% {
+        transform: scale(0.99);
         color: rgb(244, 208, 5);
+        font-family: Rubik Doodle Shadow;
+        background-color: #282f25;
+        opacity: 0.85;
+    }
+
+    50% {
+        transform: scale(1.04);
+        color: rgb(239, 247, 16);
         font-family: Rubik Doodle Shadow;
         opacity: 0.7;
     }
     75% {
-        transform: scale(1.01);
+        transform: scale(0.99);
         color: rgb(224, 206, 223);
         font-family: Rubik Doodle Shadow;
         background-color: #282f25;
     }
 
      100%  {
-        transform: scale(0.99);
-        color: rgb(241, 70, 13);
+        transform: scale(0.97);
+        color: rgb(24, 241, 13);
         font-family: Rubik Doodle Shadow;
-        background-color: #d4d44b;
+        background-color: #0f020f;
      }
 
 }
 
 .pulse {
-    animation: pulse  6s infinite;
+    animation: pulse  10s infinite;
     position: relative;
     top: -15px;
     display: grid;
