@@ -198,6 +198,7 @@ header {
         color: rgb(246, 251, 252);
         font-family: Rubik Doodle Shadow;
         background-color: #350335;
+        opacity: 0.9;
        
     }
     50% {
@@ -350,7 +351,7 @@ a:hover {
     margin-top: 1rem;
     font-family: Rubik Doodle Shadow;
     letter-spacing: 0.1rem;
-    color: #ae55ad;
+    color: #0f0e0f;
     font-size: large;
 }
 
