@@ -2,7 +2,7 @@
     "books": [
       {
         "title": "Genesis",
-        "image": "images/mid_blown.jpeg",
+        "image": "images/jason_prays.png",
         "description": "In the beginning, God created the Heavens and the Earth. ... and the Spirit of God was hovering over the waters.",
         "link": "genesis.html"
     },
@@ -14,7 +14,7 @@
       },
       {
         "title": "Leviticus",
-        "image": "images/cloud_praising.jpeg",
+        "image": "images/old_jay.jpeg",
         "description": "Don't seek revenge | bear a grudge against anyone among your people, love your neighbor as yourself. I am the Lord.",
         "link": "leviticus.html"
       },
@@ -56,13 +56,13 @@
       },
       {
         "title": "2 Samuel",
-        "image": "images/city_bible_reading.png",
+        "image": "images/worship_front_facing.jpeg",
         "description": "Though you are little in your own eyes, aren't you the head of the tribes of Israel? The Lord anointed you king over Israel",
         "link": "samuel-2.html"
       },
       {
         "title": "1 Kings",
-        "image": "images/workshop.png",
+        "image": "images/cloud_praising.jpeg",
         "description": "So be strong, act like a man, and observe what the Lord your God requires: Walk in obedience to him .",
         "link": "kings-1.html"
       },
@@ -74,7 +74,7 @@
       },
       {
         "title": "1 Chronicles",
-        "image": "images/aurora.png",
+        "image": "images/prosperous.jpeg",
         "description": "Tell of all his wonderful acts.Glory in his holy name; let the hearts of those who seek the Lord rejoice.",
         "link": "chronicles-1.html"
       },
