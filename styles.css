@@ -357,6 +357,7 @@ a:hover {
 
 .book-card p {
     background-image: url("images/paper.jpeg");
+    background-size: contain;
     background-color: #000;
     opacity: 1;
     overflow: auto; /* Allow scrolling for overflow content */
