@@ -202,7 +202,7 @@ header {
     }
     50% {
         transform: scale(1.01);
-        color: rgb(149, 142, 78);
+        color: rgb(248, 224, 7);
         opacity: 0.7;
     }
 
@@ -255,7 +255,11 @@ header {
 
 .bounce {
     animation: bounce 2s infinite;
-   
+    background-color: #000;
+    text-align: center;
+    opacity: 0.8;
+    padding: 1rem;
+    font-family: Rubik Doodle Shadow;
 }
 
 
