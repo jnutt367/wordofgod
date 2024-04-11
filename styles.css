@@ -59,7 +59,7 @@ main {
 
 
 .jesus {
-    font-family: Nanum Brush Script;
+    font-family: Rubik Doodle Shadow;
 }
 
 .sticky-nav ul {
@@ -255,11 +255,12 @@ header {
 
 .bounce {
     animation: bounce 2s infinite;
-    background-color: #000;
+    background-color: #7d7474;
+    color: white;
     text-align: center;
     opacity: 0.8;
     padding: 1rem;
-    font-family: Rubik Doodle Shadow;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 
