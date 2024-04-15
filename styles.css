@@ -303,8 +303,7 @@ a:hover {
   /* Dropdown button */
   .dropbtn {
     background-color: transparent;
-    border: none;
-    outline: none;
+    
     cursor: pointer;
   }
   
