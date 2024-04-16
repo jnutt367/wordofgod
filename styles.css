@@ -198,7 +198,7 @@ header {
         color: rgb(246, 251, 252);
         font-family: Rubik Doodle Shadow;
         background-color: #350335;
-        opacity: 0.9;
+        opacity: 0.6;
        
     }
     50% {
@@ -213,6 +213,7 @@ header {
         color: rgb(222, 240, 14);
         font-family: Rubik Doodle Shadow;
         background-color: #120303;
+        opacity: 0.3;
     }
 }
 
