@@ -333,7 +333,7 @@ a:hover {
   /* Show the dropdown menu on hover */
   .dropdown:hover .dropdown-content {
     display: grid;
-    left: -300px;
+    left: -50px;
     background-color: rgb(248, 209, 12);
     color: #ffffff;
     grid-template-columns: 1fr 1fr 1fr ;
