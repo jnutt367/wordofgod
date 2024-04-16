@@ -339,7 +339,7 @@ a:hover {
     left: -50px;
     background-color: rgb(248, 209, 12);
     color: #ffffff;
-    grid-template-columns: 1fr 1fr 1fr ;
+    grid-template-columns: 1fr 1fr;
   }
   
   /* Change color of dropdown links on hover */
@@ -518,10 +518,26 @@ a:hover {
         opacity: 01;
 
     }
+
+    .dropdown:hover .dropdown-content {
+        display: grid;
+        left: -50px;
+        background-color: rgb(248, 209, 12);
+        color: #ffffff;
+        grid-template-columns: 1fr 1fr 1fr;
+      }
+
+
     .footer {
         grid-template-columns: 1fr 1fr;
 
     }
+
+
+
+
+
+
 }
 
 @media (min-width: 1024px) {
