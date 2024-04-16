@@ -405,7 +405,7 @@ a:hover {
     border: 10px groove rgb(202, 169, 96);
 }
 #d5a4bf57-ad50-41c9-a2df-fc39065dceba {
-    color: gold;
+    color: rgb(0, 251, 255);
 }
 .footer {
     display: grid;
@@ -525,7 +525,7 @@ a:hover {
     .dropdown:hover .dropdown-content {
         display: grid;
         left: -50px;
-        background-color: rgb(248, 209, 12);
+        background-color: rgb(13, 243, 243);
         color: #ffffff;
         grid-template-columns: 1fr 1fr 1fr;
       }
