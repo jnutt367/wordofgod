@@ -50,7 +50,7 @@ main {
     background-color: #333;
     background-image: linear-gradient(to right, white, rgba(229, 144, 225, 0.75));
     padding: 10px 0px;
-    padding-right: 50px;
+    padding-right: 15px;
     font-size: 1.6rem;
     z-index: 1000;   
     justify-content: space-between;
@@ -307,8 +307,8 @@ a:hover {
     cursor: pointer;
   }
   .dropbtn:hover {
-    color:  rgb(248, 209, 12);
-    background-color:purple;
+   color: white;
+    background-color:rgb(12, 248, 248);
   }
   /* Dropdown content (hidden by default) */
   .dropdown-content {
@@ -337,8 +337,8 @@ a:hover {
   .dropdown:hover .dropdown-content {
     display: grid;
     left: -50px;
-    background-color: rgb(248, 209, 12);
-    color: #ffffff;
+    color: white;
+    background-color:rgb(12, 248, 248);
     grid-template-columns: 1fr 1fr;
   }
   
