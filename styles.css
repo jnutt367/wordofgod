@@ -303,10 +303,13 @@ a:hover {
   /* Dropdown button */
   .dropbtn {
     background-color: transparent;
-    
+    padding: 0.5rem;
     cursor: pointer;
   }
-  
+  .dropbtn:hover {
+    color:  rgb(248, 209, 12);
+    background-color:purple;
+  }
   /* Dropdown content (hidden by default) */
   .dropdown-content {
     display: none;
