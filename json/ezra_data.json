@@ -1,0 +1,74 @@
+{
+    "books": [
+      {
+        "title": "Chapter I: ",
+        "image": "images/grand_canyon_reading.jpeg",
+        "description":  "",
+        "link": ""
+    },
+      {
+        "title": "Chapter II: ",
+        "image": "images/grand_canyon_reading.jpeg",
+        "description": "",
+        "link": ""
+      },
+      {
+        "title": "Chapter III:",
+        "image": "images/grand_canyon_reading.jpeg",
+        "description": "",
+        "link": ""
+      },
+      {
+        "title": "Chapter IV: ",
+        "image": "images/grand_canyon_reading.jpeg",
+        "description": "",
+        "link": ""
+      },
+      {
+        "title": "Chapter V: ",
+        "image": "images/grand_canyon_reading.jpeg",
+        "description": "",
+        "link": ""
+      },
+      {
+        "title": "Chapter VI: Then the Lord said to Moses",
+        "image": "images/grand_canyon_reading.jpeg",
+        "description": "",
+        "link": ""
+      },
+      {
+        "title": "Chapter VII: Then the Lord said to Moses",
+        "image": "images/grand_canyon_reading.jpeg",
+        "description": "",
+        "link": ""
+      },
+      {
+        "title": "Chapter VIII: ",
+        "image": "images/grand_canyon_reading.jpeg",
+        "description": "",
+        "link": ""
+      },
+      {
+        "title": "Chapter IX: ",
+        "image": "images/grand_canyon_reading.jpeg",
+        "description": "",
+        "link": ""
+      },
+      {
+        "title": "Chapter X: ",
+        "image": "images/grand_canyon_reading.jpeg",
+        "description": "",
+        "link": ""
+      },
+
+
+
+      {
+        "title": "IMPORATANT: Publisher's Update!",
+        "image": "images/grand_canyon_reading.jpeg",
+        "description": "I am remaking the entire App in a way that I believe to be more user friendly and easy to navigate with more consistent styles and web best practices! Ezra.. Pray for me!",
+        "link": ""
+      }
+    
+    ]
+  }
