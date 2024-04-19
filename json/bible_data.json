@@ -261,13 +261,13 @@
         "title": "Luke",
         "image": "images/heart.png",
         "description": "For the Son of Man came to seek and to save the lost ... Do to others as you would have them do to you.",
-        "link": "https://luke-three.vercel.app/"
+        "link": "luke.html"
       },
       {
         "title": "John",
-        "image": "images/obadiah.png",
+        "image": "images/cloud_praising.jpeg",
         "description": "I am the way and the truth and the life. No one comes to the Father except through me.",
-        "link": "https://john-zeta.vercel.app/"
+        "link": "john.html"
       },
       {
         "title": "Acts",
