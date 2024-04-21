@@ -82,7 +82,7 @@ main {
 }
 
 .sticky-nav ul li a:hover {
-    color: rgb(127, 26, 122);
+    color: white;
     text-decoration: navajowhite;
 
 }
@@ -309,8 +309,11 @@ a:hover {
     cursor: pointer;
   }
   .dropbtn:hover {
-   color: white;
+   color: purple;
     background-color:rgb(12, 248, 248);
+    background-image: url("images/paper2.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
   }
   /* Dropdown content (hidden by default) */
   .dropdown-content {
@@ -326,7 +329,7 @@ a:hover {
     font-size: 16px;
     font-family: 'Courier New', Courier, monospace;
     border-radius: 11% 0px 0px 0px;
-    border: 3px inset rgb(244, 8, 228);
+    border: 3px inset palevioletred; 
   }
   
   /* Links inside the dropdown */
@@ -336,8 +339,10 @@ a:hover {
     text-decoration: none;
     display: block;
     text-align: left;
-    background-color: rgb(167, 218, 218);
-        color: #0b0101;
+    background-color: rgb(5, 6, 6);
+    background-image: url("images/paper2.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
   }
   
   /* Show the dropdown menu on hover */
@@ -346,6 +351,10 @@ a:hover {
     left: -50px;
     color: white;
     background-color:rgb(12, 248, 248);
+    background-image: url("images/paper2.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
     grid-template-columns: 1fr 1fr;
   }
   
