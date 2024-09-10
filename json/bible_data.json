@@ -405,7 +405,14 @@
         "image": "images/glowheart.png",
         "description": "The revelation of Jesus Christ in a vision to John, on the Island of Patmos, while he was in exile for the Word",
         "link": "https://phillipians.vercel.app/#revelation"
+      },
+      {
+        "title": "Enoch",
+        "image": "images/greenheart.png",
+        "description": "The five lost (hidden) books of Enoch and the Watchers",
+        "link": "https://phillipians.vercel.app/#enoch"
       }
+
     ]
   }
   
