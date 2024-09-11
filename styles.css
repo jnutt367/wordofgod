@@ -391,7 +391,9 @@ a:hover {
     overflow: hidden; /* Hide overflow content */
     box-shadow: -1rem 0 3rem #000;
 }
-
+.book-card:hover {
+    cursor: all-scroll;
+}
 .book-card img {
     width: 100%;
     height: 250px;
