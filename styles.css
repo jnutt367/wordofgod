@@ -145,7 +145,7 @@ h1 {
 }
 /* Header Styles */
 header {
-    background-image: url("images/mystical_mountain_lake.png");
+    background-image: url("images/prosperous.jpeg");
     background-repeat: no-repeat;
     background-size:cover;
     background-color: #a28787;
@@ -485,7 +485,7 @@ a:hover {
 
 @media (min-width: 769px) {
     header {
-        background-image: url("images/mystical_mountain_lake.png");
+        background-image: url("images/luke_card.png");
         opacity: 0.7;
         color: blanchedalmond;
         padding-bottom: 6rem;
@@ -568,7 +568,7 @@ a:hover {
 
 @media (min-width: 1024px) {
     header {
-        background-image: url("images/old_jay.jpeg");
+        background-image: url("images/bg-image-header_spacehead.png");
         opacity: 0.7;
         color: blanchedalmond;
         font-size: xx-large;
