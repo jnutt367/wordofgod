@@ -410,13 +410,15 @@ a:hover {
 }
 
 .book-card p {
-    background-image: url("images/paper.jpeg");
-    background-color: #000;
-    opacity: 1;
+    background-image: url("images/handcrafted-purple-paper.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #170505;
+    opacity: 0.9;
     overflow: auto; /* Allow scrolling for overflow content */
     max-height: 250px; /* Set maximum height for scrollable area */
     font-family:'Courier New', Courier, monospace;
-    color: rgb(245, 251, 252);
+    color: white;
     font-size: 1.7rem;
     padding: 1rem;
     padding-top: 3rem;
