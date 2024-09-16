@@ -39,7 +39,7 @@ body {
 }
 
 main {
-    background-image: linear-gradient(to right, rgb(114, 87, 111), rgba(229, 144, 225, 0.75));
+    background-image: linear-gradient(to right, rgb(178, 119, 172), rgba(161, 96, 158, 0.75));
     margin-bottom: 2rem;
 }
 /* Sticky Nav Styles */
@@ -48,9 +48,9 @@ main {
     position: sticky;
     top: 50px;
     background-color: #333;
-    background-image: linear-gradient(to right, rgba(223, 11, 212, 0.75), rgba(179, 28, 171, 0.75));
     padding: 10px 0px;
     padding-right: 15px;
+    background-color: white;
     font-size: 1.6rem;
     z-index: 1000;   
     justify-content: space-between;
@@ -86,7 +86,7 @@ main {
 
 .sticky-nav ul li a:hover {
     
-    color: rgb(137, 10, 154);
+    color: rgb(228, 222, 229);
     text-decoration: navajowhite;
     text-shadow: 1px 1px white;
 
@@ -467,7 +467,7 @@ a:hover {
         position: sticky;
         top: 0px;
         background-color: #333;
-        background-image: linear-gradient(to right,rgba(230, 185, 228, 0.75), rgba(245, 166, 241, 0.75));
+        background-image: linear-gradient(to right,rgba(70, 8, 61, 0.75), rgba(245, 166, 241, 0.75));
         padding: 10px 0px;
         padding-right: 50px;
         z-index: 1000;
