@@ -262,9 +262,9 @@ header {
 
 
 .bounce {
-    animation: bounce 2s infinite;
+    animation: bounce 3s ease-out;
     background-color: #7d7474;
-    color: white;
+    color: white;      
     text-align: center;
     opacity: 0.8;
     padding: 1rem;
