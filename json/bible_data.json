@@ -2,73 +2,73 @@
     "books": [
       {
         "title": "Genesis",
-        "image": "images/worship_back_turned.jpeg",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": "In the beginning, God created the Heavens and the Earth. ... and the Spirit of God was hovering over the waters.",
         "link": "genesis.html"
     },
       {
         "title": "Exodus",
-        "image": "images/worship_back_turned.jpeg",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": "Honor your father and your mother, so that you may live long in the land the Lord your God is giving you.",
         "link": "exodus.html"
       },
       {
         "title": "Leviticus",
-        "image": "images/old_jay.jpeg",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": "Don't seek revenge | bear a grudge against anyone among your people, love your neighbor as yourself. I am the Lord.",
         "link": "leviticus.html"
       },
       {
         "title": "Numbers",
-        "image": "images/shine.jpeg",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": "The Lord is slow to anger, abounding in love and forgiving sin and rebellion. Yet he does not leave the guilty unpunished",
         "link": "numbers.html"
       },
       {
         "title": "Deuteronomy",
-        "image": "images/cloud_reading.jpeg",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": "Hear, O Israel, The Lord our God, the Lord is one. Love the Lord your God with all your heart & soul & all your strength",
         "link": "deuteronomy.html"
       },
       {
         "title": "Joshua",
-        "image": "images/prosperous.jpeg",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": " then choose for yourselves this day whom you will serve ... as for me and my household, we will serve the Lord",
         "link": "joshua.html"
       },
       {
         "title": "Judges",
-        "image": "images/luke_card.png",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": "And the Angel of the Lord appeared to him and said to him, The Lord is with you, you mighty man of courage",
         "link": "judges.html"
       },
       {
         "title": "Ruth",
-        "image": "images/where_u_go.jpeg",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": "May you be richly rewarded by the Lord, the God of Israel, under whose wings you have come to take refuge.",
         "link": "ruth.html"
       },
       {
         "title": "1 Samuel",
-        "image": "images/bg-for-any-app.png",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": "There is no one holy like the Lord; there is no one besides you;there is no Rock like our God.",
         "link": "samuel-1.html"
       },
       {
         "title": "2 Samuel",
-        "image": "images/worship_front_facing.jpeg",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": "Though you are little in your own eyes, aren't you the head of the tribes of Israel? The Lord anointed you king over Israel",
         "link": "samuel-2.html"
       },
       {
         "title": "1 Kings",
-        "image": "images/cloud_praising.jpeg",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": "So be strong, act like a man, and observe what the Lord your God requires: Walk in obedience to him .",
         "link": "kings-1.html"
       },
       {
         "title": "2 Kings",
-        "image": "images/worship_outside.jpeg",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": "Don't be afraid. Those  with us are more than those who are with them ..., Open his eyes, LORD, so that he may see",
         "link": "kings-2.html"
       },
@@ -80,7 +80,7 @@
       },
       {
         "title": "2 Chronicles",
-        "image": "images/worship_back_turned.jpeg",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": "He gave them these orders: “You must serve faithfully and wholeheartedly in the fear of the Lord. ",
         "link": "chronicles-2.html"
       },
@@ -171,7 +171,7 @@
       },
       {
         "title": "Joel",
-        "image": "images/greenheart.png",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": "Be glad, people of Zion, rejoice in the Lord your God, for he has given you the autumn rains because he is faithful",
         "link": "https://the-revelation.vercel.app/#joel"
       },
@@ -190,7 +190,7 @@
       },
       {
         "title": "Jonah",
-        "image": "images/glowheart.png",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": "But I, with shouts of grateful praise, will sacrifice to you. What I have vowed I will make good",
         "link": "https://the-revelation.vercel.app/#jonah"
       },
@@ -239,7 +239,7 @@
 
       {
         "title": "The New Covenant",
-        "image": "images/worship_back_turned.jpeg",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": "Hebrews 8:10 (New International Version): This is the covenant I will establish with the people of Israel after that time, declares the Lord. I will put my laws in their minds and write them on their hearts. I will be their God, and they will be my people. ~ Here's a copmiled list of Jesus' Parables I made as a side project.",
         "link": "parables.html"
       },
@@ -282,7 +282,7 @@
       },
       {
         "title": "1 Corinthians",
-        "image": "images/greenheart.png",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": "For the foolishness of God is wiser than human wisdom, and the weakness of God is stronger than human strength",
         "link": "https://first-corinthians.vercel.app/"
       },
@@ -300,7 +300,7 @@
       },
       {
         "title": "Ephesians",
-        "image": "images/glowheart.png",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": "I pray that the eyes of your heart may be enlightened in order that you may know the hope to which he has called you",
         "link": "https://ephesians.vercel.app/"
       },
@@ -342,73 +342,73 @@
       },
       {
         "title": "Titus",
-        "image": "images/kings.png",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": "To the pure, all things are pure, but to those who are corrupted and do not believe, nothing is pure",
         "link": "https://luke-three.vercel.app/#titus"
       },
       {
         "title": "Philemon",
-        "image": "images/peter2.png",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": "It is as none other than Paul—an old man, now also a prisoner of Christ Jesus—that I appeal to you for my son Onesimus",
         "link": "https://john-zeta.vercel.app/#philemon"
       },
       {
         "title": "Hebrews",
-        "image": "images/first_john_cards.png",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": "For here we do not have an enduring city, but we are looking for the city that is to come",
         "link": "https://acts-zeta.vercel.app/#hebrews"
       },
       {
         "title": "James",
-        "image": "images/heart.png",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": "Count it all joy, brothers, when you meet trials of various kinds, you know that the testing of your faith produces patience",
         "link": "https://romans-five.vercel.app/#james"
         },
       {
         "title": "1 Peter",
-        "image": "images/obadiah.png",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": "But just as he who called you is holy, so be holy in all you do; for it is written: “Be holy, because I am holy.",
         "link": "https://galatians.vercel.app/#first_peter"
       },
       {
         "title": "2 Peter",
-        "image": "images/ruth.png",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": "Above all, you must understand that in the last days scoffers will come, scoffing and following their own evil desires.",
         "link": "https://galatians.vercel.app/#second_peter"
       },
       {
         "title": "1 John",
-        "image": "images/thessalonians.png",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": "We proclaim to you what we have seen and heard, so that you also may have fellowship with us....",
         "link": "https://ephesians.vercel.app/#first_john"
       },
       {
         "title": "2 John",
-        "image": "images/greenheart.png",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": "It has given me great joy to find some of your children walking in the truth, as the Father commanded us",
         "link": "https://ephesians.vercel.app/#second_john"
       },
       {
         "title": "3 John",
-        "image": "images/valleyherat.png",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": "I pray you may enjoy good health and that all may go well with you, even as your soul is getting along well",
         "link": "https://ephesians.vercel.app/#third_john"
       },
       {
         "title": "Jude",
-        "image": "images/red-framed-heart.png",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": "I felt compelled to write & urge you to contend for the faith once for all entrusted to God’s holy people",
         "link": "https://phillipians.vercel.app/#jude"
       },
       {
         "title": "The Revelation",
-        "image": "images/glowheart.png",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": "The revelation of Jesus Christ in a vision to John, on the Island of Patmos, while he was in exile for the Word",
         "link": "https://phillipians.vercel.app/#revelation"
       },
       {
         "title": "Enoch",
-        "image": "images/greenheart.png",
+        "image": "images/bible_genre_pie_chart_transparent.png",
         "description": "The five lost (hidden) books of Enoch and the Watchers",
         "link": "enoch-1.html"
       }
