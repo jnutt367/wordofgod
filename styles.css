@@ -145,19 +145,18 @@ h1 {
 }
 /* Header Styles */
 header {
-    background-image: url("images/bible_genre_pie_chart_transparent.png");
+    /* background-image: url("images/bible_genre_pie_chart_transparent.png");*/
     background-repeat: no-repeat;
     width: 100%;
     background-size:contain;
-    background-color: #f7f3f3;
+    background-color: #8c6e8e;
     color: aliceblue;
     padding-bottom: 2rem;
-    text-shadow: 2px 1px black;
     padding: 1rem;
     text-align: center;
 }
 .header-mask {
-    background-color: #8e0675;
+    background-color: #0a0108;
     opacity: 1;
     z-index: 100;
 } 
@@ -173,8 +172,8 @@ header {
     text-align: center;
     animation: fadeIn 1s ease-in-out; /* Animation duration and timing */
     font-family: Rubik Doodle Shadow;
-    color: #efef0b;
-    text-shadow: 2px 1px purple;
+    color: #1d1d1c;
+   
 }
 .header-fade {
     font-weight: bold;
@@ -412,8 +411,8 @@ a:hover {
 }
 
 .book-card p {
-    background-image: url("images/handcrafted-purple-paper.png");
-    background-size: cover;
+    background-image: url("images/paper.jpeg");
+    background-size: contain;
     background-repeat: no-repeat;
     background-color: #170505;
     opacity: 0.9;
@@ -493,7 +492,6 @@ a:hover {
         opacity: 0.7;
         color: blanchedalmond;
         padding-bottom: 6rem;
-        text-shadow: 3px 1px 1px #0d0c0c;
         z-index: 100;
       
     }
@@ -577,7 +575,6 @@ a:hover {
         background-size: contain;
         color: blanchedalmond;
         font-size: xx-large;
-        text-shadow: 3px 1px 1px #0d0c0c;
         padding-bottom: 20rem;
     }
 
