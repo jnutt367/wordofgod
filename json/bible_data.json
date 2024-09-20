@@ -2,13 +2,13 @@
     "books": [
       {
         "title": "Genesis",
-        "image": "images/god_inspire_me.png",
+        "image": "images/worship_back_turned.jpeg",
         "description": "In the beginning, God created the Heavens and the Earth. ... and the Spirit of God was hovering over the waters.",
         "link": "genesis.html"
     },
       {
         "title": "Exodus",
-        "image": "images/grand_canyon_reading.jpeg",
+        "image": "images/worship_back_turned.jpeg",
         "description": "Honor your father and your mother, so that you may live long in the land the Lord your God is giving you.",
         "link": "exodus.html"
       },
@@ -80,7 +80,7 @@
       },
       {
         "title": "2 Chronicles",
-        "image": "images/grand_canyon_reading.jpeg",
+        "image": "images/worship_back_turned.jpeg",
         "description": "He gave them these orders: “You must serve faithfully and wholeheartedly in the fear of the Lord. ",
         "link": "chronicles-2.html"
       },
@@ -239,7 +239,7 @@
 
       {
         "title": "The New Covenant",
-        "image": "images/god_inspire_me.png",
+        "image": "images/worship_back_turned.jpeg",
         "description": "Hebrews 8:10 (New International Version): This is the covenant I will establish with the people of Israel after that time, declares the Lord. I will put my laws in their minds and write them on their hearts. I will be their God, and they will be my people. ~ Here's a copmiled list of Jesus' Parables I made as a side project.",
         "link": "parables.html"
       },
