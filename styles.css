@@ -145,10 +145,11 @@ h1 {
 }
 /* Header Styles */
 header {
-    background-image: url("images/aurora.png");
+    background-image: url("images/bible_genre_pie_chart_transparent.png");
     background-repeat: no-repeat;
-    background-size:cover;
-    background-color: #a28787;
+    width: 100%;
+    background-size:contain;
+    background-color: #f7f3f3;
     color: aliceblue;
     padding-bottom: 2rem;
     text-shadow: 2px 1px black;
@@ -487,8 +488,8 @@ a:hover {
 
 @media (min-width: 769px) {
     header {
-        background-image: url("images/aurora.png");
-        background-size: cover;
+        background-image: url("images/bible_genre_pie_chart_transparent.png");
+        background-size: contain;
         opacity: 0.7;
         color: blanchedalmond;
         padding-bottom: 6rem;
@@ -571,9 +572,9 @@ a:hover {
 
 @media (min-width: 1024px) {
     header {
-        background-image: url("images/aurora.png");
+        background-image: url("images/bible_genre_pie_chart_transparent.png");
         opacity: 0.7;
-        background-size: cover;
+        background-size: contain;
         color: blanchedalmond;
         font-size: xx-large;
         text-shadow: 3px 1px 1px #0d0c0c;
