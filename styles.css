@@ -156,7 +156,7 @@ header {
     text-align: center;
 }
 .header-mask {
-    background-color: #0a0108;
+    background-color: #f413c3;
     opacity: 1;
     z-index: 100;
 } 
@@ -172,7 +172,7 @@ header {
     text-align: center;
     animation: fadeIn 1s ease-in-out; /* Animation duration and timing */
     font-family: Rubik Doodle Shadow;
-    color: #dede0f;
+    color: #eeee0a;
    
 }
 .header-fade {
@@ -263,8 +263,8 @@ header {
 
 .bounce {
     animation: bounce 3s ease-out;
-    background-color: #7d7474;
-    color: white;      
+    background-color: #77547e;
+    color: rgb(17, 13, 13);      
     text-align: center;
     opacity: 0.8;
     padding: 1rem;
