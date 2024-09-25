@@ -93,6 +93,9 @@ main {
 }
 
 /* Other styles remain the same */
+.iframe {
+    height:fit-content;
+   }
 
 
 .iframe1 {
@@ -496,7 +499,9 @@ a:hover {
       
     }
 
-   
+   .iframe {
+    height:fit-content;
+   }
 
     #books {
         display: flex;
