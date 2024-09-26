@@ -94,7 +94,9 @@ main {
 
 /* Other styles remain the same */
 .iframe {
-    height:fit-content;
+    height: 300px;
+    padding: 10px;
+    padding-top: 15px;
    }
 
 
@@ -499,9 +501,12 @@ a:hover {
       
     }
 
-   .iframe {
-    height:fit-content;
-   }
+    .iframe {
+        height: 300px;
+        padding: 25px;
+        padding-top: 35px;
+
+       }
 
     #books {
         display: flex;
@@ -591,7 +596,16 @@ a:hover {
         padding: 30px;
         
     }
-  
+    .iframe {
+        height: 300px;
+        padding: 125px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+       
+
+       }
+
+
     .iframe1 {
         background-color: #af83ae;
         padding-left: 15rem;
