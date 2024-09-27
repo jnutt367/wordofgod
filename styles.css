@@ -419,7 +419,7 @@ a:hover {
 }
 .book-card img {
     width: 100%;
-    height: 100px;
+    height: 200px;
     border-radius: 10px 10px 0 0;
     
 }
@@ -446,8 +446,8 @@ a:hover {
     padding: 1rem;
     padding-top: 3rem;
     padding-bottom: 2rem;
-    border-radius: 40% 2px;
-    border: 10px groove rgb(202, 169, 96);
+    
+    border: 1px groove rgb(202, 169, 96);
 }
 #d5a4bf57-ad50-41c9-a2df-fc39065dceba {
     color: rgb(0, 251, 255);
