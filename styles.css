@@ -58,7 +58,7 @@ main {
     background-color: white;
     font-size: 1.6rem;
     z-index: 1000;   
-    justify-content: space-between;
+    justify-content: space-evenly;
     font-family: Nanum Brush Script;
     color: black;
 }
@@ -79,7 +79,7 @@ main {
 .sticky-nav ul li {
     display: inline-block;
    margin: auto;
-   align-items: flex-start;
+   align-items:flex-end;
    color: black;
 }
 
@@ -178,7 +178,7 @@ header {
 
 p {
     color: #f13d21;
-    margin-top: -5px;
+    margin-top: -0px;
 }
 .header-text {
     font-weight: bold;
@@ -369,7 +369,7 @@ a:hover {
     left: -50px;
     color: white;
     background-color:rgb(12, 248, 248);
-    background-image: url("peter_hero.png");
+    background-image: url("images/bg-for-any-app.png");
     background-repeat: no-repeat;
 
     grid-template-columns: 1fr 1fr;
@@ -378,7 +378,7 @@ a:hover {
   /* Change color of dropdown links on hover */
   .dropdown-content a:hover {
     background-color: #ddd;
-    background-image: url("images/aurora.png");
+    background-image: url("images/bg-for-any-app.png");
     background-repeat: no-repeat;
     color: white;
 
