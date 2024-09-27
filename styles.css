@@ -197,14 +197,15 @@ p {
 
 @keyframes headerIn {
     0% { opacity: 0;  } /* Start with opacity 0 */
+
     100% { opacity: 1;  } /* End with opacity 1 */
 }
 
 
 
 @keyframes fadeIn {
-    0% { opacity: 0.2;} /* Start with opacity 0 */
-    100% { opacity: 1;} /* End with opacity 1 */
+    0% { opacity: 0.1;} /* Start with opacity 0 */
+    100% { opacity: 0.5;} /* End with opacity 1 */
 }
 
 
