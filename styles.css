@@ -64,7 +64,7 @@ main {
 
 
 .jesus {
-    font-family: Rubik Doodle Shadow;
+    font-family: fantasy;
 }
 
 .sticky-nav ul {
@@ -125,7 +125,7 @@ main {
     position: relative;
     font-size: 2.4rem;
     top: -300px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Oxygen;
 }
 
 
@@ -133,7 +133,7 @@ main {
     position: relative;
     font-size: 2.4rem;
     top: -300px;
-    font-family: monospace;
+    font-family: Oxygen;
 }
 
 
@@ -154,7 +154,7 @@ h1 {
 }
 /* Header Styles */
 header {
-    background-image: url("images/bg-image-header_spacehead.png");
+    background-image: url("images/bg-for-any-app.png");
     opacity: 0.7;
     background-repeat: no-repeat;
     background-size: cover;
@@ -180,8 +180,8 @@ header {
     font-weight: bold;
     text-align: center;
     animation: fadeIn 1s ease-in-out; /* Animation duration and timing */
-    font-family: Rubik Doodle Shadow;
-    color: #eeee0a;
+    font-family: fantasy;
+    color: #f2f2f0;
    
 }
 .header-fade {
@@ -209,23 +209,23 @@ header {
 @keyframes pulse {
     0%, 100% {
         transform: scale(1);
-        color: rgb(246, 251, 252);
-        font-family: Rubik Doodle Shadow;
+        color: rgb(21, 241, 241);
+        font-family: fantasy;
         background-color: #350335;
         opacity: 0.6;
        
     }
     50% {
         transform: scale(1.01);
-        color: rgb(248, 224, 7);
+        color: white;
         opacity: 0.7;
     }
 
 
     75% {
         transform: scale(1);
-        color: rgb(222, 240, 14);
-        font-family: Rubik Doodle Shadow;
+        color: rgb(56, 201, 211);
+        font-family: fantasy;
         background-color: #120303;
         opacity: 0.3;
     }
@@ -381,6 +381,14 @@ a:hover {
 .logo {
     width: 25px;
 }
+
+
+.encourage {
+    padding: 3rem;
+    font-family: fantasy;
+}
+
+
 /* Book Card Styles */
 #books {
     display: flex;
@@ -413,7 +421,7 @@ a:hover {
 
 .book-card h2 {
     margin-top: 1rem;
-    font-family: Rubik Doodle Shadow;
+    font-family: fantasy;
     letter-spacing: 0.1rem;
     color: #0f0e0f;
     font-size: large;
@@ -496,7 +504,7 @@ a:hover {
 
 @media (min-width: 769px) {
     header {
-        background-image: url("images/bg-image-header_spacehead.png");
+        background-image: url("images/bg-for-any-app.png");
         opacity: 0.7;
         background-size: cover;
         color: blanchedalmond;
@@ -584,7 +592,7 @@ a:hover {
 
 @media (min-width: 1024px) {
     header {
-        background-image: url("images/bg-image-header_spacehead.png");
+        background-image: url("images/bg-for-any-app.png");
         opacity: 0.7;
         background-size: cover;
         color: blanchedalmond;
