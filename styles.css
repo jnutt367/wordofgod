@@ -212,13 +212,13 @@ header {
         color: rgb(21, 241, 241);
         font-family: fantasy;
         background-color: #350335;
-        opacity: 0.6;
+        opacity: 0.7;
        
     }
     50% {
-        transform: scale(1.01);
-        color: white;
-        opacity: 0.7;
+        transform: scale(1.001);
+        color: rgb(227, 211, 227);
+        opacity: 1;
     }
 
 
@@ -226,8 +226,8 @@ header {
         transform: scale(1);
         color: rgb(56, 201, 211);
         font-family: fantasy;
-        background-color: #120303;
-        opacity: 0.3;
+        background-color: #421544;
+        opacity: 0.9;
     }
 }
 
