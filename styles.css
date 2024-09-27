@@ -154,7 +154,7 @@ h1 {
 }
 /* Header Styles */
 header {
-    background-image: url("images/bg-for-any-app.png");
+    background-image: url("peter_hero.png");
     opacity: 0.7;
     background-repeat: no-repeat;
     background-size: cover;
@@ -175,13 +175,15 @@ header {
     animation: pulse 2s ease-out; /* Animation duration and timing */
 }
 
-
+p {
+    color: #648077;
+}
 .header-text {
     font-weight: bold;
     text-align: center;
     animation: fadeIn 1s ease-in-out; /* Animation duration and timing */
     font-family: fantasy;
-    color: #f2f2f0;
+    color: #0a0a08;
    
 }
 .header-fade {
@@ -326,7 +328,7 @@ a:hover {
   .dropbtn:hover {
    color: rgb(247, 243, 247);
     background-color:rgb(12, 248, 248);
-    background-image: url("mystical_mountain_lake.png");
+    background-image: url("peter_hero.png");
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -364,7 +366,7 @@ a:hover {
     left: -50px;
     color: white;
     background-color:rgb(12, 248, 248);
-    background-image: url("mystical_mountain_lake.png");
+    background-image: url("peter_hero.png");
     background-repeat: no-repeat;
 
     grid-template-columns: 1fr 1fr;
@@ -504,7 +506,7 @@ a:hover {
 
 @media (min-width: 769px) {
     header {
-        background-image: url("images/bg-for-any-app.png");
+        background-image: url("peter_hero.png");
         opacity: 0.7;
         background-size: cover;
         color: blanchedalmond;
@@ -592,7 +594,7 @@ a:hover {
 
 @media (min-width: 1024px) {
     header {
-        background-image: url("images/bg-for-any-app.png");
+        background-image: url("peter_hero.png");
         opacity: 0.7;
         background-size: cover;
         color: blanchedalmond;
