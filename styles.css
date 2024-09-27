@@ -178,7 +178,8 @@ header {
 
 p {
     color: #f13d21;
-    margin-top: 40px;
+    margin-top: 30px;
+    padding-bottom: 10px;
 }
 .header-text {
     font-weight: bold;
