@@ -223,7 +223,7 @@ p {
     50% {
         transform: scale(1.001);
         color: rgb(227, 211, 227);
-        opacity: 1;
+        opacity: 0.3;
     }
 
 
@@ -232,7 +232,7 @@ p {
         color: rgb(56, 201, 211);
         font-family: fantasy;
         background-color: #421544;
-        opacity: 0.9;
+        opacity: 0.5;
     }
 }
 
