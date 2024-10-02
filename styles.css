@@ -391,7 +391,7 @@ a:hover {
 .encourage {
     padding: 3rem;
     font-family: fantasy;
-    margin-bottom: -150px;
+    margin-bottom: -100px;
 }
 
 
@@ -505,7 +505,11 @@ a:hover {
     
 }
 
-    
+
+.encourage {
+    margin-bottom: -200px;
+}
+}
 
 
 @media (min-width: 769px) {
@@ -589,7 +593,9 @@ a:hover {
 
     }
 
-
+    .encourage {
+        margin-bottom: 0px;
+    }
 
 
 
@@ -630,7 +636,9 @@ a:hover {
         padding-right: 15rem;
     }
 
-
+.encourage {
+    margin-bottom: 0px;
+}
     .pulse {
         font-size: 1.5rem;
         background-color: transparent;
@@ -642,5 +650,4 @@ a:hover {
         grid-template-columns: 1fr 1fr 1fr;
 
     }
-}
 }
