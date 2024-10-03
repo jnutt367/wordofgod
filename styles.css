@@ -121,12 +121,14 @@ main {
     text-shadow: none;
     font-size: x-large;
     z-index: 100;
+    color: white;
 }
 .jesus1 {
     position: relative;
     font-size: 2.4rem;
     top: -300px;
     font-family: Oxygen;
+    color: white;
 }
 
 
@@ -177,7 +179,7 @@ header {
 }
 
 p {
-    color: #338f32;
+    color: white;
     margin-top: 30px;
 }
 .header-text {
@@ -216,7 +218,7 @@ p {
         transform: scale(1);
         color: rgb(21, 241, 241);
         font-family: fantasy;
-        background-color: #350335;
+        background-color: #9b829b;
         opacity: 0.7;
        
     }
@@ -231,7 +233,7 @@ p {
         transform: scale(1);
         color: rgb(56, 201, 211);
         font-family: fantasy;
-        background-color: #421544;
+        background-color: #675668;
         opacity: 0.5;
     }
 }
