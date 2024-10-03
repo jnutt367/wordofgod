@@ -525,7 +525,9 @@ a:hover {
         z-index: 100;
       
     }
-
+    .animated-text {
+        display: none;
+    }
     .iframe {
         height: 300px;
         padding: 25px;
