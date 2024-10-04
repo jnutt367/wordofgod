@@ -158,7 +158,7 @@ h1 {
 }
 /* Header Styles */
 header {
-    background-image: url("mountain_top.png");
+    background-image: url("images/grand_canyon_reading.jpeg");
     opacity: 0.7;
     background-repeat: no-repeat;
     background-size: cover;
@@ -335,7 +335,7 @@ a:hover {
   .dropbtn:hover {
    color: rgb(247, 243, 247);
     background-color:rgb(12, 248, 248);
-    background-image: url("mountain_top.png");
+    background-image: url("images/grand_canyon_reading.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -519,7 +519,7 @@ a:hover {
 
 @media (min-width: 769px) {
     header {
-        background-image: url("mountain_top.png");
+        background-image: url("images/grand_canyon_reading.jpeg");
         opacity: 0.7;
         background-size: cover;
         color: blanchedalmond;
@@ -612,7 +612,7 @@ a:hover {
 
 @media (min-width: 1024px) {
     header {
-        background-image: url("mountain_top.png");
+        background-image: url("images/grand_canyon_reading.jpeg");
         opacity: 0.7;
         background-size: cover;
         color: blanchedalmond;
