@@ -80,13 +80,13 @@ main {
     display: inline-block;
    margin: auto;
    align-items:flex-end;
-   color: black;
+   color: rgb(230, 240, 240);
 }
 
 .sticky-nav ul li a {
    
     text-decoration: none;
-    color: white;
+    color: rgb(17, 210, 232);
 }
 
 .sticky-nav ul li a:hover {
@@ -188,7 +188,7 @@ p {
     text-align: center;
     animation: fadeIn 1s ease-in-out; /* Animation duration and timing */
     font-family: fantasy;
-    color: #0a0a08;
+    color: rgb(7, 33, 225);
    
 }
 .header-fade {
@@ -305,7 +305,7 @@ a {
     color: white;
 }
 a:hover {
-    color:  #0b4f22;
+    color:  #53fffc;
     text-decoration: none;
 }
 #toggleDropdown {
@@ -460,27 +460,27 @@ a:hover {
 .footer {
     display: grid;
     gap: 10px;
-    background-color: #524763;
-    color: #ffffff;
-    
+    background-color: #e9e7ea;
+    color: #121010;
     text-align: center;
     position: fixed;
     bottom: 0;
-    height: 25px;
+    height: 405px;
     width: 100%;
     z-index: 100;
     top: 810px;
     padding-top: 1rem;
-    padding-bottom: 4rem;
+    padding-bottom: 8rem;
   }
   
   .footer p {
     margin: 0;
+    color: gray;
     
   }
   
   .footer a {
-    color: #ffffff;
+    color: #090808;
     text-decoration: none;
   }
   .footer a:hover {
