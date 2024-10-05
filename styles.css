@@ -331,6 +331,7 @@ a:hover {
     background-color: transparent;
     padding: 0.5rem;
     cursor: pointer;
+    color:#53fffc;
   }
   .dropbtn:hover {
    color: rgb(247, 243, 247);
