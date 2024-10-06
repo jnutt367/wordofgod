@@ -138,6 +138,7 @@ main {
     font-size: 2.4rem;
     top: -300px;
     font-family: Oxygen;
+    color: #e9e7ea;
 }
 
 
@@ -180,7 +181,7 @@ header {
 }
 
 p {
-    color: white;
+    color: rgb(78, 63, 211);
     margin-top: 30px;
 }
 .header-text {
