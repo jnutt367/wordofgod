@@ -43,7 +43,7 @@ body {
     background-color: #000;
 }
 main {
-    background-color: rgb(56, 4, 49);
+    background-color:#689f8a;
     margin-bottom: 2rem;
 }
 
@@ -52,15 +52,15 @@ main {
 .sticky-nav {
     position: sticky;
     top: 50px;
-    background-color: #333;
+    
     padding: 10px 0px;
     padding-right: 15px;
-    background-color: white;
+    background-color:transparent;
     font-size: 1.6rem;
     z-index: 1000;   
     justify-content: space-evenly;
     font-family: Nanum Brush Script;
-    color: black;
+    color: rgb(240, 29, 29);
 }
 
 
@@ -84,9 +84,9 @@ main {
 }
 
 .sticky-nav ul li a {
-   
+   color: #e1c9c9;
     text-decoration: none;
-    color: rgb(17, 210, 232);
+    background-color:transparent;
 }
 
 .sticky-nav ul li a:hover {
@@ -332,7 +332,7 @@ a:hover {
     background-color: transparent;
     padding: 0.5rem;
     cursor: pointer;
-    color:#53fffc;
+    color:#c7dede;
   }
   .dropbtn:hover {
    color: rgb(247, 243, 247);
@@ -495,8 +495,7 @@ a:hover {
     .sticky-nav {
         position: sticky;
         top: 0px;
-        background-color: #333;
-        background-image: linear-gradient(to right,rgba(70, 8, 61, 0.75), rgba(245, 166, 241, 0.75));
+        background-color:transparent;
         padding: 10px 0px;
         padding-right: 50px;
         z-index: 1000;
@@ -607,7 +606,7 @@ a:hover {
         color: #000;
     }
 
-
+   
 
 
 }
