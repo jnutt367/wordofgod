@@ -86,7 +86,7 @@ main {
 }
 
 .sticky-nav ul li a {
-   color: #5f0b0b;
+   color: #030303;
     text-decoration: none;
     background-color:transparent;
 }
@@ -173,7 +173,7 @@ header {
   
   .header-mask {
     background-color: #000; /* Black overlay */
-    opacity: 0.86;; /* Adjust opacity to your liking */
+    opacity: 0.9; /* Adjust opacity to your liking */
     color: #070707;
     z-index: 100;
   }
@@ -194,7 +194,7 @@ p {
 .header-text {
     font-weight: bold;
     text-align: center;
-    animation: fadeIn 1s ease-in-out; /* Animation duration and timing */
+    animation: fadeIn 1.5s ease-in-out; /* Animation duration and timing */
     font-family: fantasy;
     color: rgb(8, 8, 8);
     text-shadow: 1px 1px #ccd2d2;
@@ -210,14 +210,14 @@ p {
 @keyframes headerIn {
     0% { opacity: 0;  } /* Start with opacity 0 */
 
-    100% { opacity:0;  } /* End with opacity 1 */
+    100% { opacity: 1;  } /* End with opacity 1 */
 }
 
 
 
 @keyframes fadeIn {
     0% { opacity: 0.1;} /* Start with opacity 0 */
-    100% { opacity: 0.5;} /* End with opacity 1 */
+    100% { opacity:1;} /* End with opacity 1 */
 }
 
 
@@ -241,7 +241,7 @@ p {
 
     75% {
         transform: scale(1);
-        color: rgb(56, 201, 211);
+        color: rgb(9, 9, 9);
         font-family: fantasy;
         background-color: #675668;
         opacity: 0.5;
@@ -383,7 +383,7 @@ a:hover {
     left: -50px;
     color: white;
     background-color:rgb(12, 248, 248);
-    background-image: url("images/bg-for-any-app.png");
+    background-image: url("ephesian_cards.png");
     background-repeat: no-repeat;
 
     grid-template-columns: 1fr 1fr;
@@ -392,7 +392,7 @@ a:hover {
   /* Change color of dropdown links on hover */
   .dropdown-content a:hover {
     background-color: #ddd;
-    background-image: url("images/bg-for-any-app.png");
+    background-image: url("ephesian_cards.png");
     background-repeat: no-repeat;
     color: white;
 
