@@ -173,7 +173,7 @@ header {
   
   .header-mask {
     background-color: #000; /* Black overlay */
-    opacity: 1; /* Adjust opacity to your liking */
+    opacity: 0.86;; /* Adjust opacity to your liking */
     color: #070707;
     z-index: 100;
   }
@@ -210,14 +210,14 @@ p {
 @keyframes headerIn {
     0% { opacity: 0;  } /* Start with opacity 0 */
 
-    100% { opacity: 1;  } /* End with opacity 1 */
+    100% { opacity:0;  } /* End with opacity 1 */
 }
 
 
 
 @keyframes fadeIn {
     0% { opacity: 0.1;} /* Start with opacity 0 */
-    100% { opacity: 1;} /* End with opacity 1 */
+    100% { opacity: 0.5;} /* End with opacity 1 */
 }
 
 
