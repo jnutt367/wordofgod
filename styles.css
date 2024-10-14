@@ -286,16 +286,16 @@ p {
 @keyframes pulse {
     0%, 100% {
         transform: scale(1);
-        color: rgb(21, 241, 241);
+        color: rgb(242, 246, 246);
         font-family: fantasy;
-        background-color: #9b829b;
-        opacity: 0.7;
+        background-color: #100110;
+        opacity: 1;
        
     }
     50% {
         transform: scale(1.001);
         color: rgb(227, 211, 227);
-        opacity: 0.3;
+        opacity: 0.7;
     }
 
 
@@ -304,7 +304,7 @@ p {
         color: rgb(9, 9, 9);
         font-family: fantasy;
         background-color: #675668;
-        opacity: 0.5;
+        opacity: 1;
     }
 }
 
