@@ -12,12 +12,14 @@ body {
     margin: 0;
     padding: 0;
 }
+
 .bi-arrow-left-square-fill {
     padding-top: 150px;
 }
 
 .bi-arrow-right-square-fill {
     padding-top: 150px;
+    padding-right: none;
 }
 .smooth-transition {
     display: none;
@@ -162,17 +164,23 @@ header {
     background-image: url("workshop.png");
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: #8c6e8e;
+    background-color: #3B3F54; /* Darker background color */
     color: aliceblue;
     padding-bottom: 2rem;
     padding: 1rem;
     text-align: center;
-}
-.header-mask {
-    background-color: #010b0e;
-    opacity: 1;
+  }
+  
+  .header-mask {
+    background-color: #000; /* Black overlay */
+    opacity: 1; /* Adjust opacity to your liking */
+    color: #070707;
     z-index: 100;
-} 
+  }
+
+
+
+
 .take-heart {
     font-weight: bold;
     text-align: center;
@@ -188,13 +196,14 @@ p {
     text-align: center;
     animation: fadeIn 1s ease-in-out; /* Animation duration and timing */
     font-family: fantasy;
-    color: rgb(242, 243, 248);
+    color: rgb(8, 8, 8);
+    text-shadow: 1px 1px #ccd2d2;
    
 }
 .header-fade {
     font-weight: bold;
     text-align: center;
-    animation: fadeIn 2s ease-in-out; /* Animation duration and timing */
+    animation: fadeIn 2s ease-in; /* Animation duration and timing */
 }
 
 
@@ -208,7 +217,7 @@ p {
 
 @keyframes fadeIn {
     0% { opacity: 0.1;} /* Start with opacity 0 */
-    100% { opacity: 0.5;} /* End with opacity 1 */
+    100% { opacity: 1;} /* End with opacity 1 */
 }
 
 
