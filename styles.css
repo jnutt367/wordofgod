@@ -233,8 +233,8 @@ header {
   
   .header-mask {
     background-color: #000; /* Black overlay */
-    opacity: 0.9; /* Adjust opacity to your liking */
-    color: #070707;
+    opacity: 0.95; /* Adjust opacity to your liking */
+    color: #f7f3f6;
     z-index: 100;
   }
 
