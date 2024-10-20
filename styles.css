@@ -221,7 +221,7 @@ h1 {
 }
 /* Header Styles */
 header {
-    background-image: url("images/paper.jpeg");
+    background-image: url("images/old_paper_stock.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #3B3F54; /* Darker background color */
@@ -257,8 +257,8 @@ p {
     text-align: center;
     animation: fadeIn 1.5s ease-in-out; /* Animation duration and timing */
     font-family: fantasy;
-    color: rgb(8, 8, 8);
-    text-shadow: 1px 1px #ccd2d2;
+    color: rgb(255, 248, 248);
+    text-shadow: 1px 1px black;
    
 }
 .header-fade {
@@ -407,7 +407,7 @@ a:hover {
   .dropbtn:hover {
    color: rgb(247, 243, 247);
     background-color:rgb(12, 248, 248);
-    background-image: url("images/paper.jpeg");
+    background-image: url("images/old_paper_stock.png");
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -510,7 +510,7 @@ a:hover {
 }
 
 .book-card p {
-    background-image: url("images/paper.jpeg");
+    background-image: url("images/old_paper_stock.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-color: #170505;
@@ -590,7 +590,7 @@ a:hover {
 
 @media (min-width: 769px) {
     header {
-        background-image: url("images/paper.jpeg");
+        background-image: url("images/old_paper_stock.png");
         opacity: 0.7;
         background-size: cover;
         color: blanchedalmond;
@@ -683,7 +683,7 @@ a:hover {
 
 @media (min-width: 1024px) {
     header {
-        background-image: url("images/paper.jpeg");
+        background-image: url("images/old_paper_stock.png");
         opacity: 0.7;
         background-size: cover;
         color: blanchedalmond;
