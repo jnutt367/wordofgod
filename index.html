@@ -292,14 +292,15 @@
       div.id = 'aichatbot';
       d.body.appendChild(div);
       w.chatbotConfig = args;
-    
       var f = d.getElementsByTagName(s)[0],
       j = d.createElement(s);
       j.defer = true;
       j.type = 'module';
       j.src = 'https://aichatbot.sendbird.com/index.js';
       f.parentNode.insertBefore(j, f);
-    }(window, document, 'script', '8F43F37F-A55B-45A1-9A7B-EA186C5BEAEC', 'onboarding_bot');
+    }(window, document, 'script', '8F43F37F-A55B-45A1-9A7B-EA186C5BEAEC', 'onboarding_bot', {
+      apiHost: 'https://api-cf-us-3.sendbird.com',
+    });
     </script>
    
     <script src="js/json.js"></script>
