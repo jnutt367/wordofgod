@@ -21,7 +21,9 @@
     margin: 15% auto;
     position: relative;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    border-left: 6px solid #2c7a7b;
+    border-top: 16px solid #6c8384;
+    border-left: 16px solid #2c7a7b;
+    border-bottom: 16px solid #6c8384;
 }
 
 .modal-content h2 {
