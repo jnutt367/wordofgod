@@ -24,6 +24,7 @@
     border-top: 16px solid #6c8384;
     border-left: 16px solid #2c7a7b;
     border-bottom: 16px solid #6c8384;
+    overflow: auto;
 }
 
 .modal-content h2 {
@@ -37,6 +38,7 @@
     line-height: 1.6;
     color: #333;
     font-family: fantasy;
+    overflow: auto;
 }
 
 /* Close Button */
@@ -47,6 +49,7 @@
     font-size: 24px;
     cursor: pointer;
     color: #333;
+    
 }
 
 /*End styles for modal window*/
