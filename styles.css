@@ -55,7 +55,7 @@
 /*End styles for modal window*/
 
 .fade-in {
-    animation: fadeIn 2s;
+    animation: fadeIn 4s;
   }
   
   @keyframes fadeIn {
