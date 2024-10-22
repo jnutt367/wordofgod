@@ -2,244 +2,244 @@
     "books": [
       {
         "title": "Genesis",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "In the beginning, God created the Heavens and the Earth. ... and the Spirit of God was hovering over the waters.",
         "link": "genesis.html"
     },
       {
         "title": "Exodus",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "Honor your father and your mother, so that you may live long in the land the Lord your God is giving you.",
         "link": "exodus.html"
       },
       {
         "title": "Leviticus",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "Don't seek revenge | bear a grudge against anyone among your people, love your neighbor as yourself. I am the Lord.",
         "link": "leviticus.html"
       },
       {
         "title": "Numbers",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "The Lord is slow to anger, abounding in love and forgiving sin and rebellion. Yet he does not leave the guilty unpunished",
         "link": "numbers.html"
       },
       {
         "title": "Deuteronomy",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "Hear, O Israel, The Lord our God, the Lord is one. Love the Lord your God with all your heart & soul & all your strength",
         "link": "deuteronomy.html"
       },
       {
         "title": "Joshua",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": " then choose for yourselves this day whom you will serve ... as for me and my household, we will serve the Lord",
         "link": "joshua.html"
       },
       {
         "title": "Judges",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "And the Angel of the Lord appeared to him and said to him, The Lord is with you, you mighty man of courage",
         "link": "judges.html"
       },
       {
         "title": "Ruth",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "May you be richly rewarded by the Lord, the God of Israel, under whose wings you have come to take refuge.",
         "link": "ruth.html"
       },
       {
         "title": "1 Samuel",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "There is no one holy like the Lord; there is no one besides you;there is no Rock like our God.",
         "link": "samuel-1.html"
       },
       {
         "title": "2 Samuel",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "Though you are little in your own eyes, aren't you the head of the tribes of Israel? The Lord anointed you king over Israel",
         "link": "samuel-2.html"
       },
       {
         "title": "1 Kings",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "So be strong, act like a man, and observe what the Lord your God requires: Walk in obedience to him .",
         "link": "kings-1.html"
       },
       {
         "title": "2 Kings",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "Don't be afraid. Those  with us are more than those who are with them ..., Open his eyes, LORD, so that he may see",
         "link": "kings-2.html"
       },
       {
         "title": "1 Chronicles",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "Tell of all his wonderful acts.Glory in his holy name; let the hearts of those who seek the Lord rejoice.",
         "link": "chronicles-1.html"
       },
       {
         "title": "2 Chronicles",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "He gave them these orders: “You must serve faithfully and wholeheartedly in the fear of the Lord. ",
         "link": "chronicles-2.html"
       },
       {
         "title": "Ezra",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "Praise be to the Lord, the God of our ancestors",
         "link": "ezra.html"
       },
       {
         "title": "Nehemiah",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "Hear us, our God, for we are despised. Turn their insults back on their own heads. Give them over ...",
         "link": "nehemiah.html"
       },
       {
         "title": "Esther",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "If I have found favor with you, Your Majesty, and if it pleases you, grant me my life—this is my petition",
         "link": "esther.html"
       },
       {
         "title": "Job",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "After Job had prayed for his friends, the Lord restored his fortunes and gave him twice as much as he had before. ",
         "link": "job.html"
       },
       {
         "title": "Psalms",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "Guide me in your truth and teach me, for you are God my Savior, and my hope is in you all day long",
         "link": "https://mypsalms.vercel.app/"
       },
       {
         "title": "Proverbs",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "A wicked person earns deceptive wages, but the one who sows righteousness reaps a sure reward.",
         "link": "https://myproverbs.vercel.app/"
       },
       {
         "title": "Ecclesiastes",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "He has made everything beautiful in its time. He has also set eternity in the human heart",
         "link": "https://myproverbs.vercel.app/#ecclesiastes"
       },
       {
         "title": "Song of Solomon",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "Awake, north wind, and come, south wind! Blow on my garden, that its fragrance may spread everywhere",
         "link": "https://myproverbs.vercel.app/#song_of_songs"
       },
       {
         "title": "Isaiah",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "The ransomed of the Lord will return. They will enter Zion with singing; everlasting joy will crown their heads. ",
        "link":"https://the-revelation.vercel.app/#isaiah"
 
       },
       {
         "title": "Jeremiah",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "Call to me and I will answer you and tell you great and unsearchable things you do not know.",
         "link":"https://the-revelation.vercel.app/"
       },
       {
         "title": "Lamentations",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "For no one is cast off by the Lord forever. Though he brings grief, he will show compassion, so great is his unfailing love.",
         "link": "https://the-revelation.vercel.app/#lamentations"
       },
       {
         "title": "Ezekiel",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "Then you, my people, will know that I am the Lord, when I open your graves and bring you up from them.",
         "link": "https://the-revelation.vercel.app/#ezekiel"
       },
       {
         "title": "Daniel",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "We do not make requests of you because we are righteous, but because of your great mercy.",
         "link": "https://the-revelation.vercel.app/#daniel"
       },
       {
         "title": "Hosea",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "I will heal their waywardness and love them freely, for my anger has turned away from them.",
         "link": "https://the-revelation.vercel.app/#hosea"
       },
       {
         "title": "Joel",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "Be glad, people of Zion, rejoice in the Lord your God, for he has given you the autumn rains because he is faithful",
         "link": "https://the-revelation.vercel.app/#joel"
       },
       {
         "title": "Amos",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": " I will send a famine through the land— not a famine of food or a thirst for water, but a famine of hearing the words of the Lord.",
         "link": "https://the-revelation.vercel.app/#amos"
      
       },
       {
         "title": "Obadiah",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "Though you soar like the eagle and make your nest among the stars, from there I will bring you down",
         "link": "https://the-revelation.vercel.app/#obadiah"
       },
       {
         "title": "Jonah",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "But I, with shouts of grateful praise, will sacrifice to you. What I have vowed I will make good",
         "link": "https://the-revelation.vercel.app/#jonah"
       },
       {
         "title": "Micah",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "Who is a God like you, who pardons sin and forgives the transgression of the remnant of his inheritance?",
         "link": "https://the-revelation.vercel.app/#micah"
       },
       {
         "title": "Nahum",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "The Lord is good, a refuge in times of trouble. He cares for those who trust in him",
         "link": "https://the-revelation.vercel.app/#nahum"
       },
       {
         "title": "Habakkuk",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "though there are no sheep in the pen and no cattle in the stalls, yet I will rejoice in the Lord, I will be joyful in God my Savior.",
         "link": "https://the-revelation.vercel.app/#habakkuk"
       },
       {
         "title": "Zephaniah",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "The Lord your God is with you, the Mighty Warrior who saves. He will take great delight in you",
         "link": "https://the-revelation.vercel.app/#zephaniah"
       },
       {
         "title": "Haggai",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "The glory of this present house will be greater than the glory of the former house,’ says the Lord Almighty",
         "link": "https://the-revelation.vercel.app/#haggai"
       },
       {
         "title": "Zechariah",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "This is what the Lord Almighty says: ‘Administer true justice; show mercy and compassion to one another",
         "link": "https://the-revelation.vercel.app/#zechariah"
       },
       {
         "title": "Malachi",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "But for you who revere my name, the sun of righteousness will rise with healing in its rays",
         "link": "https://the-revelation.vercel.app/#malachi"
       },
 
       {
         "title": "The New Covenant",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "Hebrews 8:10 (New International Version): This is the covenant I will establish with the people of Israel after that time, declares the Lord. I will put my laws in their minds and write them on their hearts. I will be their God, and they will be my people. ~ Here's a copmiled list of Jesus' Parables I made as a side project.",
         "link": "parables.html"
       },
@@ -247,168 +247,168 @@
 
       {
         "title": "Matthew",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "But seek first his kingdom and his righteousness, and all these things will be given to you as well.",
         "link": "matthew.html"
       },
       {
         "title": "Mark",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "For even the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many.",
         "link": "mark.html"
       },
       {
         "title": "Luke",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "For the Son of Man came to seek and to save the lost ... Do to others as you would have them do to you.",
         "link": "luke.html"
       },
       {
         "title": "John",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "I am the way and the truth and the life. No one comes to the Father except through me.",
         "link": "john.html"
       },
       {
         "title": "Acts",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "Repent, then, and turn to God, so that your sins may be wiped out, that times of refreshing may come from the Lord.",
         "link": "https://john-zeta.vercel.app/#acts"
       },
       {
         "title": "Romans",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "For I am not ashamed of the gospel, because it is the power of God that brings salvation to everyone who believes"
       },
       {
         "title": "1 Corinthians",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "For the foolishness of God is wiser than human wisdom, and the weakness of God is stronger than human strength",
         "link": "https://first-corinthians.vercel.app/"
       },
       {
         "title": "2 Corinthians",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!",
         "link": "https://-corinthians.vercel.app/"
       },
       {
         "title": "Galatians",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "Are you so foolish? After beginning by means of the Spirit, are you now trying to finish by means of the flesh?",
         "link": "https://galatians.vercel.app/"
       },
       {
         "title": "Ephesians",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "I pray that the eyes of your heart may be enlightened in order that you may know the hope to which he has called you",
         "link": "https://ephesians.vercel.app/"
       },
       {
         "title": "Philippians",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "And being found in appearance as a man, he humbled himself by becoming obedient to death— even death on a cross!",
         "link": "https://phillipians.vercel.app/"
       },
       {
         "title": "Colossians",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "The Son is the image of the invisible God, the firstborn over all creation. For in him all things were created:",
         "link": "https://colossians.vercel.app/"
       },
       {
         "title": "1 Thessalonians",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "you welcomed the message in the midst of severe suffering with the joy given by the Holy Spirit",
         "link": "https://first-corinthians.vercel.app/#first_thessalonians"
       },
       {
         "title": "2 Thessalonians",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "The lawless one will be revealed, whom the Lord Jesus will overthrow with the breath of his mouth...",
         "link": "https://second-corinthians.vercel.app/#second_thessalonians"
       },
       {
         "title": "1 Timothy",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "Here is a trustworthy saying that deserves full acceptance: Christ Jesus came into the world to save sinners",
         "link": "https://matthew-coral.vercel.app/#first_timothy"
       },
       {
         "title": "2 Timothy",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline",
         "link": "https://mark-alpha.vercel.app/#second_timothy"
       },
       {
         "title": "Titus",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "To the pure, all things are pure, but to those who are corrupted and do not believe, nothing is pure",
         "link": "https://luke-three.vercel.app/#titus"
       },
       {
         "title": "Philemon",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "It is as none other than Paul—an old man, now also a prisoner of Christ Jesus—that I appeal to you for my son Onesimus",
         "link": "https://john-zeta.vercel.app/#philemon"
       },
       {
         "title": "Hebrews",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "For here we do not have an enduring city, but we are looking for the city that is to come",
         "link": "https://acts-zeta.vercel.app/#hebrews"
       },
       {
         "title": "James",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "Count it all joy, brothers, when you meet trials of various kinds, you know that the testing of your faith produces patience",
         "link": "https://romans-five.vercel.app/#james"
         },
       {
         "title": "1 Peter",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "But just as he who called you is holy, so be holy in all you do; for it is written: “Be holy, because I am holy.",
         "link": "https://galatians.vercel.app/#first_peter"
       },
       {
         "title": "2 Peter",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "Above all, you must understand that in the last days scoffers will come, scoffing and following their own evil desires.",
         "link": "https://galatians.vercel.app/#second_peter"
       },
       {
         "title": "1 John",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "We proclaim to you what we have seen and heard, so that you also may have fellowship with us....",
         "link": "https://ephesians.vercel.app/#first_john"
       },
       {
         "title": "2 John",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "It has given me great joy to find some of your children walking in the truth, as the Father commanded us",
         "link": "https://ephesians.vercel.app/#second_john"
       },
       {
         "title": "3 John",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "I pray you may enjoy good health and that all may go well with you, even as your soul is getting along well",
         "link": "https://ephesians.vercel.app/#third_john"
       },
       {
         "title": "Jude",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "I felt compelled to write & urge you to contend for the faith once for all entrusted to God’s holy people",
         "link": "https://phillipians.vercel.app/#jude"
       },
       {
         "title": "The Revelation",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "The revelation of Jesus Christ in a vision to John, on the Island of Patmos, while he was in exile for the Word",
         "link": "https://phillipians.vercel.app/#revelation"
       },
       {
         "title": "Enoch",
-        "image": "heart.png",
+        "image": "images/heart.png",
         "description": "The five lost (hidden) books of Enoch and the Watchers",
         "link": "enoch-1.html"
       }
