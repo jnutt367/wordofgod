@@ -54,7 +54,18 @@
 
 /*End styles for modal window*/
 
-
+.fade-in {
+    animation: fadeIn 2s;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
 
 
 
@@ -363,6 +374,7 @@ p {
     opacity: 0.8;
     padding: 1rem;
     font-family: 'Courier New', Courier, monospace;
+    border-radius: 50%; 
 }
 
 
@@ -606,7 +618,8 @@ a:hover {
       
     }
     .animated-text {
-        display: none;
+      
+        border-radius: 15px; 
     }
     .iframe {
         height: 300px;
