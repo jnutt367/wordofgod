@@ -283,8 +283,8 @@ p {
     text-align: center;
     animation: fadeIn 1.5s ease-in-out; /* Animation duration and timing */
     font-family: fantasy;
-    color: rgb(8, 7, 7);
-    text-shadow: 1px 1px white;
+    color: white;
+    text-shadow: 1px 1px rgb(8, 7, 7);
    
 }
 .header-fade {
