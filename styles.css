@@ -52,8 +52,10 @@
     color: #333;
     
 }
-
-/*End styles for modal window*/
+.contributions {
+    color: red;
+    font-size: 2rem;
+}/*End styles for modal window*/
 
 .fade-in {
     animation: fadeIn 4s;
@@ -72,10 +74,7 @@
 
 
 
-.contributions {
-    color: red;
-    font-size: 2rem;
-}
+
 
 
 
