@@ -259,7 +259,7 @@ header {
   
   .header-mask {
     background-color: #000; /* Black overlay */
-    opacity: 0.95; /* Adjust opacity to your liking */
+    opacity: 0.5; /* Adjust opacity to your liking */
     color: #f7f3f6;
     z-index: 100;
   }
