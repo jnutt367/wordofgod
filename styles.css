@@ -41,7 +41,9 @@
     font-family: fantasy;
     overflow: auto;
 }
-
+.image {
+    width: 100%;
+}
 /* Close Button */
 .close-button {
     position: absolute;
