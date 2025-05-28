@@ -54,8 +54,13 @@
 }
 .contributions {
     color: red;
-    font-size: 2rem;
+    font-size: 1rem;
 }/*End styles for modal window*/
+.contributions:hover {
+    color: aqua;
+    font-size: 1.1rem;
+}
+
 
 .fade-in {
     animation: fadeIn 4s;
