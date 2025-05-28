@@ -245,7 +245,7 @@ h1 {
 }
 /* Header Styles */
 header {
-    background-image: url("images/cover.webp");
+    background-image: url("images/bg-image-header_spacehead.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #3B3F54; /* Darker background color */
