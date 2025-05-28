@@ -245,7 +245,7 @@ h1 {
 }
 /* Header Styles */
 header {
-    background-image: url("featured_channel.jpg");
+    background-image: url("workshop.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #3B3F54; /* Darker background color */
@@ -617,7 +617,7 @@ a:hover {
 
 @media (min-width: 769px) {
     header {
-        background-image: url("featured_channel.jpg");
+        background-image: url("workshop.png");
         opacity: 0.7;
         background-size: cover;
         color: blanchedalmond;
@@ -711,7 +711,7 @@ a:hover {
 
 @media (min-width: 1024px) {
     header {
-        background-image: url("featured_channel.jpg");
+        background-image: url("workshop.png");
         opacity: 0.7;
         background-size: cover;
         color: blanchedalmond;
