@@ -617,7 +617,7 @@ a:hover {
 
 @media (min-width: 769px) {
     header {
-        background-image: url("images/cover.webp");
+        background-image: url("featured_channel.jpg");
         opacity: 0.7;
         background-size: cover;
         color: blanchedalmond;
@@ -711,7 +711,7 @@ a:hover {
 
 @media (min-width: 1024px) {
     header {
-        background-image: url("images/cover.webp");
+        background-image: url("featured_channel.jpg");
         opacity: 0.7;
         background-size: cover;
         color: blanchedalmond;
