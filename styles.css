@@ -523,7 +523,7 @@ a:hover {
 }
 .book-card img {
 
-    width: 75%;
+    width: 100%;
     height: 200px;
     border-radius: 10px 10px 0 0;
     border: 2px solid black;
