@@ -260,7 +260,7 @@ header {
   
   .header-mask {
     background-color: black; /* Black overlay */
-    opacity: 0.9; /* Adjust opacity to your liking */
+    opacity: 0.5; /* Adjust opacity to your liking */
     color: #02260c;
     z-index: 100;
   }
