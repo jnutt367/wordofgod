@@ -132,7 +132,7 @@ body {
     background-color: #000;
 }
 main {
-    background-color:#185738;
+    background-color:#02260c;
     margin-bottom: 2rem;
 }
 
@@ -261,7 +261,7 @@ header {
   .header-mask {
     background-color: black; /* Black overlay */
     opacity: 0.9; /* Adjust opacity to your liking */
-    color: black;
+    color: #02260c;
     z-index: 100;
   }
 
