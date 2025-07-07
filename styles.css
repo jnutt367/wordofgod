@@ -219,6 +219,8 @@ main {
 .overcome {
     position:relative;
     top: 30px;
+    
+    font-family: Serif;
     text-shadow: none;
     font-size: x-large;
     z-index: 100;
@@ -326,7 +328,7 @@ p {
     0%, 100% {
         transform: scale(1);
         color: rgb(242, 246, 246);
-        font-family: fantasy;
+        font-family: san-serif;
         background-color: #100110;
         opacity: 0.5;
        
@@ -342,7 +344,7 @@ p {
     75% {
         transform: scale(1);
         color: rgb(9, 9, 9);
-        font-family: fantasy;
+        font-family: san-serif;
         background-color: #ac6bb0;
         opacity: 0.7;
     }
