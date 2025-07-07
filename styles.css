@@ -34,13 +34,15 @@
     color: #2c7a7b;
     font-family: Oxygen;    
 }
+
 .contribute {
     color:red;
-    font-size:1.2rem;
+    font-size:1.1rem;
 }
+
 .contribute:hover {
-     color:green;
-    font-size:1.2rem;
+    color:green;
+    font-size:1.1rem;
 } 
    
 
