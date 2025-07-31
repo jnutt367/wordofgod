@@ -422,20 +422,20 @@ a:hover {
 }
 #toggleDropdown {
     background-color: #93418c;
-    color: #f2dddd;
+    color: white;
     border: none;
     padding: 0.5rem 1rem;
     cursor: pointer;
     z-index: 10;
 }
 #toggleDropdown:hover {
-    color:rgb(238, 236, 224);
+    color: white;
 }
 /* Dropdown container */
 .dropdown {
     position: relative;
     display: inline-block;
-    color: #ffffff;
+    color: white;
   }
   
   /* Dropdown button */
@@ -443,7 +443,7 @@ a:hover {
     background-color: transparent;
     padding: 0.5rem;
     cursor: pointer;
-    color:#c7dede;
+    color: white;
   }
   .dropbtn:hover {
     color: white;
