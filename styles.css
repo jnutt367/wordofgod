@@ -10,7 +10,7 @@
     border-radius: 10px;
     width: 50%;
     height: 50%;
-    color: white;
+    color: black;
     background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
 }
 
@@ -27,23 +27,23 @@
     border-left: 16px solid #2c7a7b;
     border-bottom: 16px solid #6c8384;
     overflow: auto;
-    color: white;
+    color: black;
 }
 
 .modal-content h2 {
     margin-top: 0;
     font-size: 20px;
-    color: white;
+    color: black;
     font-family: Serif;    
 }
 
 .contribute {
-    color:red;
+    color:green;
     font-size:1.1rem;
 }
 
 .contribute:hover {
-    color:green;
+    color:gold;
     font-size:1.1rem;
 } 
    
@@ -51,7 +51,7 @@
 .modal-content p {
     font-size: 16px;
     line-height: 1.6;
-    color: white;
+    color: black;
     font-family: san-serif;
     overflow: auto;
 }
@@ -69,11 +69,11 @@
     
 }
 .contributions {
-    color: red;
+    color: green;
     font-size: 1rem;
 }/*End styles for modal window*/
 .contributions:hover {
-    color: green;
+    color: red;
     font-size: 1.00009rem;
 }
 
