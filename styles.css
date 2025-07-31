@@ -446,7 +446,7 @@ a:hover {
     color:#c7dede;
   }
   .dropbtn:hover {
-   color: rgb(247, 243, 247);
+    color: white;
     background-color:rgb(12, 248, 248);
     background-image: url("images/genesis2.png");
     background-size: cover;
