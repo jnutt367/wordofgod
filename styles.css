@@ -261,7 +261,7 @@ h1 {
 }
 /* Header Styles */
 header {
-    background-image: url("workshop.png");
+    background-image: url("images/Jesus Love Revealed with Jason & Gavin July 30.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-color: black; /* Darker background color */
@@ -633,7 +633,7 @@ a:hover {
 
 @media (min-width: 769px) {
     header {
-        background-image: url("workshop.png");
+        background-image: url("images/Jesus Love Revealed with Jason & Gavin July 30.jpg");
         opacity: 0.7;
         background-size: cover;
         color: blanchedalmond;
@@ -727,7 +727,7 @@ a:hover {
 
 @media (min-width: 1024px) {
     header {
-        background-image: url("workshop.png");
+        background-image: url("images/Jesus Love Revealed with Jason & Gavin July 30.jpg");
         opacity: 0.7;
         background-size: cover;
         color: blanchedalmond;
