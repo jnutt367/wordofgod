@@ -473,13 +473,12 @@ a:hover {
   
   /* Links inside the dropdown */
   .dropdown-content a {
-    color: white;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
     text-align: left;
     background-color: transparent;
-    
+    color: white;
   }
   
   /* Show the dropdown menu on hover */
