@@ -448,7 +448,7 @@ a:hover {
   .dropbtn:hover {
    color: rgb(247, 243, 247);
     background-color:rgb(12, 248, 248);
-    background-image: url("images/cover.webp");
+    background-image: url("images/genesis2.png");
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -486,7 +486,7 @@ a:hover {
     left: -50px;
     color: white;
     background-color:rgb(12, 248, 248);
-    background-image: url("ephesian_cards.png");
+    background-image: url("genesis2.png");
     background-repeat: no-repeat;
 
     grid-template-columns: 1fr 1fr;
@@ -495,7 +495,7 @@ a:hover {
   /* Change color of dropdown links on hover */
   .dropdown-content a:hover {
     background-color: #ddd;
-    background-image: url("ephesian_cards.png");
+    background-image: url("genesis2.png");
     background-repeat: no-repeat;
     color: white;
 
