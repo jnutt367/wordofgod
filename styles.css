@@ -450,7 +450,7 @@ a:hover {
   .dropbtn:hover {
     color: white;
     background-color:rgb(12, 248, 248);
-    background-image: url("images/genesis2.png");
+    background-image: url("old_paper_stock.png");
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -487,7 +487,7 @@ a:hover {
     left: -50px;
     color: white;
     background-color:rgb(12, 248, 248);
-    background-image: url("genesis2.png");
+    background-image: url("old_paper_stock.png");
     background-repeat: no-repeat;
 
     grid-template-columns: 1fr 1fr;
@@ -496,7 +496,7 @@ a:hover {
   /* Change color of dropdown links on hover */
   .dropdown-content a:hover {
     background-color: #ddd;
-    background-image: url("genesis2.png");
+    background-image: url("old_paper_stock.png");
     background-repeat: no-repeat;
     color: white;
 
