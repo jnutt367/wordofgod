@@ -331,7 +331,7 @@ p {
         transform: scale(1);
         color: rgb(242, 246, 246);
         font-family: san-serif;
-        background-color: #100110;
+        background-color: transparent;
         opacity: 0.5;
        
     }
@@ -347,7 +347,7 @@ p {
         transform: scale(1);
         color: rgb(9, 9, 9);
         font-family: san-serif;
-        background-color: #ac6bb0;
+        background-color: transparent;
         opacity: 0.7;
     }
 }
