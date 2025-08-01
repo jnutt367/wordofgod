@@ -17,6 +17,7 @@
 /* Modal Content */
 .modal-content {
     background-color: #fff;
+    background-image: url("images/white-paper.jpeg");
     border-radius: 10px;
     padding: 20px;
     max-width: 600px;
