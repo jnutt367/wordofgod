@@ -266,7 +266,7 @@ h1 {
 }
 /* Header Styles */
 header {
-    background-image: url("images/Jesus Love Revealed with Jason & Gavin July 30.jpg");
+    background-image: url("images/wogr-hero-banner.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-color: black; /* Darker background color */
@@ -637,7 +637,7 @@ a:hover {
 
 @media (min-width: 769px) {
     header {
-        background-image: url("images/Jesus Love Revealed with Jason & Gavin July 30.jpg");
+        background-image: url("images/wogr-hero-banner.jpg");
         opacity: 0.7;
         background-size: cover;
         color: blanchedalmond;
@@ -731,7 +731,7 @@ a:hover {
 
 @media (min-width: 1024px) {
     header {
-        background-image: url("images/Jesus Love Revealed with Jason & Gavin July 30.jpg");
+        background-image: url("images/wogr-hero-banner.jpg");
         opacity: 0.7;
         background-size: cover;
         color: blanchedalmond;
@@ -778,3 +778,72 @@ a:hover {
 
     }
 }
+
+/* ---------- Chapter reader overlay (js/reader.js) ---------- */
+.wogr-reader { position: fixed; inset: 0; z-index: 2000; display: none; }
+.wogr-reader.open { display: block; }
+.wogr-reader-backdrop {
+  position: absolute; inset: 0;
+  background: rgba(2, 22, 11, 0.85);
+  backdrop-filter: blur(3px);
+}
+.wogr-reader-card {
+  position: relative;
+  max-width: 720px;
+  margin: 4vh auto;
+  max-height: 92vh;
+  overflow-y: auto;
+  background: #fdfbf3;
+  border-radius: 14px;
+  padding: 1.4rem 2.2rem 1.6rem;
+  box-shadow: 0 24px 80px rgba(0, 0, 0, 0.55);
+}
+.wogr-reader-close {
+  position: sticky; top: 0; float: right;
+  font-size: 2.2rem; line-height: 1;
+  background: none; border: none; cursor: pointer;
+  color: #12351f; padding: 0 0 0.4rem 0.6rem;
+}
+.wogr-reader-img {
+  width: 100%; max-height: 300px;
+  object-fit: cover; border-radius: 10px;
+  display: block; margin-top: 0.4rem;
+}
+.wogr-reader-title {
+  font-family: Georgia, 'Times New Roman', serif;
+  color: #12351f; margin: 1.2rem 0 0.6rem;
+  font-size: 1.7rem; text-shadow: none;
+}
+.wogr-reader-text {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1.12rem; line-height: 1.85;
+  color: #22352a; white-space: pre-wrap; text-shadow: none;
+}
+.wogr-reader-nav {
+  display: flex; justify-content: space-between; gap: 1rem;
+  margin-top: 1.8rem; padding-bottom: 0.4rem;
+}
+.wogr-reader-nav button {
+  background: #12351f; color: #f3ecdd;
+  border: none; border-radius: 8px;
+  padding: 0.75rem 1.3rem; font-size: 1rem; cursor: pointer;
+}
+.wogr-reader-nav button:disabled { opacity: 0.35; cursor: default; }
+.wogr-reader-nav button:not(:disabled):hover { background: #1d5a33; }
+/* Chapter cards are now clickable — show it */
+#books a { cursor: pointer; }
+#books a:hover .book-card { transform: translateY(-3px); transition: transform 0.2s; }
+
+/* ---------- Nav icon labels (injected by script2.js) ---------- */
+.sticky-nav .nav-label {
+  display: block;
+  font-size: 0.68rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #d7e8dc;
+  margin-top: 3px;
+  font-family: Roboto, sans-serif;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
+}
+.sticky-nav li a, .sticky-nav .dropbtn { color: #eef6f0; }
+.sticky-nav li a:hover .nav-label { color: #ffd977; }
