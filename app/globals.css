@@ -1,0 +1,103 @@
+@import "tailwindcss";
+
+@theme {
+  --color-vineyard-950: #0c1f16;
+  --color-vineyard-900: #10281c;
+  --color-vineyard-800: #16351f;
+  --color-vineyard-700: #1d4a2a;
+  --color-gold-300: #f0cd7e;
+  --color-gold-400: #e4b95c;
+  --color-gold-500: #d9a441;
+  --color-gold-600: #b9862f;
+  --color-cream-50: #faf6ec;
+  --color-cream-100: #f3ecdd;
+  --color-cream-200: #e7dcc3;
+  --color-sage-300: #b9cdc0;
+  --color-sage-400: #9db8a4;
+  --color-sage-500: #7fa088;
+  --color-truvine-blue: #1d4da1;
+  --color-truvine-green: #82c23f;
+
+  --font-display: "Fraunces", Georgia, serif;
+  --font-body: "Inter", system-ui, sans-serif;
+  --font-scripture: "Fraunces", Georgia, "Times New Roman", serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-vineyard-950);
+  color: var(--color-cream-100);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-vineyard-950);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-vineyard-700);
+  border-radius: 8px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-gold-600);
+}
+
+::selection {
+  background: var(--color-gold-500);
+  color: var(--color-vineyard-950);
+}
+
+/* TruVINE gradient text (blue -> green, like the wordmark) */
+.text-truvine-gradient {
+  background: linear-gradient(90deg, #4a86e8 0%, #6aa84f 55%, #82c23f 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* Vine divider ornament */
+.vine-divider {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  color: var(--color-gold-500);
+  opacity: 0.7;
+}
+.vine-divider::before,
+.vine-divider::after {
+  content: "";
+  height: 1px;
+  flex: 1;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    var(--color-gold-600),
+    transparent
+  );
+}
+
+/* Reader themes: night (vineyard) vs lamp (warm parchment) */
+.reader-theme {
+  --reader-bg: var(--color-vineyard-950);
+  --reader-ink: var(--color-cream-100);
+  --reader-muted: var(--color-sage-400);
+  --reader-faint: var(--color-sage-500);
+  --reader-verse-num: var(--color-gold-400);
+  --reader-card: var(--color-vineyard-900);
+  --reader-line: rgba(217, 164, 65, 0.18);
+}
+.reader-theme.lamp {
+  --reader-bg: #f3ead3;
+  --reader-ink: #2b2318;
+  --reader-muted: #6f6247;
+  --reader-faint: #8a7a58;
+  --reader-verse-num: #a5761f;
+  --reader-card: #faf4e3;
+  --reader-line: rgba(165, 118, 31, 0.22);
+}

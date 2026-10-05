@@ -1,0 +1,13 @@
+Cross-reference data for the Word of God Risen Bible reader.
+
+SOURCE: Derived from the "cross_references" dataset in
+scrollmapper/bible_databases (sources/extras/cross_references.txt),
+which credits www.openbible.info, CC-BY, 2024-11-04. The underlying
+cross-reference relationships originate from the Treasury of Scripture
+Knowledge (public domain). If you redistribute this file, please retain
+this attribution.
+
+BUILD: 2026-10-05. 344,799 source rows aggregated; per-verse references
+deduplicated, ranked by source "votes" (most-relevant first), top 10 kept.
+Top 10,000 verses by total votes included. 66 canonical Protestant books
+only; reference ranges reduced to their starting verse.
