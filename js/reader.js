@@ -28,6 +28,7 @@
         '<div class="wogr-reader-text"></div>' +
         '<div class="wogr-reader-nav">' +
           '<button type="button" class="wogr-reader-prev">&larr; Previous</button>' +
+          '<button type="button" class="wogr-reader-read">\u2713 Mark as read</button>' +
           '<button type="button" class="wogr-reader-next">Next &rarr;</button>' +
         '</div>' +
       '</div>';
@@ -39,6 +40,7 @@
     var textEl  = overlay.querySelector('.wogr-reader-text');
     var prevBtn = overlay.querySelector('.wogr-reader-prev');
     var nextBtn = overlay.querySelector('.wogr-reader-next');
+    var readBtn = overlay.querySelector('.wogr-reader-read');
     var current = -1;
 
     function chapterLinks() {
@@ -70,9 +72,43 @@
       cardEl.scrollTop = 0;
       prevBtn.disabled = (i === 0);
       nextBtn.disabled = (i === links.length - 1);
+      refreshReadBtn();
       overlay.classList.add('open');
       document.body.style.overflow = 'hidden';
+      // Deep-linkable URL: genesis.html#read=4
+      try { history.replaceState(null, '', '#read=' + i); } catch (e) {}
       overlay.querySelector('.wogr-reader-close').focus();
+    }
+
+    function refreshReadBtn() {
+      if (!window.WOGRProgress) { readBtn.style.display = 'none'; return; }
+      var read = WOGRProgress.isRead(WOGRProgress.pageId(), current);
+      readBtn.innerHTML = read ? '\u2713 Read \u2014 tap to undo' : '\u2713 Mark as read';
+      readBtn.classList.toggle('is-read', !!read);
+    }
+
+    function toggleRead() {
+      if (!window.WOGRProgress || current < 0) return;
+      var page = WOGRProgress.pageId();
+      var links = chapterLinks();
+      var d = dataFromLink(links[current]);
+      var nowRead = WOGRProgress.toggle(page, current, d.title);
+      refreshReadBtn();
+      // Update the card badge live, without a re-render.
+      var card = links[current].querySelector('.book-card');
+      if (card) {
+        card.classList.toggle('is-read', nowRead);
+        var badge = card.querySelector('.read-badge');
+        if (nowRead && !badge) {
+          badge = document.createElement('span');
+          badge.className = 'read-badge';
+          badge.textContent = '\u2713 Read';
+          badge.setAttribute('aria-label', 'Chapter already read');
+          card.appendChild(badge);
+        } else if (!nowRead && badge) {
+          badge.parentNode.removeChild(badge);
+        }
+      }
     }
 
     function close() {
@@ -94,12 +130,22 @@
     overlay.querySelector('.wogr-reader-backdrop').addEventListener('click', close);
     prevBtn.addEventListener('click', function () { openAt(current - 1); });
     nextBtn.addEventListener('click', function () { openAt(current + 1); });
+    readBtn.addEventListener('click', toggleRead);
     document.addEventListener('keydown', function (e) {
       if (!overlay.classList.contains('open')) return;
       if (e.key === 'Escape') close();
       else if (e.key === 'ArrowLeft') openAt(current - 1);
       else if (e.key === 'ArrowRight') openAt(current + 1);
     });
+
+    // Deep links: genesis.html#read=4 opens chapter 4 once cards render.
+    function openFromHash() {
+      var m = /^#read=(\d+)$/.exec(location.hash || '');
+      if (m) openAt(parseInt(m[1], 10));
+    }
+    container.addEventListener('wogr:chapters-ready', openFromHash);
+    window.addEventListener('hashchange', openFromHash);
+    if (container.querySelectorAll('a').length) openFromHash();
   }
 
   if (document.readyState === 'loading') {

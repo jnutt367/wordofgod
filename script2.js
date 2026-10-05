@@ -48,4 +48,16 @@ document.addEventListener('DOMContentLoaded', function() {
         icon.after(s);
       }
     });
+
+    // ---------- Search button in the nav (opens js/search.js overlay) -----
+    var navUl = document.querySelector('.sticky-nav ul');
+    if (navUl && !navUl.querySelector('.wogr-search-open')) {
+      var searchLi = document.createElement('li');
+      searchLi.innerHTML = '<button type="button" class="wogr-search-open" aria-label="Search every chapter">' +
+        '<i class="bi bi-search"></i><span class="nav-label">Search</span></button>';
+      navUl.appendChild(searchLi);
+      searchLi.querySelector('button').addEventListener('click', function () {
+        if (window.WOGRSearch) window.WOGRSearch.open();
+      });
+    }
   });
